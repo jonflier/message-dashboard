@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="en" class="h-full bg-slate-900">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Message Content Hub</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.8/index.global.min.js'></script>
+    <style>
+        .prose p { margin-bottom: 1rem; line-height: 1.7; }
+        .prose pre, .prose code { 
+            background-color: transparent !important; 
+            padding: 0 !important; 
+            color: #e2e8f0 !important;
+            font-family: inherit !important;
+            white-space: pre-wrap !important;
+        }
+        .prose blockquote {
+            border-left: 4px solid #c9223f;
+            padding-left: 1rem;
+            color: #94a3b8;
+            font-style: italic;
+            margin: 1.5rem 0;
+        }
+        .prose table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.5rem 0;
+        }
+        .prose th, .prose td {
+            border: 1px solid #334155;
+            padding: 0.75rem;
+            text-align: left;
+        }
+        .prose th { background-color: #1e293b; }
+        .fc { --fc-border-color: #334155; --fc-page-bg-color: #0f172a; --fc-neutral-bg-color: #1e293b; --fc-list-event-hover-bg-color: #334155; }
+        .fc-toolbar-title { color: #f8fafc; font-size: 1.25rem !important; font-weight: bold; }
+        .fc-button { background-color: #c9223f !important; border: none !important; font-size: 0.875rem !important; }
+        .fc-button:hover { background-color: #a81d35 !important; }
+        .fc-daygrid-day-number, .fc-col-header-cell-cushion { color: #cbd5e1 !important; text-decoration: none !important; }
+        .fc-day-today { background-color: rgba(201, 34, 63, 0.1) !important; }
+        .fc-daygrid-event { white-space: normal !important; align-items: normal !important; padding: 2px 4px !important; }
+        .fc-event-title { font-weight: 500; line-height: 1.2; }
+    </style>
+</head>
+<body class="h-full flex flex-col text-slate-100 font-sans">
+
+    <!-- Top Navigation Header with Tabs -->
+    <header class="bg-slate-800 border-b border-slate-700 px-6 py-4 shadow-md flex flex-col md:flex-row items-center justify-between gap-4">
+        <div class="flex items-center space-x-3">
+            <h1 class="text-xl font-bold tracking-wide">Message Content Hub</h1>
+        </div>
+        <nav class="flex flex-wrap items-center gap-2 text-sm font-medium">
+            <button onclick="switchTab('upcoming')" id="tab-upcoming" class="px-3 py-1.5 rounded-lg transition bg-[#c9223f] text-white">Upcoming Messages</button>
+            <button onclick="switchTab('archived')" id="tab-archived" class="px-3 py-1.5 rounded-lg transition bg-slate-700/50 text-slate-300 hover:bg-slate-700">Archived Messages</button>
+            <button onclick="switchTab('drafts')" id="tab-drafts" class="px-3 py-1.5 rounded-lg transition bg-slate-700/50 text-slate-300 hover:bg-slate-700">Drafts</button>
+            <button onclick="switchTab('notes')" id="tab-notes" class="px-3 py-1.5 rounded-lg transition bg-slate-700/50 text-slate-300 hover:bg-slate-700">Notes</button>
+            <button onclick="switchTab('quotes')" id="tab-quotes" class="px-3 py-1.5 rounded-lg transition bg-slate-700/50 text-slate-300 hover:bg-slate-700">Quotes & Illustrations</button>
+        </nav>
+    </header>
+
+    <!-- Main Content Workspace -->
+    <main class="flex-1 flex overflow-hidden">
+        
+        <!-- Sidebar / List Panel -->
+        <aside id="sidebarPanel" class="hidden w-1/3 bg-slate-800/50 border-r border-slate-700 flex flex-col">
+            <div class="p-4 border-b border-slate-700 space-y-3">
+                <input type="text" id="searchInput" placeholder="Search all posts, notes, and messages..." 
+                    class="w-full bg-slate-900 border border-slate-700 rounded-lg px-4 py-2 text-sm text-slate-200 placeholder-slate-500 focus:outline-none focus:border-[#c9223f]">
+                <div class="flex justify-between text-xs text-slate-400 px-1">
+                    <span id="entryCount">0 entries loaded</span>
+                    <span>Sorted by Date</span>
+                </div>
+            </div>
+            <div id="entryList" class="flex-1 overflow-y-auto divide-y divide-slate-700/50">
+                <div class="p-8 text-center text-slate-500 text-sm">Loading archive feeds...</div>
+            </div>
+        </aside>
+
+        <!-- Content Reader Panel -->
+        <section id="readerSection" class="hidden flex-1 bg-slate-900 p-10 overflow-y-auto flex flex-col items-center">
+            <div id="readerPane" class="w-full max-w-3xl min-h-[80%]">
+                <div class="text-center py-20 text-slate-500">
+                    <p class="text-lg">Select an entry from the sidebar to view.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Calendar Container -->
+        <div id="calendarView" class="flex-1 bg-slate-900 p-6 overflow-y-auto flex flex-col">
+            <div id="calendar" class="w-full flex-1 bg-slate-800 p-6 rounded-xl border border-slate-700 text-slate-100 min-h-[85vh]"></div>
+        </div>
+
+    </main>
+
+    <!-- Dashboard Logic -->
+    <script>
+        let allEntries = [];
+        let currentTab = 'upcoming';
+        const currentDate = '2026-09-11';
+        let calendarInstance = null;
+
+        window.addEventListener('DOMContentLoaded', async () => {
+            const files = [
+                { name: 'blogger_export.md', source: 'Blogger' },
+                { name: 'docs_export.md', source: 'Google Doc' },
+                { name: 'sheets_export.md', source: 'Google Sheet' }
+            ];
+            
+            for (const fileInfo of files) {
+                try {
+                    const response = await fetch(fileInfo.name);
+                    if (response.ok) {
+                        const text = await response.text();
+                        parseMarkdownExport(text, fileInfo.source, fileInfo.name);
+                    }
+                } catch (err) {
+                    console.log(`Could not auto-load ${fileInfo.name}`);
+                }
+            }
+
+            if (allEntries.length > 0) {
+                allEntries.sort((a, b) => new Date(b.date) - new Date(a.date));
+            }
+
+            switchTab('upcoming');
+        });
+
+        function parseMarkdownExport(markdownText, defaultSource, fileName) {
+            const rawSections = markdownText.split(/(?=^##\s)/gm);
+
+            rawSections.forEach((section) => {
+                if (!section.trim().startsWith('##')) return;
+
+                const lines = section.trim().split('\n');
+                let titleLine = lines[0].replace('##', '').replace(/\*\*/g, '').trim();
+                
+                if (
+                    titleLine.includes("Messages & Drafts — Messages") || 
+                    titleLine.includes("Messages Sermon Archive") ||
+                    titleLine.toLowerCase() === "book notes" || 
+                    titleLine.toLowerCase() === "character studies" || 
+                    titleLine.toLowerCase() === "miscellaneous notes" || 
+                    titleLine.toLowerCase() === "drafts"
+                ) {
+                    return;
+                }
+
+                let metaLine = lines[1] || '';
+                let date = ""; 
+                let link = "";
+                let source = defaultSource;
+
+                const cleanMeta = metaLine.replace(/\*\*/g, '');
+                const dateMatch = cleanMeta.match(/(?:Published|Date):\s*([^\s|]+)/i);
+                if (dateMatch) {
+                    let rawMetaDate = dateMatch[1];
+                    if (rawMetaDate.includes('T')) {
+                        date = rawMetaDate.split('T')[0];
+                    } else if (rawMetaDate.includes('/')) {
+                        const parts = rawMetaDate.split('/');
+                        if (parts.length === 3) {
+                            let month = parts[0].padStart(2, '0');
+                            let day = parts[1].padStart(2, '0');
+                            let year = parts[2].length === 2 ? '20' + parts[2] : parts[2];
+                            date = `${year}-${month}-${day}`;
+                        }
+                    } else if (rawMetaDate.includes('.')) {
+                        const parts = rawMetaDate.split('.');
+                        if (parts.length === 3) {
+                            let year = parts[2].length === 2 ? '20' + parts[2] : parts[2];
+                            date = `${year}-${parts[0]}-${parts[1]}`;
+                        } else {
+                            date = rawMetaDate;
+                        }
+                    } else {
+                        date = rawMetaDate;
+                    }
+                }
+
+                if (!date) {
+                    const titleDateMatch = titleLine.match(/(\d{2}\.\d{2}\.\d{2})|(\d{4}-\d{2}-\d{2})/);
+                    if (titleDateMatch) {
+                        let rawDate = titleDateMatch[0];
+                        if (rawDate.includes('.')) {
+                            const parts = rawDate.split('.');
+                            if (parts.length === 3) {
+                                let year = parts[2].length === 2 ? '20' + parts[2] : parts[2];
+                                date = `${year}-${parts[0]}-${parts[1]}`;
+                            }
+                        } else {
+                            date = rawDate;
+                        }
+                    }
+                }
+
+                if (metaLine.includes('Source: Google Docs') || metaLine.includes('Source: Google Doc')) {
+                    source = "Google Doc";
+                } else if (metaLine.includes('Source: Google Sheets')) {
+                    source = "Google Sheet";
+                }
+
+                const linkMatch = metaLine.match(/\((https?:\-?[^\)]+)\)/);
+                if (linkMatch) link = linkMatch[1];
+
+                const bodyLines = lines.slice(2).filter(line => line.trim() !== '---');
+                const bodyMarkdown = bodyLines.join('\n').trim();
+
+                let category = 'archived';
+
+                if (fileName.includes('sheets')) {
+                    category = 'quotes';
+                } else if (fileName.includes('docs') || fileName.includes('blogger')) {
+                    const isNote = fileName.includes('Notes') || titleLine.toLowerCase().includes('book') || titleLine.toLowerCase().includes('elijah') || titleLine.toLowerCase().includes('training') || titleLine.toLowerCase().includes('study') || titleLine.toLowerCase().includes('revival') || titleLine.toLowerCase().includes('preach') || titleLine.toLowerCase().includes('jonah') || titleLine.toLowerCase().includes('elisha') || titleLine.toLowerCase().includes('gifts');
+                    
+                    if (isNote) {
+                        category = 'notes';
+                    } else if (!date || date === '2026-01-01' || metaLine.includes('Event (Date)')) {
+                        category = 'drafts';
+                    } else {
+                        category = date >= currentDate ? 'upcoming' : 'archived';
+                    }
+                }
+
+                if (!date) {
+                    date = '2026-01-01';
+                }
+
+                allEntries.push({
+                    id: Math.random().toString(36).substring(2, 9),
+                    title: titleLine,
+                    date: date,
+                    formattedDate: date === '2026-01-01' ? 'Unscheduled / Draft' : formatDate(date),
+                    source: source,
+                    url: link,
+                    content: bodyMarkdown,
+                    category: category
+                });
+            });
+        }
+
+        function formatDate(dateStr) {
+            if (!dateStr || dateStr === '2026-01-01') return 'Unscheduled / Draft';
+            const parts = dateStr.split('-');
+            if (parts.length === 3) {
+                const year = parseInt(parts[0], 10);
+                const month = parseInt(parts[1], 10) - 1;
+                const day = parseInt(parts[2], 10);
+                const d = new Date(year, month, day);
+                return d.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
+            }
+            return dateStr;
+        }
+
+        function switchTab(tabName) {
+            currentTab = tabName;
+            document.querySelectorAll('nav button').forEach(btn => {
+                btn.className = "px-3 py-1.5 rounded-lg transition bg-slate-700/50 text-slate-300 hover:bg-slate-700";
+            });
+            document.getElementById(`tab-${tabName}`).className = "px-3 py-1.5 rounded-lg transition bg-[#c9223f] text-white";
+
+            const sidebar = document.getElementById('sidebarPanel');
+            const reader = document.getElementById('readerSection');
+            const calendarView = document.getElementById('calendarView');
+
+            if (tabName === 'upcoming') {
+                sidebar.classList.add('hidden');
+                reader.classList.add('hidden');
+                calendarView.classList.remove('hidden');
+                initCalendar();
+            } else {
+                sidebar.classList.remove('hidden');
+                reader.classList.remove('hidden');
+                calendarView.classList.add('hidden');
+                filterAndRender();
+            }
+        }
+
+        function initCalendar() {
+            if (calendarInstance) {
+                calendarInstance.updateSize();
+                return;
+            }
+            const calendarEl = document.getElementById('calendar');
+            calendarInstance = new FullCalendar.Calendar(calendarEl, {
+                initialView: 'dayGridMonth',
+                headerToolbar: {
+                    left: 'prev,next today',
+                    center: 'title',
+                    right: ''
+                },
+                events: allEntries.filter(e => e.category === 'upcoming' || e.category === 'archived').map(entry => ({
+                    title: `${entry.title} (${entry.source})`,
+                    start: entry.date,
+                    backgroundColor: entry.category === 'upcoming' ? '#c9223f' : '#334155',
+                    borderColor: 'transparent',
+                    extendedProps: { id: entry.id, category: entry.category }
+                })),
+                eventClick: function(info) {
+                    const cat = info.event.extendedProps.category;
+                    if (cat) {
+                        switchTab(cat);
+                        selectEntry(info.event.extendedProps.id);
+                    }
+                }
+            });
+            calendarInstance.render();
+        }
+
+        function filterAndRender() {
+            const searchQuery = document.getElementById('searchInput').value.toLowerCase();
+            const filtered = allEntries.filter(entry => {
+                const matchesTab = entry.category === currentTab;
+                const matchesSearch = entry.title.toLowerCase().includes(searchQuery) || entry.content.toLowerCase().includes(searchQuery);
+                return matchesTab && matchesSearch;
+            });
+
+            renderList(filtered);
+            document.getElementById('entryCount').innerText = `${filtered.length} entries loaded`;
+            
+            if (filtered.length > 0) {
+                selectEntry(filtered[0].id);
+            } else {
+                document.getElementById('readerPane').innerHTML = `
+                    <div class="text-center py-20 text-slate-500">
+                        <p class="text-lg">No entries found in this section.</p>
+                    </div>
+                `;
+            }
+        }
+
+        function renderList(entries) {
+            const listContainer = document.getElementById('entryList');
+            if (entries.length === 0) {
+                listContainer.innerHTML = `<div class="p-6 text-center text-slate-500 text-sm">No matching entries found.</div>`;
+                return;
+            }
+
+            listContainer.innerHTML = entries.map(entry => `
+                <div onclick="selectEntry('${entry.id}')" class="p-4 hover:bg-slate-700/40 cursor-pointer transition border-l-4 border-transparent hover:border-[#c9223f] group">
+                    <div class="flex justify-between items-center text-xs text-[#c9223f] font-semibold mb-1">
+                        <span>${entry.formattedDate}</span>
+                        <span class="text-[10px] bg-slate-700 text-slate-300 px-1.5 py-0.5 rounded">${entry.source}</span>
+                    </div>
+                    <h3 class="text-sm font-medium text-slate-200 group-hover:text-white line-clamp-1">${entry.title}</h3>
+                </div>
+            `).join('');
+        }
+
+        function selectEntry(id) {
+            const entry = allEntries.find(e => e.id === id);
+            if (!entry) return;
+
+            const readerPane = document.getElementById('readerPane');
+            readerPane.innerHTML = `
+                <div class="border-b border-slate-700 pb-4 mb-6">
+                    <div class="flex items-center justify-between text-xs text-[#c9223f] mb-2">
+                        <span>${entry.formattedDate} &bull; <span class="bg-slate-700 text-slate-300 px-1.5 py-0.5 rounded">${entry.source}</span></span>
+                        ${entry.url ? `<a href="${entry.url}" target="_blank" class="text-[#c9223f] hover:underline">Open Original</a>` : ''}
+                    </div>
+                    <h2 class="text-3xl font-bold text-white mb-2">${entry.title}</h2>
+                </div>
+                <div class="prose prose-invert max-w-none text-slate-300 text-base">
+                    ${marked.parse(entry.content)}
+                </div>
+            `;
+        }
+
+        document.getElementById('searchInput').addEventListener('input', () => {
+            filterAndRender();
+        });
+    </script>
+</body>
+</html>

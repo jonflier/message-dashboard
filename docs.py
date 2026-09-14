@@ -9,10 +9,9 @@ creds = service_account.Credentials.from_service_account_file(
 
 service = build('docs', 'v1', credentials=creds)
 
-# Removed Messages & Drafts so it only pulls Notes & Miscellaneous
 DOCUMENTS_TO_PULL = [
-    {"name": "Messages & Drafts", "id": "1EEqRi20vfmEI-BEYPE_od6ojGeY9k3qQWKy9qohDMJg"},
-    {"name": "Notes & Miscellaneous", "id": "1hF4nceY0xFEcU9Fi0HB3roBytg17cZ5hGdea8foKyWs"}
+    {"name": "Messages & Drafts", "id": "1EEqRi20vfmEI-BEYPE_od6ojGeY9k3qQWKy9qohDMJg", "filename": "docs_export.md"},
+    {"name": "Notes & Miscellaneous", "id": "1hF4nceY0xFEcU9Fi0HB3roBytg17cZ5hGdea8foKyWs", "filename": "notes_export.md"}
 ]
 
 def clean_unicode_artifacts(text):
@@ -58,74 +57,78 @@ def extract_text_from_elements(elements):
 def process_tab(tab, f):
     tab_props = tab.get('tabProperties', {})
     fallback_title = tab_props.get('title', 'Untitled Note')
+    clean_title = fallback_title.strip().lower()
     
-    body_content = tab.get('documentTab', {}).get('body', {}).get('content', [])
-    tab_text = extract_text_from_elements(body_content).strip()
-    
-    if not tab_text:
-        return
+    is_master_container = ('messages' in clean_title or 'template' in clean_title or 'overview' in clean_title)
 
-    lines = tab_text.split('\n')
-    sermon_title = ""
-    date_str = ""
-    cleaned_lines = lines  
-    
-    first_line = ""
-    for line in lines:
-        if line.strip():
-            first_line = line.strip()
-            break
-
-    if '@' in first_line:
-        parts = first_line.split('@')
-        potential_title = parts[0].strip()
-        remainder = parts[1].strip()
+    if not is_master_container:
+        body_content = tab.get('documentTab', {}).get('body', {}).get('content', [])
+        tab_text = extract_text_from_elements(body_content).strip()
         
-        if potential_title and potential_title.lower() != "title":
-            sermon_title = potential_title
+        if tab_text:
+            lines = tab_text.split('\n')
+            sermon_title = ""
+            date_str = ""
+            cleaned_lines = lines  
             
-        date_match = re.search(r'(\d{1,2}/\d{1,2}/\d{2,4})|(\d{2}\.\d{2}\.\d{2})|(\d{4}-\d{2}-\d{2})', remainder)
-        if date_match:
-            date_str = date_match.group(0)
-    else:
-        if first_line and len(first_line) < 80:
-            sermon_title = first_line
-        else:
-            sermon_title = fallback_title
+            first_line = ""
+            for line in lines:
+                if line.strip():
+                    first_line = line.strip()
+                    break
 
-    if not sermon_title or sermon_title.lower() == "title":
-        sermon_title = fallback_title
+            if '@' in first_line:
+                parts = first_line.split('@')
+                potential_title = parts[0].strip()
+                remainder = parts[1].strip()
+                
+                if potential_title and potential_title.lower() != "title":
+                    sermon_title = potential_title
+                    
+                date_match = re.search(r'(\d{1,2}/\d{1,2}/\d{2,4})|(\d{2}\.\d{2}\.\d{2})|(\d{4}-\d{2}-\d{2})', remainder)
+                if date_match:
+                    date_str = date_match.group(0)
+            else:
+                if first_line and len(first_line) < 80:
+                    sermon_title = first_line
+                else:
+                    sermon_title = fallback_title
 
-    if not date_str:
-        date_match = re.search(r'(\d{1,2}/\d{1,2}/\d{2,4})|(\d{2}\.\d{2}\.\d{2})|(\d{4}-\d{2}-\d{2})', fallback_title)
-        if date_match:
-            date_str = date_match.group(0)
+            if not sermon_title or sermon_title.lower() == "title":
+                sermon_title = fallback_title
 
-    body_markdown = "\n".join(cleaned_lines).strip()
+            if not date_str:
+                date_match = re.search(r'(\d{1,2}/\d{1,2}/\d{2,4})|(\d{2}\.\d{2}\.\d{2})|(\d{4}-\d{2}-\d{2})', fallback_title)
+                if date_match:
+                    date_str = date_match.group(0)
 
-    if date_str:
-        f.write(f"## {sermon_title}\n")
-        f.write(f"**Source:** Google Doc | **Date:** {date_str}\n\n")
-    else:
-        f.write(f"## {sermon_title}\n")
-        f.write(f"**Source:** Google Doc\n\n")
-        
-    f.write("---\n\n")
-    f.write(f"{body_markdown}\n\n")
-    f.write("\n---\n\n")
+            body_markdown = "\n".join(cleaned_lines).strip()
+
+            if date_str:
+                f.write(f"## {sermon_title}\n")
+                f.write(f"**Source:** Google Doc | **Date:** {date_str}\n\n")
+            else:
+                f.write(f"## {sermon_title}\n")
+                f.write(f"**Source:** Google Doc\n\n")
+                
+            f.write("---\n\n")
+            f.write(f"{body_markdown}\n\n")
+            f.write("\n---\n\n")
 
     for child in tab.get('childTabs', []):
         process_tab(child, f)
 
-output_filename = "docs_export.md"
-with open(output_filename, "w", encoding="utf-8") as f:
-    f.write("# Google Docs Export\n\n")
-    for doc_info in DOCUMENTS_TO_PULL:
-        try:
-            document = service.documents().get(documentId=doc_info["id"], includeTabsContent=True).execute()
+for doc_info in DOCUMENTS_TO_PULL:
+    output_filename = doc_info["filename"]
+    try:
+        print(f"Pulling {doc_info['name']} -> {output_filename}...")
+        document = service.documents().get(documentId=doc_info["id"], includeTabsContent=True).execute()
+        with open(output_filename, "w", encoding="utf-8") as f:
+            f.write(f"# {doc_info['name']}\n\n")
             for tab in document.get('tabs', []):
                 process_tab(tab, f)
-        except Exception as e:
-            print(f"Error loading {doc_info['name']}: {e}")
+        print(f"Successfully exported {doc_info['name']}!")
+    except Exception as e:
+        print(f"Error loading {doc_info['name']}: {e}")
 
-print("Docs export complete!")
+print("All Docs exports complete!")

@@ -105,6 +105,7 @@
             const files = [
                 { name: 'blogger_export.md', source: 'Blogger' },
                 { name: 'docs_export.md', source: 'Google Doc' },
+                { name: 'notes_export.md', source: 'Google Doc' },
                 { name: 'sheets_export.md', source: 'Google Sheet' }
             ];
             
@@ -211,8 +212,10 @@
 
                 if (fileName.includes('sheets')) {
                     category = 'quotes';
+                } else if (fileName.includes('notes')) {
+                    category = 'notes';
                 } else if (fileName.includes('docs') || fileName.includes('blogger')) {
-                    const isNote = fileName.includes('Notes') || titleLine.toLowerCase().includes('book') || titleLine.toLowerCase().includes('elijah') || titleLine.toLowerCase().includes('training') || titleLine.toLowerCase().includes('study') || titleLine.toLowerCase().includes('revival') || titleLine.toLowerCase().includes('preach') || titleLine.toLowerCase().includes('jonah') || titleLine.toLowerCase().includes('elisha') || titleLine.toLowerCase().includes('gifts');
+                    const isNote = fileName.includes('Notes') || fileName.includes('notes') || titleLine.toLowerCase().includes('book') || titleLine.toLowerCase().includes('elijah') || titleLine.toLowerCase().includes('training') || titleLine.toLowerCase().includes('study') || titleLine.toLowerCase().includes('revival') || titleLine.toLowerCase().includes('preach') || titleLine.toLowerCase().includes('jonah') || titleLine.toLowerCase().includes('elisha') || titleLine.toLowerCase().includes('gifts');
                     
                     if (isNote) {
                         category = 'notes';

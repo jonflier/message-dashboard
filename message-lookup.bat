@@ -1,4 +1,4 @@
-
+goto :comment
 @echo off
 cd /d "C:\Users\User\Documents\GitHub\Dashboard"
 
@@ -17,3 +17,4 @@ python sheets.py
 echo [5/5] Starting local server and opening Content Hub...
 start http://localhost:8000/contentHub.html
 python -m http.server 8000
+:comment

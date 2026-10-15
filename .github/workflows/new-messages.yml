@@ -2,8 +2,8 @@ name: Weekly Run
 
 on:
   schedule:
-    # Minute (59) Hour (23) Day of Month (*) Month (*) Day of Week (6 = Saturday)
     - cron: '59 23 * * 6'
+  workflow_dispatch: # This adds a manual "Run workflow" button
 
 jobs:
   build:

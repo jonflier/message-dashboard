@@ -2,7 +2,7 @@
 
 # Navigate to the project directory if running outside it
 
-
+: <<'COMMENT'
 cd "$(dirname "$0")"
 
 echo "[1/5] Updating Notion export..."
@@ -20,3 +20,4 @@ python3 sheets.py
 echo "[5/5] Starting local server and opening Content Hub..."
 open http://localhost:8000/contentHub.html
 python3 -m http.server 8000
+COMMENT

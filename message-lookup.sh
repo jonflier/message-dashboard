@@ -1,6 +1,8 @@
 #!/bin/zsh
 
 # Navigate to the project directory if running outside it
+
+
 cd "$(dirname "$0")"
 
 echo "[1/5] Updating Notion export..."

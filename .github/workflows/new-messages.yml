@@ -1,0 +1,26 @@
+name: Weekly Run
+
+on:
+  schedule:
+    # Minute (59) Hour (23) Day of Month (*) Month (*) Day of Week (6 = Saturday)
+    - cron: '59 23 * * 6'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Run Python scripts
+        run: |
+          python notion.py
+          python blogger.py
+          python docs.py
+          python sheets.py

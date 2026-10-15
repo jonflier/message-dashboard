@@ -1,5 +1,35 @@
 # Notion Export
 
+## Who are the Blessed? [Part 2/2]
+**Source:** Notion | **Date:** 2026-10-11
+
+---
+
+
+
+
+---
+
+## Who are the Blessed? [Part 1/2]
+**Source:** Notion | **Date:** 2026-10-07
+
+---
+
+
+
+
+---
+
+## God’s Timing
+**Source:** Notion | **Date:** 2026-10-01
+
+---
+
+
+
+
+---
+
 ## Untitled Entry
 **Source:** Notion | **Date:** 2026-12-31
 
@@ -110,27 +140,7 @@
 
 ---
 
-## Untitled Entry
-**Source:** Notion | **Date:** 2026-10-15
-
----
-
-
-
-
----
-
-## Untitled Entry
-**Source:** Notion | **Date:** 2026-10-08
-
----
-
-
-
-
----
-
-## CMI
+## An Eye for an Eye
 **Source:** Notion | **Date:** 2026-11-17
 
 ---
@@ -140,7 +150,7 @@
 
 ---
 
-## CMI
+## Who are the Woeful?
 **Source:** Notion | **Date:** 2026-10-13
 
 ---
@@ -151,7 +161,7 @@
 ---
 
 ## Don’t Worry
-**Source:** Notion | **Date:** 2026-09-08 | [Original Link](https://docs.google.com/document/d/1EEqRi20vfmEI-BEYPE_od6ojGeY9k3qQWKy9qohDMJg/edit?tab=t.5widw9je8o5f)
+**Source:** Notion | **Date:** 2026-09-08
 
 ---
 
@@ -160,8 +170,8 @@
 
 ---
 
-## Not of the World, But in It
-**Source:** Notion | **Date:** 2026-10-01 | [Original Link](https://jonathan-the-psalmist.blogspot.com/2026/09/not-of-world-but-in-it.html)
+## Into the World
+**Source:** Notion | **Date:** 2026-10-15
 
 ---
 
@@ -171,7 +181,7 @@
 ---
 
 ## Don’t Come Down
-**Source:** Notion | **Date:** 2026-09-24 | [Original Link](https://jonathan-the-psalmist.blogspot.com/2026/08/dont-come-down.html)
+**Source:** Notion | **Date:** 2026-09-24
 
 ---
 
@@ -181,27 +191,7 @@
 ---
 
 ## Elijah & Elisha
-**Source:** Notion | **Date:** 2026-09-17 | [Original Link](https://jonathan-the-psalmist.blogspot.com/2026/08/elijah-elisha.html)
-
----
-
-
-
-
----
-
-## Who Are the Blessed? [Part 2/2]
-**Source:** Notion | **Date:** 2026-10-11 | [Original Link](https://docs.google.com/document/d/1EEqRi20vfmEI-BEYPE_od6ojGeY9k3qQWKy9qohDMJg/edit?tab=t.3k0gdoinqh9w)
-
----
-
-
-
-
----
-
-## Who Are the Blessed? [Part 1/2]
-**Source:** Notion | **Date:** 2026-10-04 | [Original Link](https://docs.google.com/document/d/1EEqRi20vfmEI-BEYPE_od6ojGeY9k3qQWKy9qohDMJg/edit?tab=t.3k0gdoinqh9w)
+**Source:** Notion | **Date:** 2026-09-17
 
 ---
 
@@ -211,7 +201,7 @@
 ---
 
 ## God of the Hills and Valleys
-**Source:** Notion | **Date:** 2026-09-16 | [Original Link](https://docs.google.com/document/d/1EEqRi20vfmEI-BEYPE_od6ojGeY9k3qQWKy9qohDMJg/edit?tab=t.ne376swznzgs)
+**Source:** Notion | **Date:** 2026-09-16
 
 ---
 
@@ -221,7 +211,7 @@
 ---
 
 ## Seeking Wise Counsel
-**Source:** Notion | **Date:** 2026-09-03 | [Original Link](https://jonathan-the-psalmist.blogspot.com/2026/08/seeking-wise-council.html)
+**Source:** Notion | **Date:** 2026-09-03
 
 ---
 

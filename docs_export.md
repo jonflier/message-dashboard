@@ -11,7 +11,7 @@ Natural Born Follower
 | Purpose | Method |
 | Edification | Topical |
 | Thesis Statement |
-| Every Christian is called to lead others, but effective leadership begins with faithfully following and serving Christ. |
+| To lead like Christ, we must first learn to follow Him. |
 
 Now, to start off, by a show of hands who has heard the term “natural born leader?”
 Initially, I had thought that term just meant that someone was excellent at leading by their nature- and to the world I suppose it does. But when we look at that term as followers of God, we can then see how we are all called to be leaders.
@@ -52,7 +52,7 @@ God’s Will For Your Life
 | Purpose | Method |
 | Edification | Topical |
 | Thesis Statement |
-| Believers do not need to know every detail of God's plan; they need only trust His perfect will, seek His guidance, and faithfully obey Him one step at a time. |
+| Trust God's plan, seek His guidance, and obey Him step by step. |
 
 Genesis
 39 Old, 27 New, and 66 Total
@@ -122,7 +122,7 @@ Back to School
 | Purpose | Method |
 | Edification | Topical |
 | Thesis Statement |
-| Followers of Christ must reject every false idol, practice true repentance by turning from and fleeing sin, and pursue a life wholly devoted to God. |
+| Followers of Christ must reject false idols, flee from sin, and live wholly for God. |
 
 Introduction
 I want to thank Tyler and Sova for allowing me to speak to you all on what I believe the Lord has put on my heart.
@@ -210,7 +210,7 @@ We Are the Artwork of God
 | Purpose | Method |
 | Edification | Topical |
 | Thesis Statement |
-| God uses every trial and barrier in our lives to shape our character, deepen our faith, and mold us into the people He created us to be. |
+| God refines us through every struggle to reveal who we are truly meant to be. |
 
 Introduction
 I appreciate this opportunity to speak to all of you this morning. For those who may not know me, my name is Jonathan Flier, and I have been a sprinter in track throughout high school, and I ran Cross Country this year to better prepare for my senior year of track.
@@ -243,7 +243,7 @@ A Roaring Lion
 | Purpose | Method |
 | Edification | Topical |
 | Thesis Statement |
-| Believers overcome the attacks of the enemy by putting on the Armor of God, establishing godly guardrails, fleeing temptation, and faithfully following Christ on the narrow path. |
+| Believers overcome spiritual attacks by equipping the armor of God, setting godly boundaries, fleeing temptation, and steadfastly following Christ. |
 
 Firstly, I want to thank Tyler and Sova for this opportunity to speak to all of you on what I believe the LORD has put on my heart.
 I am sure we have all seen the image of the angel on one shoulder and the devil on the other. Well, as ridiculous as that image is made out to be, there is some truth to it.
@@ -305,7 +305,7 @@ Pillows to Pillars
 | Purpose | Method |
 | Edification | Expository |
 | Thesis Statement |
-| God calls His people to awaken from spiritual complacency, transform the comforts He has given them into acts of worship, and faithfully respond to His presence while there is still time. |
+| Wake up, move past complacency, and turn your comforts into altar stones of worship. |
 
 I want to start off by stating a simple fact: how many know that the average person sleeps eight hours a day?
 Raise your hand if you are getting eight hours of sleep or more… Who gets the most sleep?
@@ -354,7 +354,7 @@ The Strait and Narrow
 | Purpose | Method |
 | Edification | Expository |
 | Thesis Statement |
-| The narrow way of Christ is intentionally difficult, but those who faithfully endure its hardships will find the eternal life that God has promised. |
+| The narrow way is hard, but faithful endurance brings eternal life. |
 
 Before we begin, let’s take a moment for prayer and ask that God will reveal all that He wants to reveal to us.
 Now I, or someone else, can, will be reading from Matthew 7:13-14, a very famous piece of scripture and one that I try to keep in mind at all times.
@@ -435,7 +435,7 @@ Praise No Matter the Season
 | Purpose | Method |
 | Edification | Topical |
 | Thesis Statement |
-| Because God is unchanging and worthy of praise in every season, our worship cannot depend on our circumstances or experiences, but must flow from a relationship with Him. |
+| True worship is rooted in who God is, not our changing circumstances. |
 
 I would like to give honor to Pastor and Sister Fayth, as well as the entire church leadership. I am very thankful for this church and for the opportunity to come together on this United Sunday and see what God has been doing in every department. Can I simply begin by saying that God is good and worthy to be praised (Psalm 18:3)?
 When I was putting together this message, I used this upcoming verse from Psalm 145. After doing so, I came across the exact verse in my devotional, which to me confirms that I am in the Will of God with this message. The verse in reference is Psalm 145:3, which reads:
@@ -465,7 +465,7 @@ Never Forget
 | Purpose | Method |
 | Edification | Topical |
 | Thesis Statement |
-| Because forgetting God can lead us away from His purpose for our lives, we must never forget who He is, what He has done for us, and the mission He has given us. |
+| Never forget who God is, what He has done, and the mission He has given us. |
 
 Allow me to begin by honoring Tyler and Sova, as well as Brodey and Alexis, for all they do. Being on the youth committee alongside these guys has shown me how much thought and energy they put into everything. I know they all fill many roles in their everyday lives, but I’m thankful that one of those roles is right here, helping each of us to grow, myself included, by not only teaching the difference between right and wrong, but also making sure the decisions we choose in life are the right ones.
 And of course, I cannot forget the one in charge of us all, who keeps us all in line, baby Ellerie.
@@ -516,7 +516,7 @@ The Artwork of God
 | Purpose | Method |
 | Edification | Topical |
 | Thesis Statement |
-| Because God created us in His image and restored us through salvation, we must preserve that image by pursuing a life of holiness through sanctification. |
+| Created in God's image and restored by salvation, we preserve His masterpiece through a life of holy sanctification. |
 
 Good morning, everybody! I’m so thankful for this opportunity to speak to you all on this Sunday morning. I give honor to Tyler, Sova, Brodey, and Alexis for allowing me to teach in this setting. The lesson I have prepared has been in the making for a month or two, as I have mulled over thoughts and put them into words. For those who have heard me speak in class at CR on Thursday nights, you will recognize several elements from previous discussions.
 Firstly, I want to start with a piece of scripture, in Genesis 1:26, it says,
@@ -569,7 +569,7 @@ The Uniting of Brothers
 | Purpose | Method |
 | Edification | Topical |
 | Thesis Statement |
-| Because God created us uniquely yet calls us into unity, we must set aside differences and demonstrate Christ’s love by intentionally connecting with and caring for others. |
+| Though created unique, we are called to unity—setting aside differences to actively love and connect with others. |
 
 
 Today, I would like to begin by discussing two brothers in the Bible, their names being Esau and Jacob.
@@ -609,7 +609,7 @@ There are Methods to a Miracle
 | Purpose | Method |
 | Edification | Topical |
 | Thesis Statement |
-| Because God’s miracles often come through unexpected methods, we must trust His process, strengthen our faith through the journey, and obey even when His ways do not make sense to us. |
+| God’s miracles often require unexpected steps that demand our trust and require obedience through the journey. |
 
 I want to start by saying thank you to Tyler and Sova, and Brodey and Alexis, for their leadership and passion for the things of God. I am also thankful for the Student Leadership Team for helping us make the Friday night youth rally special. By a show of hands, how many had a great time?
 If you would like to follow along this morning, we will be reading primarily from Luke chapter 5.
@@ -654,7 +654,7 @@ Grateful Despite the Storms
 | Purpose | Method |
 | Edification | Topical |
 | Thesis Statement |
-| Because God’s love and faithfulness remain constant in every season, believers should develop a lifestyle of thanksgiving that is not dependent on their circumstances. |
+| God’s love is constant in every season—our gratitude should be too. |
 
 Let’s go ahead and start with a time of prayer.
 Hey everybody! I hope all of your classes are going well. It’s the home stretch. We get a break from being in-person for all of next week, then we come back and finish strong in the last two weeks before finals. Does anyone else feel like this semester has just flown by? Thanksgiving is next week, and honestly, I’m here for it.
@@ -692,7 +692,7 @@ The Love of Christ
 | Purpose | Method |
 | Edification | Topical |
 | Thesis Statement |
-| Because Jesus’ sacrifice draws all people to Himself, believers who have experienced His love are called to reflect that same love and draw others closer to Him. |
+| Jesus’ sacrifice draws all people to Him, calling believers to love and draw others closer as well. |
 
 Hello everyone! I hope you all enjoyed your first week of classes and have started to get into the swing of things now that syllabi are out of the way.
 Tonight, I want to read from John 12:32. As you’re turning there, I heard this verse in a podcast discussion I listened to last week. I thought to myself, “That sounds like something I could bring to CMI,” then that night I went to church, and the praise team sang about it, which was confirmation to me that I should study it out and present it before all of you.
@@ -724,7 +724,7 @@ Love
 | Purpose | Method |
 | Edification | Topical |
 | Thesis Statement |
-| Because God first loved us with a perfect and selfless love, we are called to respond by loving Him completely and extending that same love to ourselves and others. |
+| God first loved us unconditionally, calling us to love Him fully and extend that same love to others. |
 
 Good morning, everybody! Just a few more weeks and we’ll have endured the first one-sixth of 2026. As of right now, we are roughly 11% of the way through the year– Christmas is in 326 days, how many are looking forward to that? I know I am.
 In all seriousness, I want to give honor to Tyler, Sister Sova, Brodey, and Alexis. How many had a great time on Friday night? We held our first Bean Bowl, which was way more entertaining than any Super Bowl will ever be. And ladies, you had… your thing too– I’m sure that was a lot of fun.
@@ -783,7 +783,7 @@ A Voice in the Wilderness
 | Purpose | Method |
 | Evangelism | Topical |
 | Thesis Statement |
-| Because Jesus is the source of living water that satisfies the deepest needs of humanity, we must come to Him, be filled by His Spirit, and become voices that point others toward Him. |
+| Jesus satisfies our deepest thirst—when filled by His Spirit, we become voices calling others to Him. |
 
 This evening, I want to read from the Gospel of John. We’ll be in chapter one, starting at verse 6. As you’re turning there, I just started a reading plan which has me reading one to two chapters from the book of John each day. What I am going to discuss came from both today and yesterday’s devotion. Once we’re all there, chapter one and verse six, I’ll start. Scripture says:
 'There was a man sent from God, whose name was John [now, this is John the Baptist we are discussing]. He came as a witness, to bear witness about the light, that all might believe through him. He was not the light, but came to bear witness about the light.' John 1:6-8 ESV
@@ -812,7 +812,7 @@ Keep On Fishin’
 | Purpose | Method |
 | Equipping | Expository |
 | Thesis Statement |
-| Because Jesus called His disciples to become “fishers of men,” we must follow His example by leaving behind our own comfort, trusting His power, and actively sharing the Gospel so others can know Him. |
+| Leaving behind comfort and trusting Christ's power, we must actively share the Gospel so others can know Him. |
 
 Good evening, everybody! I am grateful for the opportunity to speak in front of all of you. I understand that there are so many ways you all could be spending your time, so it means a lot that you chose to spend it in the House of God on a Wednesday night when, for most– if not all– of you, it’s summer break.
 I’d like to start by giving honor to Tyler and Sova, and to Brody and Alexis, both for their dedication and the example they set of living righteously and entirely for God. I never want to take for granted the unique position that I am in. I once sat in the same chairs that many of you are sitting in (so long as you’re sitting in one of the brown chairs). I learned so much as a student at Refuge, and I continue to apply it in my life today. There have been many times when I have been in the middle of making a decision or wondering about the trajectory of my life, and am reminded of a lesson that Brodey or Tyler taught, or a conversation I had with Alexis or Sova. In these moments, I find myself drawing on the experience and knowledge I gained from where all of you are today, four or five years down the line. So my advice is simply this: don’t take this time of your life for granted. In the words of Paul as he instructed Timothy in 1 Timothy 4:12, “Let no one despise [their] youth…”
@@ -859,7 +859,7 @@ Explain that Christianity trumps eastern religions believing in the natural law 
 | Purpose | Method |
 | Evangelism | Topical |
 | Thesis Statement |
-| The LORD our God is the one true God, and because no false god or earthly idol can compare to Him, we must reject anything that competes for His rightful place and dedicate ourselves fully to worshiping and serving Him alone. |
+| Because the LORD is the one true God, we must reject every competing idol and serve Him alone. |
 
 Thank you, praise team.
 Tonight, we will be reading a passage of scripture from 1 Samuel, chapter 4. As you are turning there, I want to honor Pastor for allowing me this opportunity to speak in front of all of you. I am thankful to have him as our shepherd, and I know he loves his sheep, which is why I do not take this opportunity lightly.
@@ -945,7 +945,7 @@ Who is God?
 | Purpose | Method |
 | Edification + Evangelism | Topical |
 | Thesis Statement |
-| By studying the names and titles of Jehovah revealed throughout the Old Testament, we can better understand the character of God and be equipped to explain who He is to others.Jesus Christ is the fulfillment of the names and attributes of Jehovah revealed in the Old Testament, and through Him we can fully know and have a relationship with God. |
+| Exploring Jehovah’s Old Testament names unveils His true nature, empowering us to boldly proclaim who He is.  Knowing Jehovah’s Old Testament names reveals His true nature and empowers us to boldly proclaim Jesus as our all-sufficient Savior. |
 
 Table of Contents
 Who is God? [Part 1: Old Testament]	4
@@ -1185,7 +1185,7 @@ God is Good
 | Purpose | Method |
 | Edification | Topical |
 | Thesis Statement |
-| God is inherently good; therefore, no matter what trial, exile, or season of spiritual silence we face, we can trust that He is actively working behind the scenes for our good. |
+| Even when God is silent, He is never absent. |
 
 I’m thankful for the opportunity I have to stand before you all and deliver the Word of God. I’m thankful for Brodey and Alexis and their dedication to the things of God. I know they invest a lot of time and energy into everything they do, and that much of it goes unseen, so if we could just let them know we’re thankful for them and their leadership.
 I want to open with one verse of Scripture, it comes from Romans 8:28 which says,
@@ -1255,7 +1255,7 @@ Don’t Worry
 | Purpose | Method |
 | Edification | Topical |
 | Thesis Statement |
-| Because God is Jehovah-Jireh—who provided the ram for Abraham, Himself as the ultimate salvation through Christ, and daily sustenance for nature—we can abandon anxiety and rest in His faithful provision for our every physical, emotional, and spiritual need. |
+| Because God has proven Himself faithful to meet our physical and spiritual needs, we do not need to be consumed by worry or anxiety. |
 
 Before we get started with a word of prayer– are there any prayer requests?
 Let us pray…
@@ -1299,11 +1299,12 @@ References
 
 God of the Hills and Valleys
 @ Wednesday Night Youth Service (9/16/26)
+~ 13 Minutes
 
 | Purpose | Method |
 | Evangelical | Topical |
 | Thesis Statement |
-| God’s power is not determined by a geographical location or topographical features, He is the same whether we are in seasons of hills or valleys. Both seasons are crucial to the lives of Christians, and by understanding each of them, we can be better as a result. |
+| God’s power is not based on our season of life; He is seated on the throne whether we find ourselves in a mountain or valley season. |
 
 I’m thankful for the opportunity that I have to speak with you all this evening about what the LORD has laid on my heart. I’m also thankful for each and everyone of you, that you chose to spend your Wednesday night in the House of the LORD, I can promise you that there is no better way to spend it.
 Tonight, I want to read from 1 Kings 20, verses 23 and 28. As you’re turning there, allow me to say that I’m not so far removed from the season of life that each of you find yourself in today. I’m still a student and am aware that along with that comes homework, projects, and tests to study for. I know that each of you have friends who want to hangout, whether that be in-person or on a video game. But nevertheless you all chose to be in the LORD’s presence and spend time with the body of Christ, and for that I really am proud of all of you and your commitment to the things of God.
@@ -1324,22 +1325,27 @@ The God of Israel is so unique because of His Oneness aspect. While many nations
 The reason that we emphasize the Oneness of God is because it is such a unique aspect when compared to false gods of the ancient world. It’s also an aspect that is debated today. People across Christian denominations will debate whether God is one, two, or three persons; they then will debate what the definition of a person is.
 So my hope is that all of us, when we hear a message talking about Oneness, we find ourselves rejoicing that we have the Truth that God is one. I hope that we never grow tired of the messages referencing Oneness, but instead celebrate that we have the answer that is so highly debated among Christian scholars.
 The second mistake that the Syrians make, and the one that I want to spend the rest of tonight talking about, is in regards to the sovereignty of God. The Syrians had lost the first battle against the Israelites while on top of a hill. With their limited understanding, the Syrians had assumed that this meant the LORD was a god of the hills and mountains, and that by changing geographic locations into the flatlands, that they would claim victory.
-You see, Syria was one of those nations I mentioned earlier that served a plethora of gods. They had dozens of them that mythologists would consider headliners like we do with the Greco-Roman Olympian gods. But the Syrians likely had hundreds of gods that they worshipped over the years of the Bible being written. So it is no surprise when they assume that Israel’s God is one over the hills and mountains. And to be honest, if I was losing a battle such as this one, I too would make up some excuse as to why.
-To further His sovereignty, the LORD sends a prophet unto King Ahab explaining that the battle will be won by Israel because of the mistake by the Syrians. The prophet states that the LORD is both God over the hills and the valleys, and was about to show that to the Syrians.
-The LORD delivers the Syrians into the hand of Israel, proving that His power is not determined by a geographical location or topographical feature– He is the God of the hills and valleys. I want to break these two subjects up a little bit and correct some misunderstandings we sometimes make when it comes to God.
+You see, Syria was one of those nations I mentioned earlier that served a plethora of gods. They had dozens of them that mythologists would consider ‘headliners’ like we do with the Greco-Roman Olympian gods. But the Syrians likely had hundreds of gods that they worshipped over the years of the Bible being written. So it is no surprise when they assume that Israel’s God is one over the hills and mountains. And to be honest, if I was losing a battle such as this one, I too would make up some excuse as to why.
+To further His sovereignty, the LORD sends a prophet unto King Ahab explaining that the battle will be won by Israel because of the mistake made by the Syrians. The prophet states that the LORD is both God over the hills and the valleys, and He was about to show that to the Syrians.
+The LORD delivers the Syrians into the hand of Israel, proving that His power is not determined by a geographical location or topographical features– He is the God of the hills and valleys.
+I want to break these two subjects up a little bit and correct some misunderstandings we sometimes make in our walks with God.
 Hills
-We find ourselves in a season of hills when life is going well. We have a good understanding that God is in control during this time. Maybe life is going just as we planned it, or maybe it’s a goodness beyond our imaginable. Whatever the case, I would caution each of us, if we find ourselves here for the long-term. Part of the reason we should pray, no matter the season, is to determine whether or not we’re supposed to be in it.
-Don’t get me wrong, God wants what is best for us. However, what is best for us isn’t often what we want. Looking throughout Scripture, what was best for the Apostles wouldn’t have been anyone’s first choice (likely not even second or third choice). They were persecuted, Stephen was martyred, James and Peter were imprisoned, James died as a result of that, and Paul had a huge list of things that he had experienced.
-Now, I’m not saying I want any of this to happen to anybody, nor am I saying that it has to, but I am saying that life shouldn’t be comfortable. There is a reason it is called the season of hills. We are not meant to stay in it, sooner or later we should begin to notice the hill began to slope downward. After a few more steps, we will naturally find ourselves in a valley.
+First off, we will discuss what it means to be in a season of hills. A hill is highly elevated; when one is on top of it, the world seems so small that they could do anything. We see a season of hills happen spiritually when God has blessed us. Maybe we saw somebody close to us receive a healing in their life, maybe we experienced the miracle for ourselves.
+In my life, I found myself in one of these seasons last July. There was a lot of change taking place, but it was the good kind, the kind that I preferred and had control of. I had just started dating Mayci and I got a new car which would allow me to travel and visit her. I switched majors from one that kept me isolated from all my friends to one that all of them were in. I was on top of the world. I was in the mountain season.
+Life was great. I knew God was seated on the throne and that he was in control– but it was easy for me to believe all of that when life was going just as I planned it, and maybe even beyond my imagination. So I want to caution all of you. When you find yourself in this situation, I found myself. When you find yourself in a mountain season, remember to pray. Remember all of those spiritual disciplines that Brody has been teaching about. These disciplines aren’t meant just for when life is good, nor are they meant for when life is bad, but are intended to be followed at all times.
+The problem with hills is that we can find ourselves becoming very comfortable, and by doing so we begin to slack on the things that God has called us to. We must begin to understand that without God, we are nothing. Without God, we are still dust on the earth, if even that. I know that hearing this may feel like I just knocked the wind out of some of you, because that’s how I felt when I first had that realization. My pride would want me to believe I can do everything on my own, but once I realized I was literally nothing without God, it reshaped the way I thought about Him.
+God isn’t in our life for when we might need Him. God is in our life because we need Him… It’s easy to live for God after you realize He is all you have.
+Looking throughout Scripture, we can begin to understand this mindset is one that the Apostles held. These men and women of God understood that what they wanted wasn’t always what was best for them. They also realized that what was best for them likely wasn’t their first choice or even their second. These people were persecuted, John the Baptist was beheaded, Stephen was stoned to death, James and Peter were imprisoned (James died as a result of that), and Paul had a huge list of trials and tribulations that he had experienced.
+Now, I’m not saying I want any of this to happen to anybody, I’d rather prefer that none of you have to go through any of this. And I’m not even saying that any of us have to endure things as harsh as the Apostles, but I am saying that life shouldn’t be comfortable. There is a reason it is called the season of hills. We are not meant to stay in it. Sooner or later we should begin to notice the hill began to slope downward. After a few more steps, we will naturally find ourselves in a valley.
 Valleys
-Don’t mistake these valley seasons as life going bad. It may not be going our way, but God is still in control. The exile of Babylon is an extreme example of a valley season for the Israelites. For us, times of loss are an example of a valley season. These experiences in our lives are a part of life. They’re not comfortable, and they’re not enjoyable, but by endeavoring until the end, we’re closer with God as a result.
-I mean think about it, if it weren’t for the valley, how would we ever know how great the hilltops were? If it wasn’t for nightfall, how would we know the excitement of a new day? If it wasn’t for the storm, would we ever be reminded of the promises of God after seeing a rainbow up in the sky?
-The three Hebrew boys had faith already, but their valley season through the fiery furnace gave faith to Nebuchadnezzar. Daniel knew God deserved his prayers, so when he was sent into the lion's den for them, King Darius had begun to call on a God he only knew through association with Daniel.
-Maybe your valley season isn’t for you. Yes you have to go through it, and we all will have to go through a valley at some point in our lives, but not only do we have a chance to come out stronger, so do the people who see us going through it.
+Don’t mistake these valley seasons as life going bad. It may not be going our way, but God is still in control. The exile of Babylon is an extreme example of a valley season for the Israelites. I’ve said it before, and I’ll say it again, the Babylonian Exile was the Will of God. The prophet Jeremiah calls Nebuchadnezzar a servant of God, signifying the control that God has over even the pagan nations.	A relatable example of a valley season are those times of loss that many of us either have or will experience. These moments in our lives are a part of life. They’re not comfortable, and they’re not enjoyable, but by endeavoring until the end, we’re closer with God as a result.
+And I mean think about it, if it weren’t for the valley, how would we ever know how great the hilltops were? If it wasn’t for nightfall, how would we know the excitement of a new day? If it wasn’t for the storm, would we ever be reminded of the promises of God after seeing a rainbow up in the sky?
+The three Hebrew boys had faith already, but their valley season through the fiery furnace gave faith to Nebuchadnezzar, a pagan king. Daniel knew God deserved his prayers, so when he was sent into the lion's den to die because of praying, it led King Darius to believe and call on the God of Israel to preserve the life of Daniel.
+So maybe your valley season isn’t for you. Yes you have to go through it, and we all will have to go through a valley at some point in our lives, but not only do we have a chance to come out stronger, but we become a testimony to those who see us going through it. And just because we have to go through these valleys does not mean we have to do it alone. Look around this place… there is a room full of both adults and students like yourself who care about you, they love you and will be there for you if you ask. The path we walk is a strait and narrow one, but that doesn’t mean we walk it alone.
 Stand with me here tonight…
-I don’t know what season of life you’re in tonight. Maybe you’re doing great. You’re in a season of hills. But remember to pray. Ask God for guidance for when you find yourself in a valley.
-Maybe you’re in a valley here tonight, you should already be praying but remember Scripture when it says, “Weeping may endure for a night, but joy cometh in the morning.” There’s never been a day in my life that the sun didn’t rise, it may have been cloudy, but eventually those too had to part way for the divine hand of God to reach into my circumstances, pick me up, and place me on higher ground. 
-Let us find a place to pray– I may not know what season of life you’re in, but God does. God not only sees your present season but He knows the reason you’re going through it, He knows the plans He has for you, and “they are of peace, not of evil, to give you an expected end.” Let us go before the LORD in prayer…
+I don’t know what season of life you’re in. Maybe you’re doing great. You’re in a season of hills. But I’m pleading with you here tonight, remember to pray. Continue to fast and study the Word of God. Ask the LORD for guidance for the day that you find yourself in a valley.
+Maybe you’re already in a valley here tonight, you should already be praying but remember Scripture when it says, “Weeping may endure for a night, but joy cometh in the morning.” There’s never been a day in my life that the sun didn’t rise– it may have been cloudy, but eventually those too had to part way for the divine hand of God to reach into my circumstances, pick me up, and place me on higher ground. 
+Let us find a place to pray– I may not know what season of life you’re in, but God does. God not only sees your present season but He knows the reason you’re going through it. He knows the plans He has for you, and “they are of peace, not of evil, to give you an expected end.” Let us go before the LORD in prayer…
 
 
 ---
@@ -1350,68 +1356,71 @@ Let us find a place to pray– I may not know what season of life you’re in, b
 ---
 
 Who Are the Blessed?
-@ Sunday Morning Youth Class (10/04 & 10/11of 2026)
+@ Wednesday Night Youth Class (10/7 & 10/11 of 2026)
 
 | Purpose | Method |
 | Equipping | Topical |
 | Thesis Statement |
-| By studying out the beatitudes, we can better understand how we ourselves can live out the life which Jesus exemplified. We will learn both the importance of our actions, and more importantly, the attitudes we must carry as followers of Christ. |
+| Christ didn’t simply preach the Beatitudes– He modeled them every single day, calling each of us to follow in His footsteps. |
 
-Who Are the Blessed? [Part 1]	2
+Who Are the Blessed? [Part 1]	1
 The Poor in Spirit	2
 They That Mourn	4
-The Meek	5
-They Which Do Hunger and Thirst After Righteousness	6
-Who Are the Blessed? [Part 2]	7
-The Merciful	7
-The Pure in Heart	7
-The Peacemakers	7
-They Which Are Persecuted for Righteousness’ Sake	7
-References	8
-Resources	8
+The Meek	7
+They Which Do Hunger and Thirst After Righteousness	10
+Who Are the Blessed? [Part 2]	14
+The Merciful	14
+The Pure in Heart	18
+The Peacemakers	21
+They Which Are Persecuted for Righteousness’ Sake	24
+References	29
+Resources	31
 
 Who Are the Blessed? [Part 1]
-~ X Minutes
-These next few classes, I want to take a look at the Beatitudes found in Matthew 5. I encourage you all as we go through each one, either grab a Bible from off the shelf in the back, or follow along on your phones. There are eight of these Beatitudes in total, and with each one I hope that we can all better understand both how to frame our actions, and more importantly, the attitude that we must carry with us as followers of Christ.
-Throughout these next two Sundays, as we talk about the Beatitudes, you are going to hear me reference LJ Harry. He’s a great man of God and he writes a lot of books, one of which is titled Blessed Are: A Practical Look at the Beatitudes. I used his book to study out the Beatitudes and put these lessons together.
+≈ 20 Minutes
+These next two classes, I want to take a look at the Beatitudes found in Matthew 5. I encourage you all as we go through each one, either grab a Bible from off the shelf in the back, or follow along on your phones. I will have each of the beatitudes up here on the screen as well. There are eight of these Beatitudes in total, and with each one I hope that we can all better understand both how to frame our actions, and more importantly, the attitude that we must carry with us as followers of Christ.
+As we talk about the Beatitudes, you are going to hear me reference LJ Harry. He’s a great man of God and he writes a lot of books, one of which is titled Blessed Are: A Practical Look at the Beatitudes. I used his book to study out the Beatitudes and put these lessons together.
 So first off, let’s answer the question, what are the Beatitudes?
-The Beatitudes come from the Sermon on the Mount, Jesus’ first message of His earthly ministry. Each of the following Beatitudes start with, “Blessed are…” To be blessed is to be happy; to be blessed is to be content. The kind of happiness and contentment that we’ll be talking about aren’t anything like the world could ever offer; what we’re talking about is joy. The Beatitudes aren’t telling us how we can feel an emotion, they’re helping us to obtain a spiritual attitude— to make the conscious decision to be happy and content no matter where we might be or what we might have. When we’re filled with the Spiritual Fruit of Joy, which can only come from the Spirit of God, nothing can take that away from us.
-I have heard it said that the Beatitudes are like the rings of a ladder, before we can reach the final ring of “Blessed are they which are persecuted for righteousness' sake…” We must take a look at the other seven. So let’s get started with the first beatitude in Matthew 5:3…
+The Beatitudes come from the Sermon on the Mount, Jesus’ first message of His earthly ministry. Each of the following Beatitudes start with, “Blessed are…” To be blessed is to be happy; to be blessed is to be content. The kind of happiness and contentment that we’ll be talking about aren’t anything like the world could ever offer; what we’re talking about here tonight is joy. The Beatitudes aren’t telling us how we can feel an emotion, they’re helping us to obtain a spiritual attitude— to make the conscious decision to be happy and content no matter where we might be or what we might have. When we’re filled with the Spiritual Fruit of Joy, which can only come from the Spirit of God, nothing can take that away from us.
+I have heard it said that the Beatitudes are like the rungs of a ladder, before we can reach the final ring of “Blessed are they which are persecuted for righteousness' sake…” We must take a look at the other seven. So let’s get started with the first beatitude in Matthew 5:3…
 The Poor in Spirit
 'Blessed are the poor in spirit: for their's is the kingdom of heaven.' Matthew 5:3
 It can be easy to misquote this verse. I've heard it said, “Blessed are the poor.” If your finances are anything like mine when I was your age, you’d like for this verse to say “blessed are the poor.” However, as we will come to find out, there is a much greater find in this text. No matter how much money you have, whether you are poor or rich, you can be blessed– you can be joyful, even still.
-Including the second half of the verse, it reads, “Blessed are the poor in spirit…” Now, the Bible refers to two different types of poor– first there is the working poor and then there is the begging poor. 
-The working poor are the people who work everyday and they just get by. I would imagine Peter to be a great example of the working poor; Him and his brother Andrew were fishermen, they worked everyday for a living, they got by, but were never rich.
+Including the whole first half of the verse, it reads, “Blessed are the poor in spirit…” Now, the Bible refers to two different types of poor– first there is the working poor and then there is the begging poor. 
+The working poor are the people who work everyday and they just get by. I would imagine Peter to be a great example of the working poor; Him and his brother Andrew were fishermen, they worked everyday for a living, they got by, but were likely never rich– and never accumulated much wealth.
 The begging poor, however, had to rely on other people’s generosity in order to survive. We see a lot of these people are lame or have been dealt what we could consider a “bad hand” in life. Maybe they were widowed women like Naomi and Ruth, having no husbands and no sons that they rely on the generosity of Boaz in order to eat.
 The kind of poor that this beatitude is referring to is the begging poor. We must come to understand that without the grace of God, we could not make it in this life. It was because of God’s grace that He chose to form us out of the dust of the earth, despite the disobedience He knew would take place in the Garden of Eden. It was because of God’s grace that He moved upon the Virgin Mary, lived thirty plus years, was tempted just as we are tempted, and died on the Cross by the hand of those whom He created. It was because of His grace that Jesus became our sins despite never committing one Himself. Jesus took on the lies and yet had never been a liar. Jesus took on the manipulating while having never been a manipulator. He did all of that out of grace because as the preacher of the Beatitudes, He understood more than anyone that without His grace, we would not make it.
 When we carry this attitude that we are poor in spirit, that we are beggars of the Spirit, we begin to understand that we can never get anywhere without God. We no longer go to church or district events because we are excited about who will be speaking or singing, but instead we gather to hear the anointing found in the Word and time of worship. We don’t go for entertainment, but to be fed the spiritual manna that only God could provide.
-Taking a look at the next beatitude found in Matthew 5:4…
+It is as a result of this that we will begin to understand this world is not our home, but the Kingdom of Heaven is. How many have heard the saying, beggars can’t be choosers? That’s what’s great about Heaven– it is beyond our every imagination that we won’t have to nitpick what we want and what we don’t want. I don’t have to worry about the roads being filled with potholes because they’re made out of pure gold– something we can’t say about the world we currently live in.
+Although beggars can’t be choosers, we still have a choice to make before we can reach the second rung of the ladder– that choice is whether or not we want to be beggars– humbling ourselves in this life in order to see the next.
+This brings us to our second beatitude found in Matthew 5:4…
 They That Mourn
 'Blessed are they that mourn: for they shall be comforted.' Matthew 5:4
 	I have confidence in saying that each one of us has mourned. I feel this way because I know that each one of us is human– it is part of our nature to cry as a response to certain things because other responses don’t do our situation or circumstance the justice that it deserves.
-	Crying is a part of life; mourning is a part of life. Throughout the Scriptures you will find these men and women of God weeping time and time again. Look at Hannah, the mother of Samuel. She was barren, she could not have any kids and all the while her husband’s other wife– it was a different time, it was a different culture– Peninnah mocked Hannah and provoked her. So Hannah sought after the LORD and prayed so valiantly, she was so determined, that the priest thought she was drunk. The priest, a man of God, could not even recognize the woman was praying– that’s how much emotion and spirituality was involved in her praying.
+	Crying is a part of life; mourning is a part of life. Throughout the Scriptures you will find these men and women of God weeping time and time again. Look at Hannah, the mother of Samuel. She was barren, she could not have any kids and all the while her husband’s other wife– it was a different time, it was a different culture– Peninnah mocked Hannah and provoked her. So Hannah sought after the LORD and prayed so valiantly, she was so determined, that the priest thought she was drunk. The priest, a man of God, could not even recognize the woman was praying– that’s how much emotion and spirituality was involved in her prayers.
 It isn’t just women who cried in the Bible. Boys, the world is going to tell you that men don’t cry. It’s going to tell you that you’re more of a man for holding back tears and less of a man if you let them through, but that’s just not biblical.
 Abraham wept when he buried his wife, Sarah, in Genesis 23:2.
-David and Jonathan wept in 1 Samuel 20:41 when Saul sought to kill David.
+David and Jonathan wept in 1 Samuel 20:41 when Jonathan’s father, Saul, sought to kill David.
 In Acts 20:37, all the people wept, including Paul, when it was time for the Apostle to depart from Ephesus.
 The shortest verse of the Bible, John 11:35 says, “Jesus wept,” which was His response to the death of his best friend Lazarus, who Jesus loved greatly.
-If God-incarnate understands the importance and the necessity of weeping in this life, then we should too.
-Because God came to Earth as a man, we have the promise found in the second-half of this beatitude, we have the comforter. The mediator that Job wished he could have, to be the inbetween for himself and God– it’s the Holy Spirit.
-John 14: 16-18 talks about the  Holy Spirit being a comforter. Jesus explains that the Holy Spirit will be a forever comfort. Jesus is prepping His people for the day when He departs from them. Jesus understands that He cannot always be with them as God-incarnate so He informs everybody that He will return in the form of His Spirit, which can be in all places all at once, including in each and every one of us if we would allow Him to fill us with His Spirit.
+If God-incarnate understands the importance and the necessity of weeping in this life, then we should too…
+For those who have been here these past few Sundays, we have been having powerful services, ones that lead me to weep. Now, I’m not very outwardly emotional– and I don’t say that because I am trying to be all macho. I want to be more expressive of my emotions, I just haven’t been in recent years. But during those services, I just wept. That’s what happens when we have a genuine encounter with God, we are brought to tears. God has been so good to us, whether we realize it or not. God’s been better to me than I deserve, and for that I have no other choice than to cry while surrounded by His presence. This leads me to the second half of this verse, we shall be comforted.
+Because God came to Earth as a man, conquered death, hell, and the grave, and then poured out His Spirit after His ascension into Heaven, we have the Comforter. We have the mediator that Job wished he could have, to be the inbetween for himself and God (Job 9:32-33)– we have the Holy Spirit.
+John 14:16-18 talks about the Holy Spirit being a comforter. Jesus explains that the Holy Spirit will be a forever comfort. Jesus is prepping His people for the day when He departs from them. Jesus understands that He cannot always be with them as God-incarnate so He informs everybody that He will return in the form of His Spirit, which can be in all places all at once, including in each and every one of us if we would allow Him to fill us with His Spirit.
 The type of mourning that we are talking about is related to the godly-sorrow spoken about in 2 Corinthians 7:10,
 [2Co 7:10 NKJV] 10 For godly sorrow produces repentance [leading] to salvation, not to be regretted; but the sorrow of the world produces death.
-	This godly sorrow is what we call conviction, it’s counterfeit– what we sometimes misidentify as conviction or conviction as it– is condemnation. Condemnation comes from the world, it will break us down and separate us from God, but conviction is from God, it will build us up and draw us closer with Him. The difference between the two can be seen in the lives of Jesus’ disciples. Judas had betrayed Jesus by showing the Roman soldiers where He prayed. Later, Judas hangs himself because of the regret he feels. Simon Peter betrays Jesus by denying ever knowing him on three different accounts. Instead of letting his regret eat him away as it would Judas, he runs to Jesus.
-Repentance is turning away from our wrongdoing, from the things of this world. Condemnation will cause you to run further into the world, but conviction will turn you around, running into the direction of Jesus. Conviction isn’t comfortable, it’s like Jesus in the Garden of Gethsemane– it’s that oil press. Conviction is like Job’s experience of being refined but coming out as fine gold. After finding repentance we have reached the first step in salvation followed by baptism in Jesus name and the infilling of His Spirit– which is the Comforter that we talked about earlier.
+	This godly sorrow is what we call conviction, it’s counterfeit– what we sometimes misidentify as conviction– is condemnation. Condemnation comes from the world, it will break us down and separate us from God, but conviction is from God, it will build us up and bring us closer with Him. The difference between the two can be seen in the lives of Jesus’ disciples. Judas had betrayed Jesus by showing the Roman soldiers where He prayed. Later, Judas hangs himself because of the regret he feels. Simon Peter betrays Jesus by denying ever knowing him on three different accounts. Instead of letting his regret eat him away as it would Judas, he later runs to Jesus.
+Repentance is turning away from our wrongdoing, from the things of this world. Condemnation will cause you to run further into the world, but conviction will turn you around, running into the direction of Jesus. Conviction isn’t comfortable, it’s like Jesus in the Garden of Gethsemane– it’s that oil press which the name of the garden translates to. Conviction is like Job’s experience of being refined but coming out as fine gold. After finding repentance we have reached the first step in salvation followed by baptism in Jesus name and the infilling of His Spirit– which is the Comforter that we talked about earlier.
 LJ Harry writes in his book, that “the first beatitude breaks the bad news to us: that we are poor in spirit; that our spiritual balance is overdrawn. The second is our right response to our spiritual balance statement. To realize we are nothing without God prompts us to weep.”
 Now that we have conquered the first two rungs of this eight-runged ladder, let us walk up to the third beatitude found in Matthew 5:5…
 The Meek
 'Blessed are the meek: for they shall inherit the earth.' Matthew 5:5
-Imagine everybody who was hearing this message preached by Jesus. He has told them that happy are those who are spiritually broke, emotionally broken, and now He is saying to be happy they must all be gentle.
-To understand the situation a little more, let’s take a look at the four main groups who heard this message. You can think of each one of these groups like you would groups at school– there are the athletes, the band kids, the nerds, or the ranchhands. In our small, tight community, you might know somebody who’s all four of those things. But the point is, in Jesus’ time, there were the Pharisees, the Sadducees, the Zealots, and the Essenes.
+Imagine everybody who was hearing this message preached by Jesus. He has told them that happy are those who are spiritually broke and emotionally broken. Now, He is saying to be happy they must all be gentle.
+To understand the situation a little more, let’s take a look at the four main groups who heard this message. You can think of each one of these groups like you would groups at school– there are the athletes, the band kids, the nerds, or the countryfolk (right, Hunter). In our small, tight community, you might know somebody who’s all four of those things. But the point is, in Jesus’ time, there were the Pharisees, the Sadducees, the Zealots, and the Essenes.
 Pharisees
 The Teachers of the Law
 Middle-class
-Disliked the Gentiles, viewing them as beneath God’s holy people.
+Disliked the Gentiles (the non-Jewish people), and viewed them as being beneath God’s holy people.
 Disliked publicans, or tax collectors, seeing them as disloyal to their people.
 As an accountant, the Pharisees would have despised me.
 Neutral toward Rome, believing and trusting God to set things right in due time.
@@ -1421,46 +1430,49 @@ The Wealthy Aristocrats
 Upper-class
 Loved Rome because it gave them political power and wealth.
 Believed in the written Torah, but not what was traditionally spoken from generation to generation.
-
 Zealots
 The Violent Rebels
 Hated Rome, they believed paying taxes to a pagan king was a sin against God, the one, true King. They were willing to kill and destroy if it meant ending Roman rule.
 Essenes
 The Separatists
 Ignored Rome, focusing entirely on themselves and the holy text.
-In John MacArthur’s book, Twelve Ordinary Men, he states that the Pharisees wanted a miraculous Messiah; the Sadducees wanted a materialistic Messiah; the Zealots wanted a military Messiah; the Essenes wanted a monastic messiah. Meanwhile, we see Jesus approaching as a meek Messiah.
-	Meekness is not a weakness. The word in the Greek for meek is Praus. It is a term that described soothing medicine which doctors gave to fevered patients, the gentle wind experienced by sailors, and even a colt after it has been broken in (or tamed). The truth is, meekness is all of these things. Meekness is not weakness, but power under control.
+In John MacArthur’s book, Twelve Ordinary Men, he states that, “the Pharisees wanted a miraculous Messiah; the Sadducees wanted a materialistic Messiah; the Zealots wanted a military Messiah; the Essenes wanted a monastic messiah.” Meanwhile, we see Jesus approaching as a meek Messiah.
+	Meekness is not a weakness. The word in the Greek for meek is praus. It is a term used to describe soothing medicine which doctors gave to fevered patients, or the gentle wind experienced by sailors, or even a colt after it has been broken in (or tamed). The truth is, meekness is all of these things. Meekness is not weakness, but rather power under control.
 	All types of medicine have a prescribed dosage because taking any more than prescribed will have unintended effects. A cool breeze is nice until it becomes a full fledged tornado. A colt, when unbroken, will do much more damage than one that has been tamed.
 	Meekness is a teaching that Jesus’ brother, James, knew very well; he writes in James 3,
 [Jas 3:5, 7-8 KJV] 5 Even so the tongue is a little member, and boasteth great things. Behold, how great a matter a little fire kindleth! ... 7 For every kind of beasts, and of birds, and of serpents, and of things in the sea, is tamed, and hath been tamed of mankind: 8 But the tongue can no man tame; [it is] an unruly evil, full of deadly poison.
 James says that the tongue is like a fire, it starts out small but if not put in check, it will have firetruck after firetruck trying to douse every area of our life with water.
 This is why meekness is so important, it’s power under control– our tongue holds a lot of power and needs to be broken just like a baby horse. However, notice that James tells us, unlike all the animals of the earth, our tongues cannot be tamed by man. Thankfully, another passage of Scripture teaches us about the Fruit of the Spirit, which contains something called self-control.
+Several weeks ago, I was driving on the highway in Bloomington-Normal. I had to hop over to the other lane so I wouldn’t miss my turn. I got right in front of this car, and they laid on their horn, I must have not given them enough time. And then, a few miles later, the exact same car did the exact same thing, fearing they would miss their turn. I was ready, I held my hand on the horn of my car and was going to let them know how it felt to be honked at. But then the LORD checked me. I was studying for this lesson and had just looked at meekness. I knew it wasn’t Christian of me to do that, even if they deserved it from a worldly perspective.
 Pursuing a relationship with God, coming face to face with the process of salvation– repentance followed by baptism by water and baptism by God’s Spirit– will result in self-control along with many other God-given characteristics.
 But meekness isn’t just about suppressing power, it’s power under control, it’s the redirection of power for the Kingdom of God. Regarding the tongue, instead of breaking others down, build them up by saying, “Brother, I love those shoes!” or, “Sister, let me just say that your purse really compliments your outfit.”
 Meekness is a superpower– we can all be superheroes– but we must always remember that it is God who grants us the power to be meek.
 Let’s move on to our last Beatitude for today…
 They Which Do Hunger and Thirst After Righteousness
 'Blessed are they which do hunger and thirst after righteousness: for they shall be filled.' Matthew 5:6
-	Hungry people are desperate people. It’s crazy what people will do for food, especially when they’re starving. I won’t get into details on cannibalism but if you look throughout history, it has existed.
-	There are so many emotions that rise up when we’re hungry, has anyone in here every been hangry (I know Lily has)? There is just something about hunger– but once we’re filled, we’re completely different people, new creatures I might add (2 Corinthians 5:17).
+	Hungry people are desperate people. It’s crazy what people will do for food, especially when they’re starving. I won’t get into details on cannibalism but if you look throughout history…it happened.
+	There are so many emotions that rise up when we’re hungry, has anyone here ever been hangry? There is just something about hunger– but once we’re filled, we’re completely different people, new creatures one might say (2 Corinthians 5:17).
 	There is one man in the Bible who was very hungry. However, his hunger was different from that which we have been talking about; He was hungry for God. He was so hungry that he put his reputation and career at risk to talk to Jesus. That man’s name was Nicodemus.
 	One night, Nicodemus secretly meets up with Jesus. He says, “Rabbi,” or master, "we know that thou art a teacher come from God: for no man can do these miracles that thou doest, except God be with him.” Nicodemus is quite flattering, but Jesus is quick to respond with,
 [Jhn 3:3 KJV] 3 Jesus answered and said unto him, Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God.
 	Nicodemus is confused, “Born again? Say whattt?” So Jesus instructs Him a little more.
 [Jhn 3:5 KJV] 5 Jesus answered, Verily, verily, I say unto thee, Except a man be born of water and [of] the Spirit, he cannot enter into the kingdom of God.
-This promise from Jesus comes to pass on the day of Pentecost, where Peter is asked, “How must we be saved?” And he replies,
+This promise from Jesus comes to pass on the day of Pentecost, where Peter is asked by the people, “How must we be saved?” And he replies,
 [Act 2:38 KJV] 38 Then Peter said unto them, Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins, and ye shall receive the gift of the Holy Ghost.
-When we are hungry for God, He will fill us with His Spirit. When we have met up with our convictions, and are led to repentance, He will then fill us with His Spirit. I know many of you are probably hungry right now as we speak, but let me tell you about a dish that never gets old, that you never grow tired from eating.
-I have this struggle, maybe you guys do too, where I get hungry day after day. I’ll have had three meals one day and then the next day I could eat three more. Do you guys ever feel that way? Yeah, I’m sure all of you do because that’s completely normal.
+When we are hungry for God, He will fill us with His Spirit. When we have met up with our convictions, and are led to repentance, He will then fill us with His Spirit. I know all of us have experienced hunger, and maybe some of us are hungry right now, but we are getting ready to talk about a dish that never gets old, that you never grow tired of eating.
+But first, I have to make a confession. I have this struggle, maybe you guys do too, where I get hungry day after day. I’ll have had three meals one day and then the next day I could eat three more. Do you guys ever feel that way? Yeah, I’m sure all of you do because that’s completely normal.
 	When we’re full we don’t stay that way very long.
 	The same is true of our spiritual lives. 
-	Jesus tells the woman of Samaria in John 4 when she denies Him a drink from the well, “If thou knewest the gift of God, and who it is that saith to thee, Give me to drink; thou wouldest have asked of him, and he would have given thee living water. Whosoever drinketh of this water shall thirst again:”
-The thing about salvation, about being filled with God’s Spirit, that’s only the beginning. We are called to pursue righteousness for the rest of our lives. So when you hunger and thirst after the things of God, you’re blessed, because as a result of that, you will be filled. You’ll always grow hungry and thirsty– it’s in our nature to depend upon our Creator for survival– but it doesn’t take long for God to fill you up during a time of prayer, Bible reading, worship, teaching, or preaching. Continue seeking that which is righteous, feeding your soul on heavenly things– that which will make the difference in eternity.
-The world has prepared plenty of dishes as well, they try to compete for the dish of the LORD but they are only temporary. When we feed ourselves full of the junk food that the world offers us– whether it be death scrolling short clips, looking at posts from our favorite influencers, trying to excel at that latest videogame, etc… it is only a matter of time before we become hungry again, perhaps even more hungry than we were before. Seek after righteousness, satisfy your soul with something that will last.
-Happy are the poor. Happy are the sad. Happy are the humble. And happy are the hungry. We’ll pick up next week with the next four beatitudes. Until then, I encourage you all to read these verses from today, Matthew 5:3-6, and think about how you can put each one into practice. I love you all. Let’s head across the street as they get ready to close.
+	Jesus tells the woman of Samaria in John 4 when she denies Him a drink from the well,
+[Jhn 4:10, 13 KJV] – 10 Jesus answered and said unto her, If thou knewest the gift of God, and who it is that saith to thee, Give me to drink; thou wouldest have asked of him, and he would have given thee living water. ... 13 Jesus answered and said unto her, Whosoever drinketh of this water shall thirst again:
+	This isn’t the only time we read about Jesus making such a claim, After feeding the 5000, He says in John 10:10,
+[Jhn 6:35 KJV] – 35 And Jesus said unto them, I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst.
+The thing about salvation– about being filled with God’s Spirit– that’s only the beginning. We are called to pursue righteousness for the rest of our lives. So when you hunger and thirst after the things of God, you’re blessed, because as a result of that, you will be filled. You’ll always grow hungry and thirsty– it’s in our nature to depend upon our Creator for survival– but it doesn’t take long for God to fill you up during a time of prayer, Bible reading, worship, teaching, or preaching. Continue seeking that which is righteous, feeding your soul on heavenly things– that which will make the difference for eternity’s sake.
+The world has prepared plenty of dishes as well, they try to compete for the dish of the LORD but these dishes are only temporary. When we feed ourselves full of the junk food that the world offers us– whether it be death scrolling short clips, looking at posts from our favorite influencers, trying to excel at that latest videogame, etc… it is only a matter of time before we become hungry again, perhaps even more hungry than we were before. Seek after righteousness, satisfy your soul with something that will last.
+***Happy are the poor in Spirit. Happy are those who mourn. Happy are the humble. And happy are the hungry. We’ll pick up next week with the next four beatitudes. Until then, I encourage you all to read these verses from today, Matthew 5:3-6, and think about how you can put each one into practice. I love you all. Let’s end with a time of prayer.
 Who Are the Blessed? [Part 2]
-~ X Minutes
-Alrighty everybody, today we are continuing with the Beatitudes. Last week we talked about how the happy are poor, sad, humble, and hungry. I think based on that, a lot more of us should have these wide smiles on our faces. I’m just kidding, there was a little more context to that and if you want a refresher, or you weren’t here, I’d be happy to catch you up to speed after class.
+~ 18 Minutes
+Alrighty everybody, today we are continuing with the Beatitudes. On Wednesday, we talked about how the happy are poor, sad, humble, and hungry… I think based on that, a lot more of us should have wider smiles on our faces than we do. I’m just kidding, there was a little more context to that and if you want a refresher, or you weren’t here, I’d be happy to catch you up to speed after class.
 For now, let us continue with our fifth out of eight beatitudes…
 The Merciful
 'Blessed are the merciful: for they shall obtain mercy.' Matthew 5:7
@@ -1480,13 +1492,13 @@ God forgives sins, but we must first repent of the wrongs we have committed. God
 We have to have a moment like the servant before the king, realizing that we have messed up and that the only thing that can save us is the mercy of God.
 In his book, “Blessed Are…” LJ Harry references a song from an unknown artist which reads,
 He paid a debt He did not owe	I owed a debt I could not pay	I needed someone to wash my sins away;	And now I sing a brand new song,	Amazing grace,	Christ Jesus paid a debt that I could never pay.
-We could never pay the price of sin, we needed a spotless lamb, for the price of sin is death. Given that none of us are spotless– or without sin– Jesus paid that price for us. He didn’t have to, but He did because of His love for us. We are called to show that some love to others, which is something the servant in the earlier story failed to do.
+We could never pay the price of sin, we needed a spotless lamb, for the price of sin is death. Given that none of us are spotless– or without sin– Jesus paid that price for us. He didn’t have to, but He did because of His love for us. We are called to show that same love to others, which is something the servant in the earlier story failed to do.
 After the servant was forgiven by the king, he decided to follow up on a  person who owed him money. He came to the man who owed him one-hundred denarii, and once again we aren’t sure how much money that was, but we believe it could have been paid much more easily than the ten thousand talents. It was likely that this man could pay his one hundred denarii if given one hundred days to do so. The servant, however, wanted his money and he wanted it now. This man got down on his knees and begged for mercy, not so that he would not have to pay, but he simply wanted an extension. The servant was not feeling very merciful despite just receiving mercy from the king, so he put the man into the debt prison.
 When the king heard about this, he was furious, he called for his guards to bring the unforgiving servant into his palace where he condemned the servant’s behavior.
 [Mat 18:32-34 KJV] 32 Then his lord, after that he had called him, said unto him, O thou wicked servant, I forgave thee all that debt, because thou desiredst me: 33 Shouldest not thou also have had compassion on thy fellowservant, even as I had pity on thee? 34 And his lord was wroth, and delivered him to the tormentors, till he should pay all that was due unto him.
 	Jesus then tells us that the Kingdom of Heaven is the same way, if we become hypocrites after being forgiven by God for not forgiving our fellow man, we shall be punished.
-Mercy gotten begets mercy given, or at least it should. We must forgive others as we have been forgiven by God.
-Happy are those who have had to forgive. Notice the people who are happy are those who have been hurt rather than those who have never experienced that kind of pain?
+Mercy gotten begets mercy given, or at least it should. When we have received mercy, out of that a dispensation of mercy should be birthed. We must forgive others as we have been forgiven by God.
+Happy are those who have had to forgive. Notice the people who are happy are those who have been hurt rather than those who have never experienced that kind of pain.
 Forgiveness is special because it heals the person forgiving before it ever heals the person receiving forgiveness.
 So far, we have begun to realize we have nothing without God, which causes us to mourn, to be meek, and to be hungry for Him and what He has to offer. We have also just learned that nobody owes us anything, that we are only here by the grace of God.
 Let us move up this ladder unto the next rung of our Beatitudes…
@@ -1500,7 +1512,7 @@ I have heard it said that holiness is like a set of guardrails on either side of
 Purity is an undivided devotion to God. This means we must get our priorities straight, focus on God. James 1:8 warns us not to split up our focus or be double minded because,
 [Jas 1:8 KJV] 8 A double minded man [is] unstable in all his ways.
 Pure in-hearted people don’t have to worry about tripping over their disguised personas. They aren’t worried about what others may find after taking a close look at their life because they have nothing to hide.
-We aren’t pure in heart to please our parents, or to please Brodey, Alexis, or even Pastor Geuin– we are pure in heart to please God. Jesus loved us so much that He died on the cross for us, if holiness pleases Him (and it does), then I want to be holy.
+We aren’t pure in heart to please our parents, or to even to please Brodey and Alexis– we are pure in heart to please God. Jesus loved us so much that He died on the cross for us, if holiness pleases Him (and it does), then I want to be holy.
 The Word of God makes us pure:
 [Jhn 15:3 KJV] 3 Now ye are clean through the word which I have spoken unto you.
 [Eph 5:26-27 KJV] {Christ died for us} 26 That he might sanctify and cleanse {us} with the washing of water by the word, 27 That he might present it to himself a glorious church, not having spot, or wrinkle, or any such thing; but that it should be holy and without blemish.
@@ -1518,44 +1530,162 @@ We should also take note of his writing in Psalm 139:23-24,
 	We have two more beatitudes to investigate– two more rungs of this ladder to go before reaching the top…
 The Peacemakers
 'Blessed are the peacemakers: for they shall be called the children of God.' Matthew 5:9
-…
+There aren’t very many things in the Bible that we are called to make. God doesn’t call us to make money or to make a name for ourselves, but He does call us to make peace.
+There is a constant war that rages day in and day out. I’m not talking about the kind of wars that you hear about watching FOX, CNN, or ABC. Even if mankind stopped fighting one another, one would still notice the wars that take place between God and our flesh.
+[Eph 6:12 KJV] – 12 For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high [places].
+
+As fleshly beings, we often get caught up within our flesh. Something happens to us, we are wronged by someone or a situation doesn’t turn out right, and we begin to take arms. We are so quick to load the balistas and fill the cannons with gun powder, but if we would just stop we would realize that, “the battle is not fought with bombs and guns, but worship is the way that the battle is won.”
+That lyric might sound familiar because it is a song we sing here at church. Worship is an inner attitude of reverence and submission. Those times that we get alone with God– when we get real with God– crying at the altar because of His goodness and grace– that’s worship.
+Paul writes in Romans,
+[Rom 12:1 KJV] – 1 I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, [which is] your reasonable service.
+Regarding translations like the NIV, instead of saying reasonable service, they say something similar to, “this is your true and proper worship.”
+When we worship God, we are giving something of ourselves. We might be giving Him our time, we might be giving Him our trust, and when we make the decision to be peacemakers, we are given God our control. We make the conscious decision that Jesus made when He prayed, “Not my will, but yours be done” (Luke 22:42). You’ve probably noticed that a lot of these Beatitudes require us to have self-control. To earn self-control, we have to surrender all the control to God. It seems counterproductive– like an oxymoron– to have to give up control in order to gain it. A lot of the times, when people lack self-control, they are compulsive, they do things without thinking. Well, by giving our control to God, we find ourselves not doing anything until we feel prompted by the LORD to do so.
+I learned a couple years ago about the importance of peace. If there is no peace in a situation, then it is not of God. He is Jehovah Shalom, “the LORD is peace,” if it does not exist in an opportunity, that opportunity is not of God. Now, I’m not saying there won’t be uncertainty. When I decided to change my college major, I had plenty of uncertainty. I switched to Business and Accounting, not because I was certain they would work out and that I would love them, but because I found peace in that choice…
+We primarily have been talking about peace with God, but I want to transition into talking about another important topic: peace with others. That passage about wrestling not against flesh and blood, Paul goes on to say,
+[Eph 6:13, 15 KJV] – 13 Wherefore take unto you the whole armour of God, that ye may be able to withstand in the evil day, and having done all, to stand. ... 15 And your feet shod with the preparation of the gospel of peace;
+	When we talk about the Armor of God, we talk about the Boots of Peace. This is such a powerful illustration because it instructs us that no matter where we go, peace should follow. When we step into a room, we must bring peace with us. When we leave a room, we leave tracks of peace. My parents hate when I wear shoes in the house because I track dirt everywhere, but if metaphorically we left peace in every part of our home and schools, who wouldn’t want that?
+Once we have made peace in all aspects of our life– with God, with others, and even with ourselves– we are called to help others do the same. Paul writes in 2 Corinthians,
+[2Co 5:18-19 NIV] – 18 All this is from God, who reconciled us to himself through Christ and gave us the ministry of reconciliation: 19 that God was reconciling the world to himself in Christ, not counting people's sins against them. And he has committed to us the message of reconciliation.
+	God made peace with us when He came down as a man to die on the Cross. He was killed by the hand of mankind, meaning that before we ever made peace with Him, He made peace with us. He has called us to live by that example, making peace with our brothers and sisters, maybe not for their sake, but for our own.
+	Where there is peace, there is purity. When we make the effort to be peaceful, we have already made the effort to be pure as well. We just talked about being pure in heart on the rung before this one.
+	Peace doesn’t require us to sacrifice our morality or holiness, but vengeance does– think back about our conversation regarding mercy, and choose to be a peace maker.
+	We now approach the final rung of the ladder. If you’re scared of heights, don’t look down! We’ve come a long way, but we’re not done yet.
 They Which Are Persecuted for Righteousness’ Sake
-'Blessed are they which are persecuted for righteousness' sake: for their's is the kingdom of heaven. Blessed are ye, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake.' Matthew 5:10-11
-…
+'Blessed are they which are persecuted for righteousness' sake: for theirs is the kingdom of heaven. Blessed are ye, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake. Rejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets which were before you.' Matthew 5:10-12
+All these people standing before Jesus, listening to the words He had to say, none of it made sense to them. They weren’t too sure about this preacher, and their doubt grew even larger when, instead of saying “Blessed are they which are delivered from Roman scrutiny,” Jesus says, “Blessed are the persecuted (for righteousness’ sake).”
+Imagine what the disciples must have thought. These men weren’t just listening to a sermon, only to head home like everyone else. The disciples were all in. They left behind their families and businesses to follow after Jesus.
+The disciples were promised that they would become “fishers of men” (Matthew 4:19; Mark 1:17), but then they hear that men will revile them.
+Later in the Gospels, we see a similar teaching come from Jesus,
+[Jhn 15:18 KJV] – 18 If the world hate you, ye know that it hated me before [it hated] you.
+If I can be honest, this is my favorite beatitude. I can’t say I have ever been persecuted, though I did have a guy call me Mormon in high school, which… was weird. But nonetheless, understanding that we are called to live a life that contrasts so much to one of comfort– that does something to me.
+I had to really stop and think when I got to this part of the lesson– I knew that this beatitude was my favorite, but I wanted to understand why, not just so I can tell all of you, but so I could better understand it for myself.
+This is what I came up with. When I was around twelve years old, I stopped believing in God. My parents had just split apart and my faith wavered. For this period of my life, I tried filling myself by listening to music I had no right listening to and watching shows I had no right watching. No matter what I did, I couldn’t fill the void that was inside, a void that was there long before I denied Christ. I was hungry, I was trying to fill myself the only way I knew how– with the things of this world. Little did I know that I would be filled at a Pentecostal campground in the middle of nowhere. Little did I know that God even wanted to fill me with His Spirit until I started coming to church again and digging into Scripture. When my life was meaningless, God gave me meaning…
+So when I read scriptures like this Beatitude that warn us that some people will hate us for what we believe, I honestly get excited! I don’t know how well I’ll carry that emotion when it actually comes down to it. But I know that given such circumstances, I can live a life worth something– a life with meaning. When we reach the eighth rung of the ladder, we can tell someone about the Gospel, get slapped because of it, and then turn around and do it again because we realize this life isn’t about us– it’s about the One who loves us. For me, it’s about the One who loved me when I couldn’t even love myself.
+	In Acts 5, we read about the disciples severely beaten by the Sadducees– the one translation says they were flogged, meaning “to beat severely with a whip or rod.” And do you know what the disciples did in response to this? It’s unbelievable– they rejoiced! Specifically, they 'rejoic[ed] that they were counted worthy to suffer shame for [the name of Jesus]' (Acts 5:41 KJV)
+Beyond Jesus’ original disciples, the Apostle Paul had his fair share of persecution that he speaks about in 2 Corinthians 11. Paul writes that he was whipped 199 times, was beaten with rods 3 different times, and was even stoned– people threw rocks at him and tried to kill him. Paul makes note that it was his fellow Jews who did this to him because they did not want to believe in the message He spoke of.
+What’s interesting, for both the disciples and Paul, is that neither ever stopped preaching the Gospel because of the persecution that came with it. They all preached the Gospel and welcomed persecution until it led to most of their deaths. John the beloved, or John the revelator, is the only one who we know died of old age, and that was after being boiled alive. How humbling is it how far these men would go for the Truth they held.
+Please stand…
+I want us all to ask ourselves these questions and think over them as we end in prayer:
+If it came to picking our friends or Jesus, what choice would we make?
+How would we respond if our families told us we had to choose, either Him, or them?
+If it was between our career or Jesus, could we honestly say that we stand by our LORD and Savior?
+I can’t answer these questions for you, just like you can’t answer these questions for me. We all have to make our own decision to follow after God, no matter what may happen as a result.
+***Additionally, we all must make the choice to study and live out these Beatitudes. I don’t know about you, but I want to live in the image that my Creator formed me in; I want to live in His image.
+I encourage all of you, spend some time in prayer after you leave here, asking God to help you demonstrate these Beatitudes. Start with “Blessed are the poor in spirit,” and pray until you find yourself at “Blessed are they which are persecuted for righteousness' sake.” Let’s find a place to pray, you can get out of your seat if you feel like it, and let us go before the LORD…
+
+
 References
-[Jhn 14:16-18 KJV] 16 And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever; 17 [Even] the Spirit of truth; whom the world cannot receive, because it seeth him not, neither knoweth him: but ye know him; for he dwelleth with you, and shall be in you. 18 I will not leave you comfortless: I will come to you.
-[Jhn 4:10, 13 KJV] 10 Jesus answered and said unto her, If thou knewest the gift of God, and who it is that saith to thee, Give me to drink; thou wouldest have asked of him, and he would have given thee living water. ... 13 Jesus answered and said unto her, Whosoever drinketh of this water shall thirst again:
+[Gen 23:2 KJV] – 2 And Sarah died in Kirjatharba; the same [is] Hebron in the land of Canaan: and Abraham came to mourn for Sarah, and to weep for her.
+[1Sa 20:41 KJV] – 41 [And] as soon as the lad was gone, David arose out of [a place] toward the south, and fell on his face to the ground, and bowed himself three times: and they kissed one another, and wept one with another, until David exceeded.
+[Act 20:37-38 KJV] – 37 And they all wept sore, and fell on Paul's neck, and kissed him, 38 Sorrowing most of all for the words which he spake, that they should see his face no more. And they accompanied him unto the ship.
+[Jhn 11:35 KJV] – 35 Jesus wept.
+[Job 9:32-33 KJV] – 32 For [he is] not a man, as I [am, that] I should answer him, [and] we should come together in judgment. 33 Neither is there any daysman betwixt us, [that] might lay his hand upon us both.
+[Jhn 14:16-18 KJV] – 16 And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever; 17 [Even] the Spirit of truth; whom the world cannot receive, because it seeth him not, neither knoweth him: but ye know him; for he dwelleth with you, and shall be in you. 18 I will not leave you comfortless: I will come to you.
+[2Co 5:17 KJV] – 17 Therefore if any man [be] in Christ, [he is] a new creature: old things are passed away; behold, all things are become new.
+[Jhn 17:14-18 KJV] – 14 I have given them thy word; and the world hath hated them, because they are not of the world, even as I am not of the world. 15 I pray not that thou shouldest take them out of the world, but that thou shouldest keep them from the evil. 16 They are not of the world, even as I am not of the world. 17 Sanctify them through thy truth: thy word is truth. 18 As thou hast sent me into the world, even so have I also sent them into the world.
+[Jhn 3:16 KJV] – 16 For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
+[1Ti 3:16 KJV] – 16 And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Spirit, seen of angels, preached unto the Gentiles, believed on in the world, received up into glory.
+[Gal 5:24 KJV] – 24 And they that are Christ's have crucified the flesh with the affections and lusts.
+[1Co 15:31 KJV] – 31 I protest by your rejoicing which I have in Christ Jesus our Lord, I die daily.
+[2Co 11:24-33 KJV] – 24 Of the Jews five times received I forty [stripes] save one. 25 Thrice was I beaten with rods, once was I stoned, thrice I suffered shipwreck, a night and a day I have been in the deep; 26 [In] journeyings often, [in] perils of waters, [in] perils of robbers, [in] perils by [mine own] countrymen, [in] perils by the heathen, [in] perils in the city, [in] perils in the wilderness, [in] perils in the sea, [in] perils among false brethren; 27 In weariness and painfulness, in watchings often, in hunger and thirst, in fastings often, in cold and nakedness. 28 Beside those things that are without, that which cometh upon me daily, the care of all the churches. 29 Who is weak, and I am not weak? who is offended, and I burn not? 30 If I must needs glory, I will glory of the things which concern mine infirmities. 31 The God and Father of our Lord Jesus Christ, which is blessed for evermore, knoweth that I lie not. 32 In Damascus the governor under Aretas the king kept the city of the Damascenes with a garrison, desirous to apprehend me: 33 And through a window in a basket was I let down by the wall, and escaped his hands.
 Resources
 Blessed Are: A Practical Look At The Beatitudes by LJ Harry
 
 
 ---
 
-## 10.13.26
+## Who Are the Woeful?
 **Source:** Google Doc | **Date:** 10.13.26
 
 ---
 
-Title
+Who Are the Woeful?
 @ CMI (10/13/26)
+~ 10 Minutes
 
 | Purpose | Method |
 |  |
 | Thesis Statement |
-|  |
+| Christ teaches us how to be blessed, but He also warns us on how to avoid being woeful. |
 
-Intro…
+Before we get started, let us pray…
+*** We will be in Luke 6 tonight. ***
+At my church, in youth class, I have been teaching the Beatitudes from Matthew 5. I split it up into two lessons, teaching both this past Wednesday and Sunday, covering all eight of the Beatitudes– all of the “Blessed are the…” I titled my lesson, “Who are the Blessed?”
+Tonight, I am taking a slightly different approach by following Luke’s account in chapter 6 instead of Matthew’s. I have entitled this lesson, “Who are the Woeful?”
+When we read “Blessed are…” Jesus is saying, “Happy are–” or, “Content are…” An important distinction I want to make is that while the world offers happiness and contentment, what Jesus is promising is far greater– it’s joy.
+Joy isn’t an emotion like happiness or contentment, it is a mindset. We can be devastated from loss, or concerned about life’s endeavors and still find ourselves in the joy of the LORD. Joy, being a Fruit of the Spirit, can only be obtained in its fullest capacity when we have accepted God’s Spirit into our lives.
+I will need a few readers tonight– we don’t have too many scriptures to look at, Luke does not cover all eight of the Beatitudes, but he does cover a few.
+[Luk 6:20-23 ESV] – 20 And he lifted up his eyes on his disciples, and said: "Blessed are you who are poor, for yours is the kingdom of God.
+Beatitude #1/8 → 'Blessed are the poor in spirit: for their's is the kingdom of heaven' (Matthew 5:3 KJV).
+The poor realize they are nothing without grace. The Bible uses two distinguishing words for the poor, one that describes the working poor while the other describes the begging poor. Here, we see Christ referring to the begging poor. Those who hold their signs up that say, “anything helps” are the ones who we read about Christ calling blessed.
+When I think of the begging poor, I think of Ruth and her mother-in-law Naomi. These two women lived in a patriarchal society, one that prevented them from doing much on their own. Both had lost their husbands, and Naomi had lost her two sons. It was only by the grace of a man named Boaz that the two were able to thrive again. He gave them some of his harvest for free, because of his love for Ruth.
+This painted picture parallels us as believers. Christ loved us and showed grace unto us by dying at Calvary for our sins. If we let the riches of this world distract us, and the liberties we have been given because of Christ’s sacrifice, we can forget that we are only here today because God has set us free.
+I want to make a disclaimer that in Matthew 5:3, Christ says, 'Blessed are the poor in spirit: for their's is the kingdom of heaven.' But here, Jesus doesn’t make that distinction. So while Jesus is partly speaking metaphorically and spiritually, He is also cautioning us about having too much wealth in the physical.
+Now, I’m not saying we have to live poor, that would be pretty deflating since most of us are all in school trying to get a high-compensating job. But I believe the teaching that stands out most is not allowing the desire for wealth to get in the way of other things in life. This comes to light in the next verse I want to read, Jesus’ first woe in this chapter.
+Simultaneously with the Beatitudes, I want to focus on the next three verses following them, when Jesus pronounces the Woes.
+[Luk 6:24-26 ESV] – 24 "But woe to you who are rich, for you have received your consolation.
+If money is our biggest driving factor in life, I believe we have missed the mark.
+When we focus on wealth building above all else, we have had our fill and invested too much interest in monetary things. Time with family and friends is important. Time spent studying, whether it be education or the spiritual discipline, is important. When we invest entirely in one thing, whether that be with our time or worries, we can find ourselves unknowingly worshipping such things.
+For example, I love video games, I have played them all my life. Minecraft is one of my favorites and I’m not even kidding or exaggerating when I say I have probably logged 10,000 hours on the game between all platforms. Furthermore, I’m sure I have doubled that amount watching YouTube videos about Minecraft. I did the math, it is over 3 years of my life just on Minecraft– which checks out. My mind is vast with Minecraft knowledge; I am rich with it, but that knowledge isn’t going to save souls.
+At least with money you can invest into ministries to help move the mission, but then if it’s not being used for that, even partly, then it is no different than my Minecraft knowledge as far as regarding the spiritual scope of things.
+Blessed are the poor, whether that be by nature– the hand that a person was dealt, or voluntarily by someone surrendering their finances to God.
+This brings us to our second beatitude.
+21 "Blessed are you who are hungry now, for you shall be satisfied. "Blessed are you who weep now, for you shall laugh.
+Beatitude #4/8 → 'Blessed are they which do hunger and thirst after righteousness: for they shall be filled' (Matthew 5:6 KJV).
+Beatitude # 2/8 → 'Blessed are they that mourn: for they shall be comforted' (Matthew 5:4 KJV).
+	By a show of hands, how many have ever been hungry, even just a little bit? …
+Not surprisingly, all of us– because while we grow hungry and feed ourselves, we end up right back where we started, growing hungry again. The same is true spiritually; while we are able to find ourselves becoming satisfied after hearing a sermon, a worship song, or a time of Bible reading and prayer, we must continually do so.
+	Jesus says in John 4,
+[Jhn 4:10, 13 ESV] – 10 Jesus answered her, "If you knew the gift of God, and who it is that is saying to you, 'Give me a drink,' you would have asked him, and he would have given you living water." ... 13 Jesus said to her, "Everyone who drinks of this water will be thirsty again,
+	And in John 6:35 He says,
+[Jhn 6:35 ESV] – 35 Jesus said to them, "I am the bread of life; whoever comes to me shall not hunger, and whoever believes in me shall never thirst.
+	Jesus tells us that by accepting Him into our life, we never have to grow hungry or thirsty again (spiritually of course). This might sound a little contrary to what I said earlier. I mentioned how we still have to feed ourselves, but Christ says we won’t grow hungry. The best way I can bring this to thought is this:
+	Let’s say we have leftovers and eat on them for a couple of days. We might want to eat them longer except that they run out. When we run out of these leftovers, we soon get hungry. Spiritually, however, those leftovers become replenished every time we open them up, but we still have to make the conscious choice to eat them. We can still starve ourselves spiritually if we make the choice not to eat. Christ has fed us so that we will no longer hunger, but we still have to accept that food.
+	Jesus then says, in the same verse, blessed are those who weep. This sounds a little ironic. The people who Christ calls blessed aren’t the ones who have never cried, but instead they are the ones who have been given a reason to cry.
+	I don’t know about you, but I find myself crying after a powerful message at church, or even when hearing particular lines in a song. I cry because I realize that without God, I am nothing. Once we realize that we are poor in spirit– nothing without God– how else are we to respond than by crying in His presence.
+	Let’s move onto Jesus’ second woe.
+25 "Woe to you who are full now, for you shall be hungry. "Woe to you who laugh now, for you shall mourn and weep.
+On the subject of being full, there have been more times than I care to admit, that I have come home after school and snacked on food. Then, later I find out that what we’re having for dinner is one of my favorite meals (I still live at home with my parents, I didn’t know if I needed to make that clear). But for example, I will eat chips and salsa and grow full, then learn that dad is making burgers for dinner. It’s the worst! I wasted my appetite on junk when something so much greater was put in place. This same concept is true of our spiritual lives.
+The world serves so many dishes to try and pull our time and attention away from God. The short clips, the long episodes, the latest trend, the newest video game (like Minecraft Dungeons II)– no matter what it is, the world would like nothing better than to use it as a distraction.
+We are limited on the amount of time in a day. As a result, we find our days growing full of junk when in reality we could have spent more time studying the Word of God and praying.
+As far as laughing now, Christ warns us to be careful because it is those people who will mourn later. This brings me to a discussion on seasons of hills and valleys. In the hills, the really good times of life, it is easy to forget to talk with God because life is going so well. That’s why valleys are important because they bring us back to reality and remind us that it is God who made these seasons so that we would depend on Him as our strong tower.
+Without the storms, we would have no rainbows to remind us of God’s promise.
+Without the night, we would not understand the excitement and joy of a new day.
+Without that C on our transcript, we would not understand the dedication that it took to pass that class (I have wanted to cry over a couple of my classes).
+Blessed are those who mourn.
+Now, let’s move onto our third and final beatitude.
+22 "Blessed are you when people hate you and when they exclude you and revile you and spurn your name as evil, on account of the Son of Man! 23 Rejoice in that day, and leap for joy, for behold, your reward is great in heaven; for so their fathers did to the prophets.
+Beatitude #8/8 → 'Blessed are they which are persecuted for righteousness' sake: for theirs is the kingdom of heaven. Blessed are ye, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake. Rejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets which were before you' (Matthew 5:10-12 KJV).
+	Tradition tells us that:
+Peter was crucified (upside down)
+Andrew was crucified (on an X-shaped cross	)
+James (son of Zebedee) was executed by the sword
+Philip was crucified (possibly upside down)
+Bartholomew was flayed alive and beheaded
+Thomas was stabbed to death
+Matthew was stabbed to death
+	These disciples of Christ, those who were told they would be fishers of men, were also told that men would revile them.
+	Similarly, Paul writes in 2 Corinthians 11, that he was whipped 199 times, beaten with rods 3 different times, and even stoned– people threw rocks at him and tried to kill him. Paul makes note that it was his fellow Jews, who did this to him because they did not want to believe in the message He spoke of.
+	The more we spread the Gospel, the more likely it will be that we come across somebody who doesn’t believe or agree with it. I’m not saying any of us should intentionally put ourselves in a situation that might lead to our death, that’s unwise and you are much more beneficial to the Kingdom alive than dead. But I will say that we should not shy away from any persecution either, don’t be afraid of spreading the Gospel when there are men and women of God who died so that it could be spread.
+Those who find themselves persecuted for righteousness’ sake, are blessed.
+	Comparatively, let’s take a look at Jesus’ third and final woe.
+26 "Woe to you, when all people speak well of you, for so their fathers did to the false prophets.
+It was the false prophets who were well-liked throughout Old Testament scriptures. Jeremiah, who prophesied about the coming exile to Babylon, was hated by his fellow Jews and they much preferred to hear Shemaiah, the false prophet, prophesy against Jeremiah. Shemaiah must have had quite the following, but as a result of his lies and stealing away of hearts, God said He was to be punished.
+We can’t conform to this world in order to be liked by the people of it. We are called into the world and not of the world. This world is not our home, and our job is to tell others about our actual home, about the life after this one, about an eternity with our Creator and Savior.
+We’re not called to make a name for ourselves, but instead we’re called to make disciples.
+Let us end with a time of prayer, asking God to help us carry out these biblical teachings and have the right attitude…
 
 
 ---
 
-## 11.17.26
+## An Eye For an Eye
 **Source:** Google Doc | **Date:** 11.17.26
 
 ---
 
-Title
+An Eye For an Eye
 @ CMI (11/17/26)
+~ X Minutes
 
 | Purpose | Method |
 |  |
@@ -1563,24 +1693,26 @@ Title
 |  |
 
 Intro…
+Matthew 5:38-42
+Exodus 21:22-26
+Romans 12:16-19
+Turn the other cheek
+Give them your cloak and coat
+Carry the enemies gear 2 miles
+Give generously without charging extra
+Practice radical generosity, and live by the law of love
+LJ Harry’s Blessed Are… Ch. 9
 
 
 ---
 
-## ??.??.26
+## Drafts
 **Source:** Google Doc
 
 ---
 
-Title
-@ Sunday Night (?/?/26)
-
-| Purpose | Method |
-|  |
-| Thesis Statement |
-|  |
-
-..
+Drafts
+Quotes and Illustrations
 The Garden of Eden
 God’s plan of salvation was not an after thought. Adam and Eve’s disobedience was not a sign that God lacked control of the situation, rather their disobedience points forward to Jesus’ obedience on the Cross. (See Hebrews…)
 Babylon
@@ -1594,16 +1726,6 @@ Several of us college students host a Campus Ministry at Eastern Illinois Univer
 Lazarus’ Death
 Jesus was well aware that Lazarus’ fate was not determined by the world, He knew who really had control of the situation, even when Martha and Mary may not have.
 
-
----
-
-## Drafts
-**Source:** Google Doc
-
----
-
-Drafts
-Quotes and Illustrations
 There is a danger when we go somewhere we are not sent to or called to be (see Jeremiah versus the false prophets during the Babylonian exile).
 
 Disrespecting the Word means disrespecting God.
@@ -2013,6 +2135,32 @@ And when he had called the people unto him with his disciples also, he said unto
 
 ---
 
+## Our Strong Tower
+**Source:** Google Doc
+
+---
+
+Our Strong Tower
+@ Event ()~ X Minutes
+
+| Purpose | Method |
+|  |
+| Thesis Statement |
+| When you feel overwhelmed, run to the strong tower, not the temporary fixes. |
+
+Intro…
+*When you have a completely exhausting or overwhelming day, what is the very first thing your hands or mind instinctively reach for?
+[Pro 18:10 KJV] – 10 The name of the LORD [is] a strong tower: the righteous runneth into it, and is safe.
+	…
+
+Discussion Questions?
+…
+
+…
+
+
+---
+
 ## The Classes of Israel
 **Source:** Google Doc
 
@@ -2045,6 +2193,31 @@ Hated Rome, they believed paying taxes to a pagan king was a sin against God, th
 Essenes
 The Separatists
 Ignored Rome, focusing entirely on themselves and the holy text.
+
+
+---
+
+## The Commandment of a Father
+**Source:** Google Doc
+
+---
+
+The Commandment of a Father
+@ Event (##/##/##)~ X Minutes
+
+| Purpose | Method |
+|  |
+| Thesis Statement |
+|  |
+
+Intro…
+Saul and his disobedience regarding King Agag.
+	…
+	How often, growing up, did we hear our parents tell us to either do or not do something? If you were anything like me, your response was likely, “Why?”
+	I mean, I sounded like the seagulls from Nemo– “Why? Why? Why?” I’m sure it annoyed everyone in the near vicinity, and was quite childish. But do we not do the same with God?
+	…
+	Sometimes my parents would answer my everburning question of why by saying, “Because we said.”
+To me it sounded like they didn’t actually know the answer and that was their hail mary to end the neverending questioning. When it comes to God, however, we can be certain that He does know the reason behind His commandments, even when we do not.
 
 
 ---
@@ -2227,6 +2400,24 @@ Secondly, Solomon, the wise…
 'So the last shall be first, and the first last: for many be called, but few chosen. ' Matthew 20:16
 So unlike in the world where we may think of ourselves as the least of the least, in the Kingdom of God, the least becomes the greatest! When you have God, all things are possible (), but for that to be true, the inverse must also exist: without God, nothing is possible. These men we discussed here–– both Samson the strong, and Solomon the wise–– were talented and anointed by God, until they forsook that anointing, and thereby forsook God.
 "When you compare to someone greater than you, it comes off as pity [I wish I were more like them, nevertheless I am me]; when you compare to someone less than you, it comes off as pride [I'm so thankful I'm not like that]."
+
+
+---
+
+## United in the Mission
+**Source:** Google Doc
+
+---
+
+United in the Mission
+@ Event (##/##/##)~ X Minutes
+
+| Purpose | Method |
+|  |
+| Thesis Statement |
+|  |
+
+Intro…
 
 
 ---

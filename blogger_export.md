@@ -1,6 +1,296 @@
 # Blogger Posts Export
 
-## Seeking Wise Counsel
+## God's Timing (Esther)
+**Published:** 2026-10-01 | **[Read Online](https://jonathan-the-psalmist.blogspot.com/2026/10/the-timing-of-god-esther.html)**
+
+---
+
+​ Last week, we talked about Nehemiah...
+
+Today, we will be moving a little backwards chronologically, but only by thirty years or so, in order to come across the book of Esther.
+
+Interestingly enough, the book of Esther never names God.
+
+What I like about this book, and something I had never noticed before, is the timelines of God demonstrated throughout its entirety.
+
+The book starts out telling us about King Ahasuerus, who reigned from India unto Ethiopia (Esther 1:1).
+
+We learn that the king is throwing a party with all of his mates, when he calls upon his wife, Queen Vashti, to show herself before him and all of his friends. The king is thrown off guard when the queen responds by saying “No” (Esther 1:12).
+
+I'd imagine, if I were the king and had been embarrassed in a patriarchal society such as this one, I'd be fuming. King Ahaseurus was just that, and Queen Vashti paid the price. Not only did she lose her title as queen, but rabbinic tradition states that Vashti was executed as well (though make note that the text of the Bible does not tell us this).
+
+Without getting graphic, some scholars believe that King Ahasuerus was asking for his wife to appear unto him and his friends wearing only her crown. Given that explanation, her response makes a lot of sense and her situation can be categorized as unjust, for lack of a better word.
+
+However, these circumstances carry us further into the divine Will of God.
+
+After four years of being divorced from Vashti, the king and his servants wanted to find someone to take her place as queen (Esther 2:1-4).
+
+A Jewish man named Mordecai heard this and relayed it to his orphaned cousin, Esther, who was in his custody (Esther 2:5-7).
+
+***
+
+Fun fact: Esther wasn't actually her Hebrew name, but was instead her Persian name. Esther meant "star" but her Hebrew name, Hadassah, meant myrtle, as in a myrtle tree. Taking a look at Isaiah 55:13, it reads,
+
+[Isa 55:13 KJV] – 13 Instead of the thorn shall come up the fir tree, and instead of the brier shall come up the myrtle tree: and it shall be to the LORD for a name, for an everlasting sign [that] shall not be cut off.
+
+This verse will begin to be even more powerful as we explore the life of Esther.
+
+***
+
+Returning back to our account, Moredcai commands Esther to hide her true identity when arriving at the palace (Esther 2:10), likely to aid in the chance of her becoming queen.
+
+We learn that after all these women approach King Ahaseurus, it is Esther who finds favor with him (Esther 2:15). The royal crown is then placed upon her head and she becomes queen (Esther 2:17).
+
+As chapter 2 comes to an end, we read that Mordecai overheard some of the king's chamberlains, or his high ranking officers who likely managed his assets, and they were plotting to kill the king. Mordecai then tells Esther who tells the king, while crediting her cousin as the source of the information.
+
+Chapter 3 opens with the result of what happened next. The king promoted a man to be above all the princes, but that man wasn't Mordecai despite his good character, it was instead Haman (Esther 3:1), a man who hated Mordecai.
+
+The king commanded that all the servants within the king's gates bow and revere Haman, but Mordecai refused to bow down to anyone who wasn't the Almighty. The people, they didn't understand why Mordecai refused to bow. When Haman found out, he grew angry. Learning that Mordecai and his people were Jews, Haman sought to kill all Jews.
+
+Haman appeals to the king and is able to convince the king to let him sign off on a decree that these people who refuse to bow down to the king and follow his commandments be killed (Esther 3:8-11).
+
+***
+
+Another little side note here: the wording of the decree in Esther 3:13 says,
+
+[Est 3:13 KJV] – 13 And the letters were sent by posts into all the king's provinces, to destroy, to kill, and to cause to perish, all Jews, both young and old, little children and women, in one day, [even] upon the thirteenth [day] of the twelfth month, which is the month Adar, and [to take] the spoil of them for a prey.
+
+[Est 3:13 KJV] – 13 And the letters were sent by posts into all the king's provinces, to destroy, to kill, and to cause to perish, all Jews, both young and old, little children and women, in one day, [even] upon the thirteenth [day] of the twelfth month, which is the month Adar, and [to take] the spoil of them for a prey.
+
+These verbs used (destroy, kill, and cause to perish) are interesting, especially when read alongside John 10:10, which reads,
+
+[Jhn 10:10 KJV] – 10 The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have [it] more abundantly.
+
+[Jhn 10:10 KJV] – 10 The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have [it] more abundantly.
+
+The Enemy wants nothing more than to destroy and annilate everything Godly from the face of the earth. Which is powerful in contrast to God the Creator and His Word which is the Seed planted in our lives and the Bread that sustains our every need.
+
+***
+
+Continuing with our story of Esther, we find that Mordecai realizes what has been done and he began to mourn (Esther 4:1). He then meets up with Esther and tells her what has transpired. Mordecai then convinces Esther to go before the king and ask him to undo the decree that Haman had made against her and her people (Esther 4:13-14).
+
+Esther is afraid because she knows that going before the king without being summoned could lead to her execution. It wasn't unless the king stretched out his golden sceptre that a person could be spared in such an instance. But she remains obedient to her guardian nonetheless and requested that all the Jews fast and pray for her situation (Esther 4:16).
+
+After three days of fasting and prayer, Esther puts on her royal apparel and goes before King Ahaseurus. She finds favor once again with the king and he holds out his sceptre toward her (Esther 5:1-2). She asks that a banquet be held and that the king and Haman would attend so that she can make her request before them all there (Esther 5:4).
+
+If you're Haman in this situation, you would probably feel great about the situation. You've just been promoted and now the queen is hosting a banquet for you and the king. The Bible says that Haman is walking around joyful and with a glad heart, but when he spots Mordecai, he is filled with indignation (Esther 5:9), or anger. So Haman, his wife, and all his friends decided that gallows should be made and that Mordecai be hanged thereon (Esther 5:14).
+
+Before the banquet, the king is having trouble sleeping and desires that the book of records be read to him. It is within those records that the king is reminded of Mordecai being the one who warned Esther of the assainantion plots against the him. The king asks what has been done to honor Mordecai for his loyalty and his servants reply that nothing has been done (Esther 6:1-3).
+
+Allow me to read from Esther 6:4-10,
+
+[Est 6:4-10 KJV] – 4 And the king said, Who [is] in the court? Now Haman was come into the outward court of the king's house, to speak unto the king to hang Mordecai on the gallows that he had prepared for him. 5 And the king's servants said unto him, Behold, Haman standeth in the court. And the king said, Let him come in. 6 So Haman came in. And the king said unto him, What shall be done unto the man whom the king delighteth to honour? Now Haman thought in his heart, To whom would the king delight to do honour more than to myself? 7 And Haman answered the king, For the man whom the king delighteth to honour, 8 Let the royal apparel be brought which the king [useth] to wear, and the horse that the king rideth upon, and the crown royal which is set upon his head: 9 And let this apparel and horse be delivered to the hand of one of the king's most noble princes, that they may array the man [withal] whom the king delighteth to honour, and bring him on horseback through the street of the city, and proclaim before him, Thus shall it be done to the man whom the king delighteth to honour. 10 Then the king said to Haman, Make haste, [and] take the apparel and the horse, as thou hast said, and do even so to Mordecai the Jew, that sitteth at the king's gate: let nothing fail of all that thou hast spoken.
+
+[Est 6:4-10 KJV] – 4 And the king said, Who [is] in the court? Now Haman was come into the outward court of the king's house, to speak unto the king to hang Mordecai on the gallows that he had prepared for him. 5 And the king's servants said unto him, Behold, Haman standeth in the court. And the king said, Let him come in. 6 So Haman came in. And the king said unto him, What shall be done unto the man whom the king delighteth to honour? Now Haman thought in his heart, To whom would the king delight to do honour more than to myself? 7 And Haman answered the king, For the man whom the king delighteth to honour, 8 Let the royal apparel be brought which the king [useth] to wear, and the horse that the king rideth upon, and the crown royal which is set upon his head: 9 And let this apparel and horse be delivered to the hand of one of the king's most noble princes, that they may array the man [withal] whom the king delighteth to honour, and bring him on horseback through the street of the city, and proclaim before him, Thus shall it be done to the man whom the king delighteth to honour. 10 Then the king said to Haman, Make haste, [and] take the apparel and the horse, as thou hast said, and do even so to Mordecai the Jew, that sitteth at the king's gate: let nothing fail of all that thou hast spoken.
+
+So, Haman thinks that the king is about to honor him so he speaks quite highly about the reward. At the peak of Haman's pride, the king knocks him down by saying, "do even so to Mordecai the Jew."
+
+Fast forward to the bankquet in chapter 7, the king asks Queen Esther on the second day what her petition was, to which she says,
+
+[Est 7:3-4 KJV] – 3 Then Esther the queen answered and said, If I have found favour in thy sight, O king, and if it please the king, let my life be given me at my petition, and my people at my request: 4 For we are sold, I and my people, to be destroyed, to be slain, and to perish. But if we had been sold for bondmen and bondwomen, I had held my tongue, although the enemy could not countervail the king's damage.
+
+When the king asks Esther who the enemy she spoke of was, she replies, " **The adversary and enemy [is] this wicked Haman** " (Esther 7:6).
+
+The king, now full of anger, the same emotion that Haman held against Mordecai, is told that Haman had been constructing gallows to hang Mordecai on. The king then sentences Haman to the punishment that he had planned to use on Mordecai.
+
+This book is filled with so much irony. Queen Vashti was killed for not appearing before the king when he summoned her. Meanwhile, Esther and her people were spared for her appearance without being summoned by the king.
+
+Additionally, Haman was killed in the gallows he planned to use on Mordecai after being humiliated when he accidentally blessed Mordecai with honor and riches he assumed were for himself.
+
+Scholars believe that if Haman’s plan of genocide had come to pass, the lineage through which Jesus was born would have been wiped out.
+
+Because of the unique timing of Esther taking the throne, her people were spared. The good were blessed, and the evil were punished.
+
+I want to discuss the timliness of God a little more as we transition into small groups.
+
+Questions
+
+Is there an instance you can think of where you discovered the timeliness of God?
+
+Just before coming to CR this evening...
+
+Yesterday's lesson plan...
+
+Why do you think Haman was killed using the gallows he intended to kill Mordecai with?
+
+The golden rule, treat others as you want to be treated (Matthew 7:12).
+
+References
+
+References
+
+[Mat 7:12 KJV] – 12 Therefore all things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets.
+
+[Mat 7:12 KJV] – 12 Therefore all things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets.
+
+[Mat 7:12 KJV] – 12 Therefore all things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets.
+
+
+---
+
+## Don't Come Down (Nehemiah)
+**Published:** 2026-09-24 | **[Read Online](https://jonathan-the-psalmist.blogspot.com/2026/08/dont-come-down.html)**
+
+---
+
+Last class we talked about Elijah and Elisha. I made mention of the importance to disciple others and grow together in the lifestyle of Christ.
+
+Tonight, still moving chronologically, I want to talk about God's people post-Babylonian exile. There's a lot to say about the exile, but I'll save that for a later message. We will specifically be referencing a man by the name of Nehemiah.
+
+At the end of the Babylonian Captivity, the Persian Empire had overthrown the Babylonians. Instead of being captives, the Israelites were given the choice of whether to return home or continue living their lives in a foreign country.
+
+You might think that everyone had decided to return home, but it was a split choice. Many people packed up their things and returned to Jerusalem to start building (these accounts can be read from the Book of Ezra).
+
+Nehemiah's family were among those who decided to stay and be a part of the Persian society. This led to Nehemiah growing into a position within the royal court– he was the cupbearer for King Artaxerxes I of Persia.
+
+One day, Nehemiah is saddened after hearing what has become of Jerusalem. Never before being sad while delivering wine before King Artaxerxes, the king questions Nehemiah's demeanor. The man is scared, but trusts that the LORD's hand is upon him when he says,
+
+[Neh 2:5-6 KJV] 5 And I said unto the king, **If it please the king, and if thy servant have found favour in thy sight, that thou wouldest send me unto Judah, unto the city of my fathers' sepulchres, that I may build it. 6 And the king said unto me, (the queen also sitting by him,) For how long shall thy journey be? and when wilt thou return? So it pleased the king to send me; and I set him a time.**
+
+[Neh 2:5-6 KJV] 5 And I said unto the king, **If it please the king, and if thy servant have found favour in thy sight, that thou wouldest send me unto Judah, unto the city of my fathers' sepulchres, that I may build it. 6 And the king said unto me, (the queen also sitting by him,) For how long shall thy journey be? and when wilt thou return? So it pleased the king to send me; and I set him a time.**
+
+So Nehemiah goes on his way back to the land of his people, and the king had sent letters unto all the governors to aid Nehemiah on his journey. There were a few of these men who did not agree with the work that Nehemiah wanted to perform. Sanballat, Tobiah, and Geshem all had political territories that bordered Jerusalem, so they viewed Nehemiah as a threat to their power in governement.
+
+They go as far to question his integrity by saying, " **What is this thing that ye do? will ye rebel against the king?** " (Nehemiah 2:19). By questioning Nehemiah's motives, they could try and turn the support of King Artaxerxes away from him. Nehemiah had this to say to them,
+
+[Neh 2:20 KJV] 20 Then answered I them, and said unto them, **The God of heaven, he will prosper us; therefore we his servants will arise and build: but ye have no portion, nor right, nor memorial, in Jerusalem.**
+
+[Neh 2:20 KJV] 20 Then answered I them, and said unto them, **The God of heaven, he will prosper us; therefore we his servants will arise and build: but ye have no portion, nor right, nor memorial, in Jerusalem.**
+
+Nehemiah makes sure that these men realize he holds no political agenda but is instead doing what God, the Ruler over heaven and earth– who is above not just these governors but King Artaxerxes himself– has called him to do.
+
+When we read the Book of Nehemiah, we can see that after assessing the damage that has been done both physically and politically to the land of his people, that the initial time he and the king had arranged would not be enough to create the change that Jerusalem needed. Nehemiah was then appointed governor for the next twelve years according to chapter five of that same book.
+
+There are a few things I want to point out here:
+
+Nehemiah put his title and position on hold in order to do what God was calling him to do. God used the influence Nehemiah had earned to carry out the Will of God. Nehemiah found himself in an elevated position compared to where he was before, doing work that I would argue was more meaningful.
+
+When we follow God and walk by faith, we will found ourselves in places we could never reach on our own. We also can never fully comprehend what God has in store for us, which is why at the end of the day we must not rely so much on five-year plans but rather trust that God has ordered our steps.
+
+Don't misunderstand me and think we don't have to plan because planning and preparation should be used throughout our trusting of God. The LORD will direct us to do wonderful things, to teach, preach, and minister– and no planning alone can get you there, but planning must still take place to be ready for when you arrive.
+
+Transitioning back to our accounts from the Book of Nehemiah, the most famous piece of Scripture, and my favorite verse of all time is this:
+
+[Neh 6:3 KJV] 3 And I sent messengers unto them, saying, I [am] doing a great work, so that I cannot come down: why should the work cease, whilst I leave it, and come down to you?
+
+[Neh 6:3 KJV] 3 And I sent messengers unto them, saying, I [am] doing a great work, so that I cannot come down: why should the work cease, whilst I leave it, and come down to you?
+
+You see, those governors we talked about earlier were still out to prevent Nehemiah's work from coming to pass (which was the LORD's Work). The walls had already been built but that didn't stop them from meddling. Sanballat, Tobiah, and Geshem were prepared to assassinate Nehemiah. They would have been in the wrong to openly kill him and foolish to do try and plan any sort of siege on another governor. These men would have to kill Nehemiah in secret. But with the wisdom and hand of God on his life, Nehemiah says, " **I [am] doing a great work, so that I cannot come down: why should the work cease, whilst I leave it, and come down to you?** "
+
+The enemy is going to try and throw everything he has to at every one of your ministries. It doesn't matter what you aspire to do for the Kingdom– the enemy would rather you spend your time and talent elsewhere. The important thing to remember is this: **Don't Come Down** . Continue to read the Bible, start setting aside time for prayer and fasting– follow those spiritual disciplines that Brother Brody has been teaching on.
+
+No matter what happens, no matter who lets you down or what hurt you may experience in this life, follow the Will of God and trust that He is in control.
+
+Let us take this time and transition into our small groups.
+
+Questions
+
+What works, or ministries, do you feel like God has called you to do?
+
+This doesn't necessarily have to be a calling like those of preachers, teachers, worship leaders, etc., it could simply be a calling of growing closer to God. In this case, what ways do you feel called to grow closer to God and be more spiritually disciplined?
+
+How can we become persistent in the things which we are doing for the Kingdom of God? How can we avoid "coming down" from our great work?
+
+What are some ways we can encourage those around us to continue in the work that God has called them to?
+
+References
+
+References
+
+Nehemiah 2:1-7 Nehemiah 2:19 Nehemiah 6:3
+
+Nehemiah 2:1-7
+
+Nehemiah 2:19
+
+Nehemiah 6:3
+
+
+---
+
+## Elijah & Elisha
+**Published:** 2026-09-17 | **[Read Online](https://jonathan-the-psalmist.blogspot.com/2026/08/elijah-elisha.html)**
+
+---
+
+Last discussion, we talked about seeking wise counsel. We had discussed Solomon's son, Rehoboam, and the choice he made to listen to the young men he grew up with instead of the elders; his choice led to the seperating of the Southern Kingdom of Judah and the Northern Kingdom of Israel.
+
+Tonight I want to discuss two fellow men: Elijah and Elisha.
+
+Elijah is a prophet famous for confronting King Ahab and Queen Jezebel over their idol worship of Baal. During his time, God held back the rain from the land of Israel, to prove that Baal is not the god of storms that the people think he is.
+
+Later on, Elijah goes up against 450 prophets of Baal to prove that his God, Jehovah, is superior to everyone else's, which he does when God sends fire down from heaven in 1 Kings 18.
+
+Within that same chapter (v. 46), Elijah outruns King Ahab's chariot– this man of God outran a chariot of royal horses, and maintained that speed upwards of 30 miles.
+
+On another occasion, in 2 Kings 1, Elijah calls fire down from heaven and destroys 200 men seeking to do him harm.
+
+Needless to say, Elijah is the man! He is doing Kingdom work, following the obedience of God, confronting false ideologies– we love the prophet!
+
+At one point, we meet our second person in tonight's discussion, Elisha.
+
+[1Ki 19:19-21 KJV] 19 So {Elijah} departed thence, and found Elisha the son of Shaphat, who [was] plowing [with] twelve yoke [of oxen] before him, and he with the twelfth: and Elijah passed by him, and cast his mantle upon him. 20 And he left the oxen, and ran after Elijah, and said, Let me, I pray thee, kiss my father and my mother, and [then] I will follow thee. And he said unto him, Go back again: for what have I done to thee? 21 And he returned back from him, and took a yoke of oxen, and slew them, and boiled their flesh with the instruments of the oxen, and gave unto the people, and they did eat. Then he arose, and went after Elijah, and ministered unto him.
+
+[1Ki 19:19-21 KJV] 19 So {Elijah} departed thence, and found Elisha the son of Shaphat, who [was] plowing [with] twelve yoke [of oxen] before him, and he with the twelfth: and Elijah passed by him, and cast his mantle upon him. 20 And he left the oxen, and ran after Elijah, and said, Let me, I pray thee, kiss my father and my mother, and [then] I will follow thee. And he said unto him, Go back again: for what have I done to thee? 21 And he returned back from him, and took a yoke of oxen, and slew them, and boiled their flesh with the instruments of the oxen, and gave unto the people, and they did eat. Then he arose, and went after Elijah, and ministered unto him.
+
+Elijah takes his mantle and casts it onto Elisha. The young man is well aware what he is being asked to do. A mantle, or a cloak, was very symbolic in that it represented divine calling.
+
+Elijah was famous in the land for being the LORD's prophet. Elisha was a farmer. Neither likely had any encounter prior to this one, Scripture doesn't reference one at least. All we see is that, earlier in this chapter, God sends Elijah to find his replacement.
+
+I want to stop and take a look at Elisha's obedience to the LORD's prophet. History indicates that Elisha was rich, like really rich. Most farmers during his time had maybe one pair of oxen– and that's a maybe– but Elisha had 24 oxen to plow the fields with. Additionally, he had hired servants who were helping him on the farm. But despite all that, to show his commitment unto God, he takes a yoke of oxen, kills them, and boils them for the people to eat. Elisha didn't just kill a pair of ox, he literally burned everything: the wooden yokes, plows, and harnesses.
+
+Elijah and Elisha's relationship is a prime example of the relationships that we should be forming as Christians. Elijah was a mentor for Elisha, the prophet discipled him in order for the LORD's Will to be fulfilled.
+
+[Mat 28:19 KJV] 19 Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost:
+
+[Mat 28:19 KJV] 19 Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost:
+
+And of course, we know the only name to fulfill those three titles is the name of Christ Jesus.
+
+I want to make note of what the NKJV says, it translates *teach* as *make disciples* .
+
+That's what it takes to make disciples– teaching them about the Word of God and how we can better live our lives by adhering to it.
+
+These two men we're discussing likely spent anywhere from 6 to 8 years together before Elijah was taken up into heaven in 2 Kings 2. What this tells us or should help us understand is that discipling takes time. There isn't necessarily a perfect number that we have for how long discipling should last. I would be hesitant to put a limit on it at all.
+
+There are men and women in my life that I consider myself to be a life-long disciple of– especially the elders of our church, no matter how old and wise I get, they become even older and wiser. Think back on the wise counsel we talked about in the last discussion, it was the elders who made the decision to lessen the burden on the people, which would've prevented a split in the kingdom.
+
+Before Elijah leaves the earth and goes up into heaven, he tells Elisha,
+
+[2Ki 2:9 KJV] 9 ...Ask what I shall do for thee, before I be taken away from thee. And Elisha said, I pray thee, let a double portion of thy spirit be upon me.
+
+[2Ki 2:9 KJV] 9 ...Ask what I shall do for thee, before I be taken away from thee. And Elisha said, I pray thee, let a double portion of thy spirit be upon me.
+
+Scholars say that Elijah performed 8 miracles (or 14 depending on how events are grouped) in his lifetime, while Elisha is recorded to have performed 16 miracles (or 28 under the alternative counting method). Elisha received his double portion.
+
+When Elijah had to leave, Elisha was there to take his place, and the work continued. The same can be said in the New Testament when Paul starts all these churches, he leaves people there to ensure the church continue to grow.
+
+Let's move into our split groups to discuss questions that have been prepared.
+
+Questions
+
+Why do you think Elijah responded so strongly to the calling that had been placed on him?
+
+***This next question is just for self reflection** : Do we feel like we carry out our callings to that same degree?
+
+Why is it important for us to be discipling others? What happens as a result?
+
+How many people should we disciple? Is there a limit to the quantity of people or the quality they may have?
+
+References
+
+References
+
+[Mat 28:19 NKJV] 19 "Go therefore and make disciples of all the nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,
+
+[Mat 28:19 NKJV] 19 "Go therefore and make disciples of all the nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,
+
+[Mat 28:19 NKJV] 19 "Go therefore and make disciples of all the nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,
+
+
+---
+
+## Seeking Wise Counsel (Rehoboam)
 **Published:** 2026-09-03 | **[Read Online](https://jonathan-the-psalmist.blogspot.com/2026/09/seeking-wise-council.html)**
 
 ---
@@ -84,7 +374,7 @@ References
 
 ---
 
-## The Obedience of a King
+## The Obedience of a King (Saul & David)
 **Published:** 2026-08-06 | **[Read Online](https://jonathan-the-psalmist.blogspot.com/2026/08/obedience.html)**
 
 ---

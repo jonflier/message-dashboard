@@ -13,8 +13,7 @@ python docs.py
 
 echo [4/5] Updating Google Sheets export...
 python sheets.py
-
+:comment
 echo [5/5] Starting local server and opening Content Hub...
 start http://localhost:8000/contentHub.html
 python -m http.server 8000
-:comment

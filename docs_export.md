@@ -935,6 +935,246 @@ I’m here to say that there is a God in Israel, and I am so thankful that He al
 ---
 
 ## Who is God?
+**Source:** Google Doc | **Date:** 06.28
+
+---
+
+Who is God?
+@ Sunday Morning Youth Class (6/28 & 7/4 of 2026)
+
+| Purpose | Method |
+| Edification + Evangelism | Topical |
+| Thesis Statement |
+| Exploring Jehovah’s Old Testament names unveils His true nature, empowering us to boldly proclaim who He is.  Knowing Jehovah’s Old Testament names reveals His true nature and empowers us to boldly proclaim Jesus as our all-sufficient Savior. |
+
+Table of Contents
+Who is God? [Part 1: Old Testament]	4
+Jehovah-Jireh (The LORD Will Provide)	6
+Jehovah-Rapha (The LORD Who Heals You)	7
+Jehovah-Nissi (The LORD is My Banner)	7
+Jehovah-Mekoddishkem (The LORD Who Sanctifies You)	8
+Jehovah-Shalom (The LORD is Peace)	9
+Jehovah-Saboath (The LORD of Hosts (i.e., almighty))	10
+Jehovah-Elyon (The LORD Most High)	10
+Jehovah-Raah (The LORD my Shepherd)	10
+Jehovah-Hoseenu (The LORD Our Maker)	10
+Jehovah-Tsidkenu (The LORD Our Righteousness)	10
+Jehovah-Shammah (The LORD is There)	11
+Who is God? [Part 2]	13
+Jehovah-Jireh (The LORD Will Provide)	16
+Jehovah-Rapha (The LORD Who Heals You)	17
+Jehovah-Nissi (The LORD is My Banner)	18
+Jehovah-Mekoddishkem (The LORD Who Sanctifies You)	19
+Jehovah-Shalom (The LORD is Peace)	20
+Jehovah-Saboath (The LORD of Hosts (i.e., almighty))	21
+Jehovah-Elyon (The LORD Most High)	21
+Jehovah-Raah (The LORD my Shepherd)	21
+Jehovah-Hoseenu (The LORD Our Maker)	21
+Jehovah-Tsidkenu (The LORD Our Righteousness)	21
+Jehovah-Shammah (The LORD is There)	22
+
+From David K. Bernard’s “The Oneness of God Volume I”
+
+| Name | Meaning |
+| Jehovah-jireh | The LORD will see (i.e., will provide) |
+| Jehovah-rapha | The LORD that heals |
+| Jehovah-nissi | The LORD our banner (i.e., victory) |
+| Jehovah-m’kaddesk | The LORD that sanctifies |
+| Jehovah-shalom | The LORD our peace |
+| Jehovah-saboath | The LORD of hosts (i.e., almighty) |
+| Jehovah-elyon | The LORD most high |
+| Jehovah-raah | The LORD my shepherd |
+| Jehovah-hoseenu | The LORD our maker |
+| Jehovah-tsidkenu | The LORD our righteousness |
+| Jehovah-shammah | The LORD is present |
+Who is God? [Part 1: Old Testament]
+@ Sunday Morning Youth Class (6/28/26)
+Allot 50 minutes for both the game and lesson.
+
+
+Transitioning into this morning’s lesson, I am so thankful to have the opportunity to be in front of all of you this Sunday. I want to let you all know that I will be teaching next Sunday as well while Brodey and Alexis are gone. That being said, I thought it would be fitting to do a two part series talking about who God is.
+My hope is that each of us will learn more about who our Creator is and grow confident in explaining Truth (capital-T) to non-believers. It can be challenging when we are confronted and asked why we believe what we believe, that’s why we must study to show ourselves approved (2 Timothy 2:15). I love opportunities like this where I get to teach all of you because I myself must first learn what the Word of God says before I can feel confident enough to bring that knowledge to the pulpit.
+This week, I want to focus on what the Bible tells us about God in the Old Testament, and next week, we’ll focus more on the New Testament, taking a look at Jesus, God manifest in the flesh, and see how the two testaments do not contradict each other, but rather come together as the wonderful Word of God. I will spoil next week’s message a little so that we can all have the same understanding here this morning. Understand that God in the Old Testament is the same Jesus we read about in the New Testament.
+When it comes to the names and titles that God uses throughout Scripture to identify Himself, we see a plethora of these. Listening to an old sermon on YouTube, I heard preacher Johnny James cite that there are 1,024 names and titles referencing God. This likely not only includes the compound names which I intend to get into in a minute, but it also refers to the metaphors that refer to God like how He is our Shepherd and our Strong Tower.
+That is an extensive amount of things He could be called. My full name is Jonathan so you could call me that or Jon, Jonny, Jon Jon, Jonathan David, JD– but the list comes to an end rather quickly. And when it comes to titles, I am a son, but I’m not the son. I hope to be a father one day, but I’m not the Father. That’s what’s unique about God; for anyone else, their title describes their position and their name identifies them as a person. For God, He was often identified by His titles. I believe that this is why the following encounter happened in Exodus 3:13-14:
+'And Moses said unto God, Behold, when I come unto the children of Israel, and shall say unto them, The God of your fathers hath sent me unto you; and they shall say to me, What is his name? what shall I say unto them? And God said unto Moses, I AM THAT I AM: and he said, Thus shalt thou say unto the children of Israel, I AM hath sent me unto you.' Exodus 3:13-14
+God simplified things for Moses by educating him that He was all things that ever were, all things that are, and all things that ever will be. Taking a forward look at the New Testament, God makes things even simpler for us by educating us on the power and importance of His name, Jesus.
+As we remain in the Old Testament for the remainder of this class, we will take a look at the compound names of God. But first, how many are familiar with the song Proclaim by Todd Galberth (Indiana Bible College did a remake of it as well, if that helps)? The song mentions a few of the names that are associated with God, I’ll read the chorus so we can all be on the same page:
+We don't care how it looks / Jireh will provide it
+We don't care how it feels / Rapha’s gonna heal
+We declare there is none / Greater than Jehovah
+I hadn’t heard this song until it was sung at Hyphen Camp a few weeks ago, but having already studied the names associated with Jehovah, and teaching them to my CR class on one of our Thursday nights, it made this song much more powerful.
+To better understand the name of Jehovah, let us read Exodus 6:3,
+'and I appeared unto Abraham, unto Isaac, and unto Jacob, by the name of God Almighty, but by my name JEHOVAH was I not known to them.' Exodus 6:3
+	We see here that God is speaking with Moses, explaining to him that in the eyes of Abraham, Issac, and Jacob, He was merely understood to be God Almighty, but from then on, He was to be understood and known as Jehovah. A distinction that I want to make is this: the name Jehovah translates to Yahweh in Hebrew. When we speak the name Jehovah, it carries the same weight as if we were to use the Hebrew translation of Yahweh. When we read the word LORD in all capital letters, it has the same context as Jehovah or Yahweh. If we read lord with lowercase letters, it simply means “master,” and may not be referring to God at all.
+	I want to take a look at a handful of those modifiers used with the name Jehovah that we find in Scripture. We have already listed the first two that were found in the song Proclaim earlier: Jehovah-Jireh and Jehovah-Rapha.
+Jehovah-Jireh (The LORD Will Provide)
+	In the case of Jehovah-Jireh, we see the appearance thereof after Abraham is asked to sacrifice his only son on top of the mountain. This is Issac, the promised son of Abraham, given to him in his old age by God. In Genesis 22:7-8, Issac makes a very important connection:
+'And Isaac spake unto Abraham his father, and said, My father: and he said, Here am I, my son. And he said, Behold the fire and the wood: but where is the lamb for a burnt offering? And Abraham said, My son, God will provide himself a lamb for a burnt offering: so they went both of them together.' Genesis 22:7-8
+In verse 13, just after Abraham was bringing down the knife to slay his son, the LORD reveals to him a ram caught in a thicket to take the place of his son. In verse 14, Abraham makes the declaration that the place there shall be called Jehovah-Jireh, “The LORD Will Provide.”
+This teaches us that no matter what we need, God will fulfill our needs.
+Jehovah-Rapha (The LORD Who Heals You)
+Jehovah-Rapha comes from Exodus chapter 15. Moses and the Israelites have just crossed over the Red Sea and left Pharaoh and his army to be trapped on the other side. The people are growing thirsty, and the nearby water is bitter, it wasn’t good. If you have ever had well water and been able to taste that coppery, metallic taste (it is camp season afterall), I’d imagine this was a lot like that. However, God had Moses cast a tree into the waters and turned the waters sweet. The LORD then explained to the people that if they kept His commandments, they would never grow sick. He then called Himself "The LORD Who Heals You.”
+God makes it very apparent through His Word that not only is He a healer to the people of Israel, but He is a healer of people. He is called, “The LORD Who Heals You,” which is very inclusive; something the people of that time would never have even considered is that today we see God healing us, a Gentile people. More on that next week.
+Jehovah-Nissi (The LORD is My Banner)
+	We will now take a look at the name Jehovah-Nissi. Our text comes from Exodus 17, we see Amalek, the father of the Amalekite people, a nation that hated Israel because they were of Esau’s lineage. When these people had come to fight against Israel, they lost because God was on Israel’s side, fighting along with them. In verses 14-16, we read,
+'And the LORD said unto Moses, Write this for a memorial in a book, and rehearse it in the ears of Joshua: for I will utterly put out the remembrance of Amalek from under heaven [and what that phrase means, “put out the remembrance”, that means erase from existence]. And Moses built an altar, and called the name of it Jehovah-nissi: for he said, Because the LORD hath sworn that the LORD will have war with Amalek from generation to generation.' Exodus 17:14-16
+	Jehovah-Nissi means, “The LORD is My Banner,” and the significance of a banner during those times was this, it was “a visual symbol of identity, protection, and victory.” If you play Minecraft and have ever encountered a pillager outpost, you’ll see the Pillager Captain carrying a banner, this is the same idea, it is to symbolize the victory they hope to have. When it comes to God, however, we are not hoping to get the victory, the LORD is our Banner and has already claimed the victory.
+	Anything you face in life, no matter how great or how small, God will have the victory if you’ll allow Him to. God has never lost a battle, and He never will because He doesn’t just carry a banner, but He is our Banner.
+Jehovah-Mekoddishkem (The LORD Who Sanctifies You)
+	Next, I want to take a look at Jehovah-Mekoddishkem which first appears in Exodus 31:13 which says,
+'And the LORD spake unto Moses, saying, Speak thou also unto the children of Israel, saying, Verily my sabbaths ye shall keep: for it is a sign between me and you throughout your generations; that ye may know that I am the LORD that doth sanctify you.' Exodus 31:12-13
+	God instructs Moses that the people of Israel keep the sabbaths. One of the Ten Commandments is to keep the Sabbath holy. A sabbath is a time of worship and rest. As far as sabbath days are concerned, we would typically view Sundays as the sabbath day. Don’t get too caught up on that though, because there are days outside of Sunday that we need to make time for resting in the Word of God. We need to make the time for God’s Word to work in us daily.
+Jehovah-Mekoddishkem means “The LORD Who Sanctifies You,” sanctify means separate, it has a relationship with the word holiness which is something we are called to have. God has always wanted His people to be separate from those of the world. Genesis 1:27 says,
+'So God created man in his own image, in the image of God created he him; male and female created he them.' Genesis 1:27
+	We were made in the image of God and have a calling to uphold that image by being a light in this dark world.
+Jehovah-Shalom (The LORD is Peace)
+	Looking at Jehovah-Shalom, we first see its appearance in Judges 6 where we meet Gideon. After coming face to face with an angel and talking with him, Gideon realizes what the man was and begins fearing that he will die. The LORD then tells Gideon not to worry and Gideon calls that place Jehovah-Shalom, meaning “The LORD is Peace.”
+	We talked about Jehovah-Jireh earlier, and these two roles that God plays in our life coincide, at least in the way I understand them. We often worry about the things that we need, but God is a provider of those things. We often worry about our present circumstance and situation, but God is a waymaker and miracle worker. We often worry about our callings and where we are supposed to be in life, but God reminds us that He has plans for us– good plans– and that He has ordered our steps.
+Jehovah-Saboath (The LORD of Hosts (i.e., almighty))
+'And this man [Elkanah] went up out of his city yearly to worship and to sacrifice unto the LORD of hosts in Shiloh. And the two sons of Eli, Hophni and Phinehas, the priests of the LORD, were there.' 1 Samuel 1:3
+…
+Jehovah-Elyon (The LORD Most High)
+'I will praise the LORD according to his righteousness: And will sing praise to the name of the LORD most high.' Psalm 7:17
+…
+Jehovah-Raah (The LORD my Shepherd)
+'The LORD is my shepherd; I shall not want.' Psalm 23:1
+…
+Jehovah-Hoseenu (The LORD Our Maker)
+'O come, let us worship and bow down: Let us kneel before the LORD our maker.' Psalm 95:6
+…
+Jehovah-Tsidkenu (The LORD Our Righteousness)
+Transitioning to our discussion on Jehovah-Tsidkenu which means “The LORD Our Righteousness.” I had trouble understanding the difference between sanctification, like we talked about earlier, and righteousness. Righteousness answers the question: “How can I stand right before God?” While sanctification answers: “How do I live as God’s holy person?” You can stand righteously, having never done anything illegal, but that doesn’t make you sanctified.
+The LORD reminds us in Scripture that He is the Judge, so it’s important that we let Him do what He does best and we do what we were called to do; we weren’t called to be judges but rather to love people.
+Jehovah-Shammah (The LORD is There)
+	Lastly, let us talk about Jehovah-Shammah. We see this appear in Ezekiel 48 when the prophet describes this magnificent city. At this time, Jerusalem had been destroyed and the people had been exiled to Babylon. Morale was very low, but in a vision, Ezekiel saw hope and began to understand that no matter how circumstance may have seemed, God was always with His people.
+We must understand that God is a Spirit, and that both the Old and New Testament relate that word to wind or breath. Now, we can’t see the wind or our breath– even in the cold what we see is the water vapor from our breath, but not our breath itself. We can’t see God’s Spirit, but we still see the effects thereof just as we would see wind blowing through the trees.
+'The LORD is nigh unto all them that call upon him, To all that call upon him in truth.' Psalm 145:18
+When we call upon God, He will answer one way or another. How many believed that earlier this morning, God was in the room? How many believe God is in the room right now? As we wrap up, let us call on God and ask Him to be with us the rest of our day and throughout our week…
+From David K. Bernard’s “The Oneness of God Volume I”
+
+| Name | Jesus is our… |
+| Jehovah-jireh (provider) | Provider (of the sacrifice) |
+| Jehovah-rapha (healer) | Healer |
+| Jehovah-nissi (banner, victory) | Victory |
+| Jehovah-m’kaddesh (sanctifier) | Sanctifier |
+| Jehovah-shalom (peace) | Peace |
+| Jehovah-sabaoth (Lord of hosts) | Lord of Hosts |
+| Jehovah-elyon (most high) | Most High |
+| Jehovah-raah (shepherd) | Shepherd |
+| Jehovah-hoseenu (maker) | Maker |
+| Jehovah-tsidkenu (righteousness) | Righteousness |
+| Jehovah-shammah (ever present) | Ever Present |
+
+
+Who is God? [Part 2]
+@ Sunday Morning Youth Class (7/5/26)
+Announcements
+Good morning everybody! As far as announcements go for the month of July:
+In the back where all those books are, there is a signout sheet so that if you want to borrow any of the books from our library, you can write the title of it, your name, and the date.
+Today’s the 5th, there is no night service tonight.
+On Wednesday, the cafe will be open before youth class and someone has generously and anonymously donated money so that each of you can have one free drink.
+The 17th is a Friday, we will be having a youth open gym night, which will be from 6-8PM.
+The 19th is Fellowship Sunday and following the meal, we will be having a cornhole tournament.
+The 29th is a Wednesday, we will be having park night. We will meet at the church at 7 and then go to the park! So be sure to wear clothes that you can be active in. In the past we’ve played kickball and wiffleball, but I’m not sure what’s on the itinerary this time around.
+
+Continuing our discussion from last week, we had talked about the titles for God; how the people knew Him through what they called Him. We had said that there were roughly 1,024 names and titles for God given throughout the Bible. I made mention that He simplified it for Moses by calling Himself the Great I AM before the Exodus. Before we go any further, I want to read a passage of Scripture from the Gospel of John, chapter 8 and verses 53-58,
+'Art thou greater than our father Abraham, which is dead? and the prophets are dead: whom makest thou thyself? Jesus answered, If I honour myself, my honour is nothing: it is my Father that honoureth me; of whom ye say, that he is your God: yet ye have not known him; but I know him: and if I should say, I know him not, I shall be a liar like unto you: but I know him, and keep his saying. Your father Abraham rejoiced to see my day: and he saw it, and was glad. Then said the Jews unto him, Thou art not yet fifty years old, and hast thou seen Abraham? Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.' John 8:53-58
+Now that we are living in New Testament times, we can grow even closer in relationship with God because He has made himself personable by showing us His name. Throughout Scripture, God reveals to us that His name is Jesus. 
+Zechariah 14:9 prophesied,
+“And the LORD [notice all capital letters, referring to Jehovah] shall be king over all the earth: in that day shall there be one LORD, and his name one.” Zechariah 14:9
+How exciting is it that all of those names and titles that helped explain the characteristics of God could be summed up in just one name? How awesome that while the people of the Old Testament knew of the ability of God, not one knew His name like we do today.
+Allow me to read a handful of Scriptures so we can truly understand the power and importance in and of the name Jesus.
+Philippians 2:9-11,
+“Wherefore God also hath highly exalted him, and given him a name which is above every name: that at the name of Jesus every knee should bow, of things in heaven, and things in earth, and things under the earth; and that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father.” Philippians 2:9-11
+Romans 10:13,
+'For whosoever shall call upon the name of the Lord shall be saved.' Romans 10:13
+Beyond being the salvation found in the name of Jesus, Acts 4:12 informs us it is the only saving name,
+'Neither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved.' Acts 4:12
+	Colossians 3:17,
+'And whatsoever ye do in word or deed, do all in the name of the Lord Jesus, giving thanks to God and the Father by him.' Colossians 3:17
+	1 Timothy 3:16,
+'And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Spirit, seen of angels, preached unto the Gentiles, believed on in the world, received up into glory.' 1 Timothy 3:16
+God came down to earth as a man, lived 30+ years where He spent teaching people how to live according to His Word– including Gentiles, the people who were not Jewish and considered unclean to the Jews– God performed miracles in the process, was crucified to cover our sins because He Himself was without sin, rose on the third day (conquering death, hell, and the grave so that we could one day live in eternity), and then He was brought up into Heaven.
+	We must understand the significance of Colossians 2:9,
+'For in him [Him being Christ Jesus] dwelleth all the fulness of the Godhead bodily.' Colossians 2:9
+I was talking to Tyler about how much we can take for granted what we read in the Scriptures. It’s easy to become too familiar with these Biblical accounts that we no longer grasp the extreme wonder of what we are discussing.
+Noah built an ark with two of every animal when God flooded the entire Earth. David killed a giant when his God was being mocked. Jonah was swallowed by a whale (and survived I might add). The three Hebrew boys walked through a fiery furnace which killed the guys who threw them in, and yet they lived and did not even smell of smoke. Daniel was thrown in a den of lions for a night and those lions did him no harm. And Jesus, our God, came to earth as a man, was put on a tree and buried for three days before coming to life again and returning into Heaven. What a wonder it is to have the Word of God.
+Jehovah-Jireh (The LORD Will Provide)
+It’s in the Word of God that we see, the lamb that we mentioned last week that Abraham said God would provide, was Jesus Christ. Realize that instead of a lamb, Abraham found a ram to take the place of his son Issac. So the lamb that Abraham promised didn’t appear until Christ became the atonement for sin. Hebrews 10:10-12 says,
+'By the which will we are sanctified through the offering of the body of Jesus Christ once for all. And every priest standeth daily ministering and offering oftentimes the same sacrifices, which can never take away sins: but this man, after he had offered one sacrifice for sins for ever, sat down on the right hand of God;' Hebrews 10:10-12
+	Jesus lives up to the name Jehovah-Jireh, “the LORD will provide.” Jesus provided something greater than any of us could have asked for, He provided Himself as the ultimate sacrifice for sin, so that we no longer had to be bound by our mistakes.
+Jehovah-Rapha (The LORD Who Heals You)
+Jesus healed a number of lepers in his lifetime, those who were stricken with the disease of leprosy. One of the biggest afflictions that came with leprosy was nerve damage. People would become entirely numb in their hands and feet, and endure injuries unbeknownst to them, which led to other injuries that required amputation. One occurrence that sticks out greatly to me is found in Luke 17, verse 11 through 14,
+'And it came to pass, as he went to Jerusalem, that he passed through the midst of Samaria and Galilee. And as he entered into a certain village, there met him ten men that were lepers, which stood afar off: and they lifted up their voices, and said, Jesus, Master, have mercy on us. And when he saw them , he said unto them, Go shew yourselves unto the priests. And it came to pass, that, as they went, they were cleansed.' Luke 17:11-14
+It’s amazing that Jesus healed these lepers, but beyond that, reading verses 15 and 16,
+'And one of them, when he saw that he was healed, turned back, and with a loud voice glorified God, and fell down on his face at his feet, giving him thanks: and he was a Samaritan.' Luke 17:15-16
+	The rest of the lepers, who were presumably all Jewish, failed to give gratitude like this man of Samaria. What I want to point out is not only did Jesus heal a leper, someone who was unclean according to the Jews, but Jesus healed this man who was both a leper and a Gentile. That’s why we should have complete confidence that when we need healing, we too can receive it. James 5:14-15 says,
+'Is any sick among you? let him call for the elders of the church; and let them pray over him, anointing him with oil in the name of the Lord: and the prayer of faith shall save the sick, and the Lord shall raise him up; and if he have committed sins, they shall be forgiven him.' James 5:14-15
+No one had expected Jehovah-Rapha to be a healer of lepers and Gentiles, but then again He is “the LORD who heals you…”
+Jehovah-Nissi (The LORD is My Banner)
+	While Jesus wasn’t seen in any altercations throughout his life, He nevertheless fought a constant battle, one that all of us fight still today: the battle between good and evil, between the Spirit and the flesh. Jesus was constantly correcting the religious people, those who followed the law as a means of tradition and legalism, who were not in relationship with God, and Jesus tried to shed some light on their thinking. As a result of this, many people came to understand that Jesus was more than a prophet and that they could have a relationship with God that went beyond the law.
+	To prevent this Truth from overtaking their influence, the religious community brought Jesus into the hands of the government– the Roman legal system, and had Him crucified, nailed to a cross where He would then die.
+	After looking at that, it can be confusing. We had said God had never lost a battle, so what was going on? Well, the story doesn’t end there, because as we have already mentioned, three days later, Jesus came back from the dead, carrying the keys to death, hell, and the grave. Romans 6:23 says,
+'For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.' Romans 6:23
+	1 Corinthians 15:55-57 says,
+'O death, where is thy sting? O grave, where is thy victory? The sting of death is sin; and the strength of sin is the law. But thanks be to God, which giveth us the victory through our Lord Jesus Christ.' 1 Corinthians 15:55-57
+Jesus won His battle, just as He wins every battle, for He is Jehovah-Nissi, “the LORD is my banner,” or “the LORD is my victory.”
+Jehovah-Mekoddishkem (The LORD Who Sanctifies You)
+Last week, we talked about how we are called to uphold the image of God that He created us in. We asked the question, How can I be God’s holy person? If you want to know the answer, look no further than Christ Jesus who according to Hebrews 4:14-15 was tempted and never sinned,
+'Seeing then that we have a great high priest, that is passed into the heavens, Jesus the Son of God, let us hold fast our profession. For we have not an high priest which cannot be touched with the feeling of our infirmities; but was in all points tempted like as we are, yet without sin.' Hebrews 4:14-15
+Jesus showed us how to live a surrendered life to God and bear the burdens that have been placed on us by our Creator. Christ’s burden was the Cross, but each of us have a cross that we are called to bear.
+'Then said Jesus unto his disciples, If any man will come after me, let him deny himself, and take up his cross, and follow me.' Matthew 16:24
+	Recall Pastor’s message on Father’s Day, He talked about the blessing of Issachar and how it was one that nobody would ask for but should still be sensitive in following it. I’m sure that message spoke to many of you as it spoke to me. I have many family members that are not in the fullness of Truth, and we are called to be a witness to our families. We are called to live sanctified so that others may be influenced and turn toward God. Ephesians 5:25-27 says, and bear with me for a second,
+'Husbands, love your wives, even as Christ also loved the church, and gave himself for it; that he might sanctify and cleanse it with the washing of water by the word, that he might present it to himself a glorious church, not having spot, or wrinkle, or any such thing; but that it should be holy and without blemish.' Ephesians 5:25-27
+	Christ was holy and is calling for us to be the same. He is Jehovah-Mekoddishkem, “the LORD who sanctifies you.”
+Jehovah-Shalom (The LORD is Peace)
+The peace we find with God is unmatched from anything this world can ever offer us. Peace is a Fruit of the Spirit, meaning only with the Spirit of God will we ever find true peace.
+	In John 14:27, Jesus says,
+'Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid.' John 14:27
+	Jesus is our Jehovah-Shalom, “the LORD is peace.”
+Jehovah-Saboath (The LORD of Hosts (i.e., almighty))
+James 5:4-7
+
+Jehovah-Elyon (The LORD Most High)
+Luke 1:32, 76, 78
+
+Jehovah-Raah (The LORD my Shepherd)
+John 10:11
+
+Jehovah-Hoseenu (The LORD Our Maker)
+John 1:3
+
+Jehovah-Tsidkenu (The LORD Our Righteousness)
+Last week, we asked ourselves How do I live right with God? Once again, looking at the life of Jesus, we not only can live holy, separate from the world, but we can live righteously.
+1 Corinthians 1:30 says,
+'But of him are ye in Christ Jesus, who of God is made unto us wisdom, and righteousness, and sanctification, and redemption:' 1 Corinthians 1:30
+	Living righteously means being in good standing, not just with God, but with others. Showing a high moral standard, having a strong sense of character, is how we live righteously. Earlier today, we read 1 Corinthians 3:17, which said ‘And whatsoever ye do in word or deed, do all in the name of the Lord Jesus, giving thanks to God and the Father by him.’ Everything we say and everything we do will portray to others who God is. If someone has no relationship with Jesus, and they see us, that’s all they know, we are the frontline of defense for who Jesus is. That’s why it’s so important that everything we do, whether it be with our speech or our actions, that we do it while upholding the name of Jesus that has been placed in our lives.
+Jehovah-Shammah (The LORD is There)
+	We must understand that God is a Spirit, and that He is an omnipresent Spirit, He is everywhere all at once. Let’s take a look at Jesus' baptism to better understand this.
+	Matthew 3:16-17 says that after John had baptized Jesus,
+'And Jesus, when he was baptized, went up straightway out of the water: and, lo, the heavens were opened unto him, and he saw the Spirit of God descending like a dove, and lighting upon him: and lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased.' Matthew 3:16-17
+	In this verse we hear the voice of the Father, we see Jesus the Son, and we see the Spirit of God descending like a dove. These aren’t three separate beings, instead, it’s God making Himself known in three separate ways. Matthew 28:19-20 says,
+'Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen.' Matthew 28:19-20
+	Jesus tells His disciples that He will be with them even unto the end of the world, because He is Jehovah-Shammah, “the LORD is there.”
+While we’re on the subject matter, however, let us understand that Peter heard the words of Jesus and declares later in Acts 2:38,
+'Then Peter said unto them, Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins, and ye shall receive the gift of the Holy Ghost.' Acts 2:38
+What’s going on here? Did Peter disobey the instructions of Jesus? Well, no, Peter did not get this wrong, and if he did, all the other disciples were there to correct him yet none of them did. Jesus told His disciples to baptize in the name of the Father, the Son, and the Holy Ghost, so why did Peter say to baptize in the name of Jesus?
+If you would all stand as I bring this message full circle… Jesus tells the disciples to baptize people in the name of the one who carries the titles of the Father, the Son, and the Holy Ghost. The one name that fulfills all of those titles is the Great I AM, it is the Lamb of God, it is Jesus Christ: the name above every other name, and the only name whereby we must be saved.
+Let us close in prayer and call upon the name of God…
+
+As we wrap up here this morning, I want to provide a resource that you all can take a picture of and study the Oneness of God further. If you want, I can send you a photo copy of this myself, just ask me later.
+This is called the Wheel of Prophecy, it shows how God in the Old Testament is Jesus in the New Testament. I know we emphasize Oneness a lot, but that’s only because of how important it is in understanding the God that we serve. There are a lot of people who don’t yet have the fullness of Truth, so if we can attain Truth, then we can bring it to them.
+Luke 19:10 says, 'For the Son of man is come to seek and to save that which was lost.' It is our job to seek those who are lost and show them what God has in store for them.
+I love you all. I don’t know if they have wrapped up yet across the street, but we can head over and catch the altar call.
+Resources
+The Oneness of God, Vol. 1 by David K. Bernard
+"The Wheel of Truth" (as depicted in Crawford Coon, Apostolic Foundations)
+
+
+---
+
+## Who is God?
 **Source:** Google Doc | **Date:** 07.04.26
 
 ---
@@ -1351,7 +1591,251 @@ Let us find a place to pray– I may not know what season of life you’re in, b
 ---
 
 ## Who Are the Blessed?
-**Source:** Google Doc
+**Source:** Google Doc | **Date:** 10.07
+
+---
+
+Who Are the Blessed?
+@ Wednesday Night Youth Class (10/7 & 10/11 of 2026)
+
+| Purpose | Method |
+| Equipping | Topical |
+| Thesis Statement |
+| Christ didn’t simply preach the Beatitudes– He modeled them every single day, calling each of us to follow in His footsteps. |
+
+Who Are the Blessed? [Part 1]	1
+The Poor in Spirit	2
+They That Mourn	4
+The Meek	7
+They Which Do Hunger and Thirst After Righteousness	10
+Who Are the Blessed? [Part 2]	14
+The Merciful	14
+The Pure in Heart	18
+The Peacemakers	21
+They Which Are Persecuted for Righteousness’ Sake	24
+References	29
+Resources	31
+
+Who Are the Blessed? [Part 1]
+≈ 20 Minutes
+These next two classes, I want to take a look at the Beatitudes found in Matthew 5. I encourage you all as we go through each one, either grab a Bible from off the shelf in the back, or follow along on your phones. I will have each of the beatitudes up here on the screen as well. There are eight of these Beatitudes in total, and with each one I hope that we can all better understand both how to frame our actions, and more importantly, the attitude that we must carry with us as followers of Christ.
+As we talk about the Beatitudes, you are going to hear me reference LJ Harry. He’s a great man of God and he writes a lot of books, one of which is titled Blessed Are: A Practical Look at the Beatitudes. I used his book to study out the Beatitudes and put these lessons together.
+So first off, let’s answer the question, what are the Beatitudes?
+The Beatitudes come from the Sermon on the Mount, Jesus’ first message of His earthly ministry. Each of the following Beatitudes start with, “Blessed are…” To be blessed is to be happy; to be blessed is to be content. The kind of happiness and contentment that we’ll be talking about aren’t anything like the world could ever offer; what we’re talking about here tonight is joy. The Beatitudes aren’t telling us how we can feel an emotion, they’re helping us to obtain a spiritual attitude— to make the conscious decision to be happy and content no matter where we might be or what we might have. When we’re filled with the Spiritual Fruit of Joy, which can only come from the Spirit of God, nothing can take that away from us.
+I have heard it said that the Beatitudes are like the rungs of a ladder, before we can reach the final ring of “Blessed are they which are persecuted for righteousness' sake…” We must take a look at the other seven. So let’s get started with the first beatitude in Matthew 5:3…
+The Poor in Spirit
+'Blessed are the poor in spirit: for their's is the kingdom of heaven.' Matthew 5:3
+It can be easy to misquote this verse. I've heard it said, “Blessed are the poor.” If your finances are anything like mine when I was your age, you’d like for this verse to say “blessed are the poor.” However, as we will come to find out, there is a much greater find in this text. No matter how much money you have, whether you are poor or rich, you can be blessed– you can be joyful, even still.
+Including the whole first half of the verse, it reads, “Blessed are the poor in spirit…” Now, the Bible refers to two different types of poor– first there is the working poor and then there is the begging poor. 
+The working poor are the people who work everyday and they just get by. I would imagine Peter to be a great example of the working poor; Him and his brother Andrew were fishermen, they worked everyday for a living, they got by, but were likely never rich– and never accumulated much wealth.
+The begging poor, however, had to rely on other people’s generosity in order to survive. We see a lot of these people are lame or have been dealt what we could consider a “bad hand” in life. Maybe they were widowed women like Naomi and Ruth, having no husbands and no sons that they rely on the generosity of Boaz in order to eat.
+The kind of poor that this beatitude is referring to is the begging poor. We must come to understand that without the grace of God, we could not make it in this life. It was because of God’s grace that He chose to form us out of the dust of the earth, despite the disobedience He knew would take place in the Garden of Eden. It was because of God’s grace that He moved upon the Virgin Mary, lived thirty plus years, was tempted just as we are tempted, and died on the Cross by the hand of those whom He created. It was because of His grace that Jesus became our sins despite never committing one Himself. Jesus took on the lies and yet had never been a liar. Jesus took on the manipulating while having never been a manipulator. He did all of that out of grace because as the preacher of the Beatitudes, He understood more than anyone that without His grace, we would not make it.
+When we carry this attitude that we are poor in spirit, that we are beggars of the Spirit, we begin to understand that we can never get anywhere without God. We no longer go to church or district events because we are excited about who will be speaking or singing, but instead we gather to hear the anointing found in the Word and time of worship. We don’t go for entertainment, but to be fed the spiritual manna that only God could provide.
+It is as a result of this that we will begin to understand this world is not our home, but the Kingdom of Heaven is. How many have heard the saying, beggars can’t be choosers? That’s what’s great about Heaven– it is beyond our every imagination that we won’t have to nitpick what we want and what we don’t want. I don’t have to worry about the roads being filled with potholes because they’re made out of pure gold– something we can’t say about the world we currently live in.
+Although beggars can’t be choosers, we still have a choice to make before we can reach the second rung of the ladder– that choice is whether or not we want to be beggars– humbling ourselves in this life in order to see the next.
+This brings us to our second beatitude found in Matthew 5:4…
+They That Mourn
+'Blessed are they that mourn: for they shall be comforted.' Matthew 5:4
+	I have confidence in saying that each one of us has mourned. I feel this way because I know that each one of us is human– it is part of our nature to cry as a response to certain things because other responses don’t do our situation or circumstance the justice that it deserves.
+	Crying is a part of life; mourning is a part of life. Throughout the Scriptures you will find these men and women of God weeping time and time again. Look at Hannah, the mother of Samuel. She was barren, she could not have any kids and all the while her husband’s other wife– it was a different time, it was a different culture– Peninnah mocked Hannah and provoked her. So Hannah sought after the LORD and prayed so valiantly, she was so determined, that the priest thought she was drunk. The priest, a man of God, could not even recognize the woman was praying– that’s how much emotion and spirituality was involved in her prayers.
+It isn’t just women who cried in the Bible. Boys, the world is going to tell you that men don’t cry. It’s going to tell you that you’re more of a man for holding back tears and less of a man if you let them through, but that’s just not biblical.
+Abraham wept when he buried his wife, Sarah, in Genesis 23:2.
+David and Jonathan wept in 1 Samuel 20:41 when Jonathan’s father, Saul, sought to kill David.
+In Acts 20:37, all the people wept, including Paul, when it was time for the Apostle to depart from Ephesus.
+The shortest verse of the Bible, John 11:35 says, “Jesus wept,” which was His response to the death of his best friend Lazarus, who Jesus loved greatly.
+If God-incarnate understands the importance and the necessity of weeping in this life, then we should too…
+For those who have been here these past few Sundays, we have been having powerful services, ones that lead me to weep. Now, I’m not very outwardly emotional– and I don’t say that because I am trying to be all macho. I want to be more expressive of my emotions, I just haven’t been in recent years. But during those services, I just wept. That’s what happens when we have a genuine encounter with God, we are brought to tears. God has been so good to us, whether we realize it or not. God’s been better to me than I deserve, and for that I have no other choice than to cry while surrounded by His presence. This leads me to the second half of this verse, we shall be comforted.
+Because God came to Earth as a man, conquered death, hell, and the grave, and then poured out His Spirit after His ascension into Heaven, we have the Comforter. We have the mediator that Job wished he could have, to be the inbetween for himself and God (Job 9:32-33)– we have the Holy Spirit.
+John 14:16-18 talks about the Holy Spirit being a comforter. Jesus explains that the Holy Spirit will be a forever comfort. Jesus is prepping His people for the day when He departs from them. Jesus understands that He cannot always be with them as God-incarnate so He informs everybody that He will return in the form of His Spirit, which can be in all places all at once, including in each and every one of us if we would allow Him to fill us with His Spirit.
+The type of mourning that we are talking about is related to the godly-sorrow spoken about in 2 Corinthians 7:10,
+[2Co 7:10 NKJV] 10 For godly sorrow produces repentance [leading] to salvation, not to be regretted; but the sorrow of the world produces death.
+	This godly sorrow is what we call conviction, it’s counterfeit– what we sometimes misidentify as conviction– is condemnation. Condemnation comes from the world, it will break us down and separate us from God, but conviction is from God, it will build us up and bring us closer with Him. The difference between the two can be seen in the lives of Jesus’ disciples. Judas had betrayed Jesus by showing the Roman soldiers where He prayed. Later, Judas hangs himself because of the regret he feels. Simon Peter betrays Jesus by denying ever knowing him on three different accounts. Instead of letting his regret eat him away as it would Judas, he later runs to Jesus.
+Repentance is turning away from our wrongdoing, from the things of this world. Condemnation will cause you to run further into the world, but conviction will turn you around, running into the direction of Jesus. Conviction isn’t comfortable, it’s like Jesus in the Garden of Gethsemane– it’s that oil press which the name of the garden translates to. Conviction is like Job’s experience of being refined but coming out as fine gold. After finding repentance we have reached the first step in salvation followed by baptism in Jesus name and the infilling of His Spirit– which is the Comforter that we talked about earlier.
+LJ Harry writes in his book, that “the first beatitude breaks the bad news to us: that we are poor in spirit; that our spiritual balance is overdrawn. The second is our right response to our spiritual balance statement. To realize we are nothing without God prompts us to weep.”
+Now that we have conquered the first two rungs of this eight-runged ladder, let us walk up to the third beatitude found in Matthew 5:5…
+The Meek
+'Blessed are the meek: for they shall inherit the earth.' Matthew 5:5
+Imagine everybody who was hearing this message preached by Jesus. He has told them that happy are those who are spiritually broke and emotionally broken. Now, He is saying to be happy they must all be gentle.
+To understand the situation a little more, let’s take a look at the four main groups who heard this message. You can think of each one of these groups like you would groups at school– there are the athletes, the band kids, the nerds, or the countryfolk (right, Hunter). In our small, tight community, you might know somebody who’s all four of those things. But the point is, in Jesus’ time, there were the Pharisees, the Sadducees, the Zealots, and the Essenes.
+Pharisees
+The Teachers of the Law
+Middle-class
+Disliked the Gentiles (the non-Jewish people), and viewed them as being beneath God’s holy people.
+Disliked publicans, or tax collectors, seeing them as disloyal to their people.
+As an accountant, the Pharisees would have despised me.
+Neutral toward Rome, believing and trusting God to set things right in due time.
+Believed in both the written and oral Torah (or the Pentateuch, the first five books of the Old Testament).
+Sadducees
+The Wealthy Aristocrats
+Upper-class
+Loved Rome because it gave them political power and wealth.
+Believed in the written Torah, but not what was traditionally spoken from generation to generation.
+Zealots
+The Violent Rebels
+Hated Rome, they believed paying taxes to a pagan king was a sin against God, the one, true King. They were willing to kill and destroy if it meant ending Roman rule.
+Essenes
+The Separatists
+Ignored Rome, focusing entirely on themselves and the holy text.
+In John MacArthur’s book, Twelve Ordinary Men, he states that, “the Pharisees wanted a miraculous Messiah; the Sadducees wanted a materialistic Messiah; the Zealots wanted a military Messiah; the Essenes wanted a monastic messiah.” Meanwhile, we see Jesus approaching as a meek Messiah.
+	Meekness is not a weakness. The word in the Greek for meek is praus. It is a term used to describe soothing medicine which doctors gave to fevered patients, or the gentle wind experienced by sailors, or even a colt after it has been broken in (or tamed). The truth is, meekness is all of these things. Meekness is not weakness, but rather power under control.
+	All types of medicine have a prescribed dosage because taking any more than prescribed will have unintended effects. A cool breeze is nice until it becomes a full fledged tornado. A colt, when unbroken, will do much more damage than one that has been tamed.
+	Meekness is a teaching that Jesus’ brother, James, knew very well; he writes in James 3,
+[Jas 3:5, 7-8 KJV] 5 Even so the tongue is a little member, and boasteth great things. Behold, how great a matter a little fire kindleth! ... 7 For every kind of beasts, and of birds, and of serpents, and of things in the sea, is tamed, and hath been tamed of mankind: 8 But the tongue can no man tame; [it is] an unruly evil, full of deadly poison.
+James says that the tongue is like a fire, it starts out small but if not put in check, it will have firetruck after firetruck trying to douse every area of our life with water.
+This is why meekness is so important, it’s power under control– our tongue holds a lot of power and needs to be broken just like a baby horse. However, notice that James tells us, unlike all the animals of the earth, our tongues cannot be tamed by man. Thankfully, another passage of Scripture teaches us about the Fruit of the Spirit, which contains something called self-control.
+Several weeks ago, I was driving on the highway in Bloomington-Normal. I had to hop over to the other lane so I wouldn’t miss my turn. I got right in front of this car, and they laid on their horn, I must have not given them enough time. And then, a few miles later, the exact same car did the exact same thing, fearing they would miss their turn. I was ready, I held my hand on the horn of my car and was going to let them know how it felt to be honked at. But then the LORD checked me. I was studying for this lesson and had just looked at meekness. I knew it wasn’t Christian of me to do that, even if they deserved it from a worldly perspective.
+Pursuing a relationship with God, coming face to face with the process of salvation– repentance followed by baptism by water and baptism by God’s Spirit– will result in self-control along with many other God-given characteristics.
+But meekness isn’t just about suppressing power, it’s power under control, it’s the redirection of power for the Kingdom of God. Regarding the tongue, instead of breaking others down, build them up by saying, “Brother, I love those shoes!” or, “Sister, let me just say that your purse really compliments your outfit.”
+Meekness is a superpower– we can all be superheroes– but we must always remember that it is God who grants us the power to be meek.
+Let’s move on to our last Beatitude for today…
+They Which Do Hunger and Thirst After Righteousness
+'Blessed are they which do hunger and thirst after righteousness: for they shall be filled.' Matthew 5:6
+	Hungry people are desperate people. It’s crazy what people will do for food, especially when they’re starving. I won’t get into details on cannibalism but if you look throughout history…it happened.
+	There are so many emotions that rise up when we’re hungry, has anyone here ever been hangry? There is just something about hunger– but once we’re filled, we’re completely different people, new creatures one might say (2 Corinthians 5:17).
+	There is one man in the Bible who was very hungry. However, his hunger was different from that which we have been talking about; He was hungry for God. He was so hungry that he put his reputation and career at risk to talk to Jesus. That man’s name was Nicodemus.
+	One night, Nicodemus secretly meets up with Jesus. He says, “Rabbi,” or master, "we know that thou art a teacher come from God: for no man can do these miracles that thou doest, except God be with him.” Nicodemus is quite flattering, but Jesus is quick to respond with,
+[Jhn 3:3 KJV] 3 Jesus answered and said unto him, Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God.
+	Nicodemus is confused, “Born again? Say whattt?” So Jesus instructs Him a little more.
+[Jhn 3:5 KJV] 5 Jesus answered, Verily, verily, I say unto thee, Except a man be born of water and [of] the Spirit, he cannot enter into the kingdom of God.
+This promise from Jesus comes to pass on the day of Pentecost, where Peter is asked by the people, “How must we be saved?” And he replies,
+[Act 2:38 KJV] 38 Then Peter said unto them, Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins, and ye shall receive the gift of the Holy Ghost.
+When we are hungry for God, He will fill us with His Spirit. When we have met up with our convictions, and are led to repentance, He will then fill us with His Spirit. I know all of us have experienced hunger, and maybe some of us are hungry right now, but we are getting ready to talk about a dish that never gets old, that you never grow tired of eating.
+But first, I have to make a confession. I have this struggle, maybe you guys do too, where I get hungry day after day. I’ll have had three meals one day and then the next day I could eat three more. Do you guys ever feel that way? Yeah, I’m sure all of you do because that’s completely normal.
+	When we’re full we don’t stay that way very long.
+	The same is true of our spiritual lives. 
+	Jesus tells the woman of Samaria in John 4 when she denies Him a drink from the well,
+[Jhn 4:10, 13 KJV] – 10 Jesus answered and said unto her, If thou knewest the gift of God, and who it is that saith to thee, Give me to drink; thou wouldest have asked of him, and he would have given thee living water. ... 13 Jesus answered and said unto her, Whosoever drinketh of this water shall thirst again:
+	This isn’t the only time we read about Jesus making such a claim, After feeding the 5000, He says in John 10:10,
+[Jhn 6:35 KJV] – 35 And Jesus said unto them, I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst.
+The thing about salvation– about being filled with God’s Spirit– that’s only the beginning. We are called to pursue righteousness for the rest of our lives. So when you hunger and thirst after the things of God, you’re blessed, because as a result of that, you will be filled. You’ll always grow hungry and thirsty– it’s in our nature to depend upon our Creator for survival– but it doesn’t take long for God to fill you up during a time of prayer, Bible reading, worship, teaching, or preaching. Continue seeking that which is righteous, feeding your soul on heavenly things– that which will make the difference for eternity’s sake.
+The world has prepared plenty of dishes as well, they try to compete for the dish of the LORD but these dishes are only temporary. When we feed ourselves full of the junk food that the world offers us– whether it be death scrolling short clips, looking at posts from our favorite influencers, trying to excel at that latest videogame, etc… it is only a matter of time before we become hungry again, perhaps even more hungry than we were before. Seek after righteousness, satisfy your soul with something that will last.
+***Happy are the poor in Spirit. Happy are those who mourn. Happy are the humble. And happy are the hungry. We’ll pick up next week with the next four beatitudes. Until then, I encourage you all to read these verses from today, Matthew 5:3-6, and think about how you can put each one into practice. I love you all. Let’s end with a time of prayer.
+Who Are the Blessed? [Part 2]
+~ 18 Minutes
+Alrighty everybody, today we are continuing with the Beatitudes. On Wednesday, we talked about how the happy are poor, sad, humble, and hungry… I think based on that, a lot more of us should have wider smiles on our faces than we do. I’m just kidding, there was a little more context to that and if you want a refresher, or you weren’t here, I’d be happy to catch you up to speed after class.
+For now, let us continue with our fifth out of eight beatitudes…
+The Merciful
+'Blessed are the merciful: for they shall obtain mercy.' Matthew 5:7
+In Jesus’ day, some called mercy a, “disease of the soul.”
+Forgiveness was not something that was normal in the culture at that time, nor is it widely popular in today’s world.
+On the topic of forgiveness, Peter asks Jesus this question in Matthew 18, he says,
+[Mat 18:21 KJV] 21 Then came Peter to him, and said, Lord, how oft shall my brother sin against me, and I forgive him? till seven times?
+	Peter was being quite generous here. He knew that Rabbis taught their followers to forgive three times before considering themself off the hook (Amos 1:3-13). However, Peter also knew Christ was more generous than your average Rabbi, so he jumped up to the number seven. To Peter, it probably looked like a noble amount of forgiveness– it was the perfect number afterall, modeling the days of creation. But Jesus takes it a step further when He says,
+[Mat 18:22 KJV] 22 Jesus saith unto him, I say not unto thee, Until seven times: but, Until seventy times seven.
+	Jesus wasn’t literally saying, you better start counting, how close until they hit that quota? No, instead He was making the point that it doesn’t matter how many times we’ve been wronged, we are still called to forgive. I do want to caution you all, however, if someone has wronged you 490 times, maybe stop spending time with them. Forgive them, yes, indulge them, no.
+After Jesus teaches Peter about forgiveness, He tells a story to help everyone better understand the subject.
+There was this servant who owed the king ten thousand talents. We don’t know how much money that equates to in the modern dollar, but we know it was so much money that the servant could not pay it back within his lifetime. The king threatens the servant’s family, taking his wife and children into custody until the debt could be repaid.
+In that moment, the unforgiving servant did all that he could do; he came to the end of himself, bowed before the king and asked for mercy. The king was moved by the servant’s actions. He tells the servant that his debt was forgiven– completely erased. The servant leaves the king’s palace with such relief, as if the world had just been lifted from his shoulders.
+God is similar to the king in the sense that when we confess our sins, He will forgive us of them. 1 John 1:9 says,
+[1Jo 1:9 KJV] 9 If we confess our sins, he is faithful and just to forgive us [our] sins, and to cleanse us from all unrighteousness.
+God forgives sins, but we must first repent of the wrongs we have committed. God is our righteous judge, it would not be right for Him to pardon us unless we decided to change. Can you imagine if a judge let a criminal back onto the street despite them having no remorse for their actions? That’s not very judge-like.
+We have to have a moment like the servant before the king, realizing that we have messed up and that the only thing that can save us is the mercy of God.
+In his book, “Blessed Are…” LJ Harry references a song from an unknown artist which reads,
+He paid a debt He did not owe	I owed a debt I could not pay	I needed someone to wash my sins away;	And now I sing a brand new song,	Amazing grace,	Christ Jesus paid a debt that I could never pay.
+We could never pay the price of sin, we needed a spotless lamb, for the price of sin is death. Given that none of us are spotless– or without sin– Jesus paid that price for us. He didn’t have to, but He did because of His love for us. We are called to show that same love to others, which is something the servant in the earlier story failed to do.
+After the servant was forgiven by the king, he decided to follow up on a  person who owed him money. He came to the man who owed him one-hundred denarii, and once again we aren’t sure how much money that was, but we believe it could have been paid much more easily than the ten thousand talents. It was likely that this man could pay his one hundred denarii if given one hundred days to do so. The servant, however, wanted his money and he wanted it now. This man got down on his knees and begged for mercy, not so that he would not have to pay, but he simply wanted an extension. The servant was not feeling very merciful despite just receiving mercy from the king, so he put the man into the debt prison.
+When the king heard about this, he was furious, he called for his guards to bring the unforgiving servant into his palace where he condemned the servant’s behavior.
+[Mat 18:32-34 KJV] 32 Then his lord, after that he had called him, said unto him, O thou wicked servant, I forgave thee all that debt, because thou desiredst me: 33 Shouldest not thou also have had compassion on thy fellowservant, even as I had pity on thee? 34 And his lord was wroth, and delivered him to the tormentors, till he should pay all that was due unto him.
+	Jesus then tells us that the Kingdom of Heaven is the same way, if we become hypocrites after being forgiven by God for not forgiving our fellow man, we shall be punished.
+Mercy gotten begets mercy given, or at least it should. When we have received mercy, out of that a dispensation of mercy should be birthed. We must forgive others as we have been forgiven by God.
+Happy are those who have had to forgive. Notice the people who are happy are those who have been hurt rather than those who have never experienced that kind of pain.
+Forgiveness is special because it heals the person forgiving before it ever heals the person receiving forgiveness.
+So far, we have begun to realize we have nothing without God, which causes us to mourn, to be meek, and to be hungry for Him and what He has to offer. We have also just learned that nobody owes us anything, that we are only here by the grace of God.
+Let us move up this ladder unto the next rung of our Beatitudes…
+The Pure in Heart
+'Blessed are the pure in heart: for they shall see God.' Matthew 5:8
+Notice that this beatitude isn’t, “Blessed are the pure on the outside,” but instead talks about the heart.
+Purity and holiness should not be burdens, but rather are protections for us.
+Jesus is trying to teach these people, and us as readers, that holiness must start on the inside before it can ever be viewed on the outside.
+Out of all the beatitudes, this one must have really gotten the Pharisees attention. They acted as if purity started on the outside. They dressed real nice and always wore smiles across their face– but none of it was genuine, it was all for show.
+I have heard it said that holiness is like a set of guardrails on either side of the road that you see when you’re driving. You don’t want to get too close, otherwise you’ll get dinged up and might even drive off this strait and narrow path. You could also describe holiness as being like an electric fence, if you get too close to that line and rub against the fence you’ll grow numb to the feeling and forget the fence is even there. Whether you see holiness as a guardrail or an electric fence, forsaking it may not kill you, but it also won’t lead you to eternal life.
+Purity is an undivided devotion to God. This means we must get our priorities straight, focus on God. James 1:8 warns us not to split up our focus or be double minded because,
+[Jas 1:8 KJV] 8 A double minded man [is] unstable in all his ways.
+Pure in-hearted people don’t have to worry about tripping over their disguised personas. They aren’t worried about what others may find after taking a close look at their life because they have nothing to hide.
+We aren’t pure in heart to please our parents, or to even to please Brodey and Alexis– we are pure in heart to please God. Jesus loved us so much that He died on the cross for us, if holiness pleases Him (and it does), then I want to be holy.
+The Word of God makes us pure:
+[Jhn 15:3 KJV] 3 Now ye are clean through the word which I have spoken unto you.
+[Eph 5:26-27 KJV] {Christ died for us} 26 That he might sanctify and cleanse {us} with the washing of water by the word, 27 That he might present it to himself a glorious church, not having spot, or wrinkle, or any such thing; but that it should be holy and without blemish.
+We are called to be in the world and not of it (John 17:14-18), which calls for a certain balance. James 4:4 says,
+[Jas 4:4 KJV] 4 Ye adulterers and adulteresses, know ye not that the friendship of the world is enmity with God? whosoever therefore will be a friend of the world is the enemy of God.
+We must find balance between living in this world while still representing the God of the Heavens. This isn’t our permanent home, but we still have to take care of it and love the people within it. We can start loving people by telling them about our Creator who first loved them (1 John 4:19), how He died to save them (John 3:16, 1 Timothy 3:16), and how He is calling for us to live in relationship with Him, separating ourselves from sin (Galatians 5:24, 1 Corinthians 15:31).
+David was a man after God’s own heart, so we should really pay attention to what he writes in Psalm 57:7,
+[Psa 57:7 KJV] 7 My heart is fixed, O God, my heart is fixed: I will sing and give praise.
+We should also take note of his writing in Psalm 139:23-24,
+[Psa 139:23-24 KJV] 23 Search me, O God, and know my heart: try me, and know my thoughts: 24 And see if [there be any] wicked way in me, and lead me in the way everlasting.
+	When we have become pure in heart, our hearts have been fixed, they have returned back to how they were supposed to be before sin entered the world. Because sin has entered the world, we must find humility in asking God to search us and remove what was not placed there by Him.
+	Once we do that, we can find ourselves starting to become pure in heart, to which the blessing is given, “that they shall see God.” 1 John 3:2 reads,
+[1Jo 3:2 KJV] 2 Beloved, now are we the sons of God, and it doth not yet appear what we shall be: but we know that, when he shall appear, we shall be like him; for we shall see him as he is.
+	When we grow close to God, we return back to the image that He created us in. We aren’t perfect, and we won’t find ourselves being exact replicas of our Creator in this life, but one day we shall see God for who He is and be like Him.
+	We have two more beatitudes to investigate– two more rungs of this ladder to go before reaching the top…
+The Peacemakers
+'Blessed are the peacemakers: for they shall be called the children of God.' Matthew 5:9
+There aren’t very many things in the Bible that we are called to make. God doesn’t call us to make money or to make a name for ourselves, but He does call us to make peace.
+There is a constant war that rages day in and day out. I’m not talking about the kind of wars that you hear about watching FOX, CNN, or ABC. Even if mankind stopped fighting one another, one would still notice the wars that take place between God and our flesh.
+[Eph 6:12 KJV] – 12 For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high [places].
+
+As fleshly beings, we often get caught up within our flesh. Something happens to us, we are wronged by someone or a situation doesn’t turn out right, and we begin to take arms. We are so quick to load the balistas and fill the cannons with gun powder, but if we would just stop we would realize that, “the battle is not fought with bombs and guns, but worship is the way that the battle is won.”
+That lyric might sound familiar because it is a song we sing here at church. Worship is an inner attitude of reverence and submission. Those times that we get alone with God– when we get real with God– crying at the altar because of His goodness and grace– that’s worship.
+Paul writes in Romans,
+[Rom 12:1 KJV] – 1 I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, [which is] your reasonable service.
+Regarding translations like the NIV, instead of saying reasonable service, they say something similar to, “this is your true and proper worship.”
+When we worship God, we are giving something of ourselves. We might be giving Him our time, we might be giving Him our trust, and when we make the decision to be peacemakers, we are given God our control. We make the conscious decision that Jesus made when He prayed, “Not my will, but yours be done” (Luke 22:42). You’ve probably noticed that a lot of these Beatitudes require us to have self-control. To earn self-control, we have to surrender all the control to God. It seems counterproductive– like an oxymoron– to have to give up control in order to gain it. A lot of the times, when people lack self-control, they are compulsive, they do things without thinking. Well, by giving our control to God, we find ourselves not doing anything until we feel prompted by the LORD to do so.
+I learned a couple years ago about the importance of peace. If there is no peace in a situation, then it is not of God. He is Jehovah Shalom, “the LORD is peace,” if it does not exist in an opportunity, that opportunity is not of God. Now, I’m not saying there won’t be uncertainty. When I decided to change my college major, I had plenty of uncertainty. I switched to Business and Accounting, not because I was certain they would work out and that I would love them, but because I found peace in that choice…
+We primarily have been talking about peace with God, but I want to transition into talking about another important topic: peace with others. That passage about wrestling not against flesh and blood, Paul goes on to say,
+[Eph 6:13, 15 KJV] – 13 Wherefore take unto you the whole armour of God, that ye may be able to withstand in the evil day, and having done all, to stand. ... 15 And your feet shod with the preparation of the gospel of peace;
+	When we talk about the Armor of God, we talk about the Boots of Peace. This is such a powerful illustration because it instructs us that no matter where we go, peace should follow. When we step into a room, we must bring peace with us. When we leave a room, we leave tracks of peace. My parents hate when I wear shoes in the house because I track dirt everywhere, but if metaphorically we left peace in every part of our home and schools, who wouldn’t want that?
+Once we have made peace in all aspects of our life– with God, with others, and even with ourselves– we are called to help others do the same. Paul writes in 2 Corinthians,
+[2Co 5:18-19 NIV] – 18 All this is from God, who reconciled us to himself through Christ and gave us the ministry of reconciliation: 19 that God was reconciling the world to himself in Christ, not counting people's sins against them. And he has committed to us the message of reconciliation.
+	God made peace with us when He came down as a man to die on the Cross. He was killed by the hand of mankind, meaning that before we ever made peace with Him, He made peace with us. He has called us to live by that example, making peace with our brothers and sisters, maybe not for their sake, but for our own.
+	Where there is peace, there is purity. When we make the effort to be peaceful, we have already made the effort to be pure as well. We just talked about being pure in heart on the rung before this one.
+	Peace doesn’t require us to sacrifice our morality or holiness, but vengeance does– think back about our conversation regarding mercy, and choose to be a peace maker.
+	We now approach the final rung of the ladder. If you’re scared of heights, don’t look down! We’ve come a long way, but we’re not done yet.
+They Which Are Persecuted for Righteousness’ Sake
+'Blessed are they which are persecuted for righteousness' sake: for theirs is the kingdom of heaven. Blessed are ye, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake. Rejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets which were before you.' Matthew 5:10-12
+All these people standing before Jesus, listening to the words He had to say, none of it made sense to them. They weren’t too sure about this preacher, and their doubt grew even larger when, instead of saying “Blessed are they which are delivered from Roman scrutiny,” Jesus says, “Blessed are the persecuted (for righteousness’ sake).”
+Imagine what the disciples must have thought. These men weren’t just listening to a sermon, only to head home like everyone else. The disciples were all in. They left behind their families and businesses to follow after Jesus.
+The disciples were promised that they would become “fishers of men” (Matthew 4:19; Mark 1:17), but then they hear that men will revile them.
+Later in the Gospels, we see a similar teaching come from Jesus,
+[Jhn 15:18 KJV] – 18 If the world hate you, ye know that it hated me before [it hated] you.
+If I can be honest, this is my favorite beatitude. I can’t say I have ever been persecuted, though I did have a guy call me Mormon in high school, which… was weird. But nonetheless, understanding that we are called to live a life that contrasts so much to one of comfort– that does something to me.
+I had to really stop and think when I got to this part of the lesson– I knew that this beatitude was my favorite, but I wanted to understand why, not just so I can tell all of you, but so I could better understand it for myself.
+This is what I came up with. When I was around twelve years old, I stopped believing in God. My parents had just split apart and my faith wavered. For this period of my life, I tried filling myself by listening to music I had no right listening to and watching shows I had no right watching. No matter what I did, I couldn’t fill the void that was inside, a void that was there long before I denied Christ. I was hungry, I was trying to fill myself the only way I knew how– with the things of this world. Little did I know that I would be filled at a Pentecostal campground in the middle of nowhere. Little did I know that God even wanted to fill me with His Spirit until I started coming to church again and digging into Scripture. When my life was meaningless, God gave me meaning…
+So when I read scriptures like this Beatitude that warn us that some people will hate us for what we believe, I honestly get excited! I don’t know how well I’ll carry that emotion when it actually comes down to it. But I know that given such circumstances, I can live a life worth something– a life with meaning. When we reach the eighth rung of the ladder, we can tell someone about the Gospel, get slapped because of it, and then turn around and do it again because we realize this life isn’t about us– it’s about the One who loves us. For me, it’s about the One who loved me when I couldn’t even love myself.
+	In Acts 5, we read about the disciples severely beaten by the Sadducees– the one translation says they were flogged, meaning “to beat severely with a whip or rod.” And do you know what the disciples did in response to this? It’s unbelievable– they rejoiced! Specifically, they 'rejoic[ed] that they were counted worthy to suffer shame for [the name of Jesus]' (Acts 5:41 KJV)
+Beyond Jesus’ original disciples, the Apostle Paul had his fair share of persecution that he speaks about in 2 Corinthians 11. Paul writes that he was whipped 199 times, was beaten with rods 3 different times, and was even stoned– people threw rocks at him and tried to kill him. Paul makes note that it was his fellow Jews who did this to him because they did not want to believe in the message He spoke of.
+What’s interesting, for both the disciples and Paul, is that neither ever stopped preaching the Gospel because of the persecution that came with it. They all preached the Gospel and welcomed persecution until it led to most of their deaths. John the beloved, or John the revelator, is the only one who we know died of old age, and that was after being boiled alive. How humbling is it how far these men would go for the Truth they held.
+Please stand…
+I want us all to ask ourselves these questions and think over them as we end in prayer:
+If it came to picking our friends or Jesus, what choice would we make?
+How would we respond if our families told us we had to choose, either Him, or them?
+If it was between our career or Jesus, could we honestly say that we stand by our LORD and Savior?
+I can’t answer these questions for you, just like you can’t answer these questions for me. We all have to make our own decision to follow after God, no matter what may happen as a result.
+***Additionally, we all must make the choice to study and live out these Beatitudes. I don’t know about you, but I want to live in the image that my Creator formed me in; I want to live in His image.
+I encourage all of you, spend some time in prayer after you leave here, asking God to help you demonstrate these Beatitudes. Start with “Blessed are the poor in spirit,” and pray until you find yourself at “Blessed are they which are persecuted for righteousness' sake.” Let’s find a place to pray, you can get out of your seat if you feel like it, and let us go before the LORD…
+
+
+References
+[Gen 23:2 KJV] – 2 And Sarah died in Kirjatharba; the same [is] Hebron in the land of Canaan: and Abraham came to mourn for Sarah, and to weep for her.
+[1Sa 20:41 KJV] – 41 [And] as soon as the lad was gone, David arose out of [a place] toward the south, and fell on his face to the ground, and bowed himself three times: and they kissed one another, and wept one with another, until David exceeded.
+[Act 20:37-38 KJV] – 37 And they all wept sore, and fell on Paul's neck, and kissed him, 38 Sorrowing most of all for the words which he spake, that they should see his face no more. And they accompanied him unto the ship.
+[Jhn 11:35 KJV] – 35 Jesus wept.
+[Job 9:32-33 KJV] – 32 For [he is] not a man, as I [am, that] I should answer him, [and] we should come together in judgment. 33 Neither is there any daysman betwixt us, [that] might lay his hand upon us both.
+[Jhn 14:16-18 KJV] – 16 And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever; 17 [Even] the Spirit of truth; whom the world cannot receive, because it seeth him not, neither knoweth him: but ye know him; for he dwelleth with you, and shall be in you. 18 I will not leave you comfortless: I will come to you.
+[2Co 5:17 KJV] – 17 Therefore if any man [be] in Christ, [he is] a new creature: old things are passed away; behold, all things are become new.
+[Jhn 17:14-18 KJV] – 14 I have given them thy word; and the world hath hated them, because they are not of the world, even as I am not of the world. 15 I pray not that thou shouldest take them out of the world, but that thou shouldest keep them from the evil. 16 They are not of the world, even as I am not of the world. 17 Sanctify them through thy truth: thy word is truth. 18 As thou hast sent me into the world, even so have I also sent them into the world.
+[Jhn 3:16 KJV] – 16 For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
+[1Ti 3:16 KJV] – 16 And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Spirit, seen of angels, preached unto the Gentiles, believed on in the world, received up into glory.
+[Gal 5:24 KJV] – 24 And they that are Christ's have crucified the flesh with the affections and lusts.
+[1Co 15:31 KJV] – 31 I protest by your rejoicing which I have in Christ Jesus our Lord, I die daily.
+[2Co 11:24-33 KJV] – 24 Of the Jews five times received I forty [stripes] save one. 25 Thrice was I beaten with rods, once was I stoned, thrice I suffered shipwreck, a night and a day I have been in the deep; 26 [In] journeyings often, [in] perils of waters, [in] perils of robbers, [in] perils by [mine own] countrymen, [in] perils by the heathen, [in] perils in the city, [in] perils in the wilderness, [in] perils in the sea, [in] perils among false brethren; 27 In weariness and painfulness, in watchings often, in hunger and thirst, in fastings often, in cold and nakedness. 28 Beside those things that are without, that which cometh upon me daily, the care of all the churches. 29 Who is weak, and I am not weak? who is offended, and I burn not? 30 If I must needs glory, I will glory of the things which concern mine infirmities. 31 The God and Father of our Lord Jesus Christ, which is blessed for evermore, knoweth that I lie not. 32 In Damascus the governor under Aretas the king kept the city of the Damascenes with a garrison, desirous to apprehend me: 33 And through a window in a basket was I let down by the wall, and escaped his hands.
+Resources
+Blessed Are: A Practical Look At The Beatitudes by LJ Harry
+
+
+---
+
+## Who Are the Blessed?
+**Source:** Google Doc | **Date:** 11.26
 
 ---
 

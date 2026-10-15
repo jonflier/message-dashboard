@@ -1,7 +1,11 @@
+import os
 from notion_client import Client
+from dotenv import load_dotenv
 
-notion = Client(auth='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')
-database_id = 'c2ff0eb1ed8382c39dd981e78aa008ff'
+load_dotenv()
+
+notion = Client(auth=os.getenv('NOTION_TOKEN'))
+database_id = os.getenv('NOTION_DATABASE_ID')
 
 def get_page_content(block_id):
     try:

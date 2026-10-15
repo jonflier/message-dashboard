@@ -4,7 +4,7 @@
 
 cd "$(dirname "$0")"
 
-: <<'COMMENT'
+#: <<'COMMENT'
 echo "[1/5] Updating Notion export..."
 python3 notion.py
 
@@ -16,9 +16,4 @@ python3 docs.py
 
 echo "[4/5] Updating Google Sheets export..."
 python3 sheets.py
-
-echo "[5/5] Starting local server and opening Content Hub..."
-
-open http://localhost:8000/contentHub.html
-python3 -m http.server 8000
-COMMENT
+#COMMENT

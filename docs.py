@@ -77,17 +77,17 @@ def process_tab(tab, f):
                     first_line = line.strip()
                     break
 
-            # Expanded date pattern to capture MM/DD/YYYY, MM/DD, DD.MM.YY, and YYYY-MM-DD
-            date_pattern = r'(\d{1,2}/\d{1,2}/\d{2,4})|(\d{1,2}/\d{1,2})|(\d{2}\.\d{2}\.\d{2})|(\d{4}-\d{2}-\d{2})'
+            # Comprehensive pattern catching 2-part (MM.DD, MM/DD) and 3-part date formats
+            date_pattern = r'(\d{1,2}/\d{1,2}/\d{2,4})|(\d{1,2}/\d{1,2})|(\d{2}\.\d{2}\.\d{2})|(\d{1,2}\.\d{1,2})|(\d{4}-\d{2}-\d{2})'
 
-            # 1. Extract dates from the tab title first (e.g. 06.28&07.04.26)
+            # 1. Extract dates from the tab title
             title_matches = re.findall(date_pattern, fallback_title)
             for match in title_matches:
                 found = next((m for m in match if m), "")
                 if found and found not in dates_found:
                     dates_found.append(found)
 
-            # 2. Parse title and dates from the document body header line
+            # 2. Extract title and dates from the document body header line
             if '@' in first_line:
                 parts = first_line.split('@')
                 potential_title = parts[0].strip()

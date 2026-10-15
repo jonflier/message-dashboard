@@ -1,7 +1,7 @@
 # Messages & Drafts
 
 ## Natural Born Follower
-**Source:** Google Doc | **Date:** 05.24.23
+**Source:** Google Doc | **Date:** 05/24/23
 
 ---
 
@@ -42,7 +42,7 @@ So, let me end off with this- while we are born leaders, we must too be follower
 ---
 
 ## God’s Will For Your Life
-**Source:** Google Doc | **Date:** 08.07.23
+**Source:** Google Doc | **Date:** 08/07/23
 
 ---
 
@@ -112,7 +112,7 @@ Thank you…
 ---
 
 ## Back to School
-**Source:** Google Doc | **Date:** 08.23.23
+**Source:** Google Doc | **Date:** 08/23/23
 
 ---
 
@@ -150,7 +150,7 @@ For those of you who were able to attend, at NAYC, one pastor mentioned the Bibl
 ---
 
 ## The Race to Heaven
-**Source:** Google Doc | **Date:** 10.08.23
+**Source:** Google Doc | **Date:** 10/08/23
 
 ---
 
@@ -200,7 +200,7 @@ More than anything, cross country has taught me to persevere, no matter how sore
 ---
 
 ## We Are the Artwork of God
-**Source:** Google Doc | **Date:** 12.14.23
+**Source:** Google Doc | **Date:** 12/14/23
 
 ---
 
@@ -233,7 +233,7 @@ His Word explains in Jeremiah 29:11 that He knows our stories and they are good,
 ---
 
 ## A Roaring Lion
-**Source:** Google Doc | **Date:** 04.17.24
+**Source:** Google Doc | **Date:** 04/17/24
 
 ---
 
@@ -295,7 +295,7 @@ I have an immense passion for these topics, being a part of Celebrate Recovery h
 ---
 
 ## Pillows to Pillars
-**Source:** Google Doc | **Date:** 03.02.25
+**Source:** Google Doc | **Date:** 03/02/25
 
 ---
 
@@ -344,7 +344,7 @@ That is all I have, but I believe it would be fitting to end with a time of pray
 ---
 
 ## The Strait and Narrow
-**Source:** Google Doc | **Date:** 03.10.25
+**Source:** Google Doc | **Date:** 03/10/25
 
 ---
 
@@ -385,7 +385,7 @@ That is all. Thank you.
 ---
 
 ## Jonathan Flier’s CR Testimony (4/24/2025)
-**Source:** Google Doc | **Date:** 04.24.25
+**Source:** Google Doc | **Date:** 04/24/25
 
 ---
 
@@ -425,7 +425,7 @@ That is all, thank you.
 ---
 
 ## Praise No Matter the Season
-**Source:** Google Doc | **Date:** 06.29.25
+**Source:** Google Doc | **Date:** 06/29/25
 
 ---
 
@@ -455,7 +455,7 @@ Allow me to close with this: you know why we shouldn’t base our walks with God
 ---
 
 ## Never Forget
-**Source:** Google Doc | **Date:** 07.16.25
+**Source:** Google Doc | **Date:** 07/16/25
 
 ---
 
@@ -506,7 +506,7 @@ I believe that Hophni and Phineas, Joel and Abiah, and even my past self, all fo
 ---
 
 ## The Artwork of God
-**Source:** Google Doc | **Date:** 09.28.25
+**Source:** Google Doc | **Date:** 09/28/25
 
 ---
 
@@ -559,7 +559,7 @@ We were all made in God's image. While justification is the process of restorati
 ---
 
 ## The Uniting of Brothers
-**Source:** Google Doc | **Date:** 09.30.25
+**Source:** Google Doc | **Date:** 09/30/25
 
 ---
 
@@ -599,7 +599,7 @@ Israel → “God Prevails” ~ Genesis 32:28
 ---
 
 ## There are Methods to a Miracle
-**Source:** Google Doc | **Date:** 11.16.25
+**Source:** Google Doc | **Date:** 11/16/25
 
 ---
 
@@ -644,7 +644,7 @@ As we close, can we pray and ask God to help us continue to study His Word? Ask 
 ---
 
 ## Grateful Despite the Storms
-**Source:** Google Doc | **Date:** 11.18.25
+**Source:** Google Doc | **Date:** 11/18/25
 
 ---
 
@@ -682,7 +682,7 @@ References
 ---
 
 ## The Love of Christ
-**Source:** Google Doc | **Date:** 01.20.26
+**Source:** Google Doc | **Date:** 01/20/26
 
 ---
 
@@ -714,7 +714,7 @@ God loves us so much that He came down, taking on the form of a man, the form of
 ---
 
 ## Love
-**Source:** Google Doc | **Date:** 02.08.26
+**Source:** Google Doc | **Date:** 02/08/26
 
 ---
 
@@ -773,7 +773,7 @@ Before we dismiss, let us go into a time of prayer.
 ---
 
 ## A Voice in the Wilderness
-**Source:** Google Doc | **Date:** 03.10.26
+**Source:** Google Doc | **Date:** 03/10/26
 
 ---
 
@@ -802,7 +802,7 @@ This living water is great, but none of us can keep it for ourselves. God’s Wo
 ---
 
 ## Keep On Fishin’
-**Source:** Google Doc | **Date:** 05.27.26
+**Source:** Google Doc | **Date:** 05/27/26
 
 ---
 
@@ -846,7 +846,7 @@ God called us to be fishers of men, not only referring to both men and women, bu
 ---
 
 ## These Mighty Gods
-**Source:** Google Doc | **Date:** 06.07.26
+**Source:** Google Doc | **Date:** 06/07/26
 
 ---
 
@@ -935,7 +935,7 @@ I’m here to say that there is a God in Israel, and I am so thankful that He al
 ---
 
 ## Who is God?
-**Source:** Google Doc | **Date:** 06.28
+**Source:** Google Doc | **Date:** 06/28/2026
 
 ---
 
@@ -1175,7 +1175,7 @@ The Oneness of God, Vol. 1 by David K. Bernard
 ---
 
 ## Who is God?
-**Source:** Google Doc | **Date:** 07.04.26
+**Source:** Google Doc | **Date:** 07/04/26
 
 ---
 
@@ -1415,7 +1415,7 @@ The Oneness of God, Vol. 1 by David K. Bernard
 ---
 
 ## God is Good
-**Source:** Google Doc | **Date:** 08.19.26
+**Source:** Google Doc | **Date:** 08/19/26
 
 ---
 
@@ -1485,7 +1485,7 @@ Blind Bartimaeus: Mark 10:46–52, Luke 18:35–43, and Matthew 20:29–34
 ---
 
 ## Don’t Worry
-**Source:** Google Doc | **Date:** 09.08.26
+**Source:** Google Doc | **Date:** 09/08/26
 
 ---
 
@@ -1533,7 +1533,7 @@ References
 ---
 
 ## God of the Hills and Valleys
-**Source:** Google Doc | **Date:** 09.16.26
+**Source:** Google Doc | **Date:** 09/16/26
 
 ---
 
@@ -1591,7 +1591,7 @@ Let us find a place to pray– I may not know what season of life you’re in, b
 ---
 
 ## Who Are the Blessed?
-**Source:** Google Doc | **Date:** 10.07
+**Source:** Google Doc | **Date:** 10/07/2026
 
 ---
 
@@ -1835,7 +1835,7 @@ Blessed Are: A Practical Look At The Beatitudes by LJ Harry
 ---
 
 ## Who Are the Blessed?
-**Source:** Google Doc | **Date:** 11.26
+**Source:** Google Doc | **Date:** 11/26/2026
 
 ---
 
@@ -2079,7 +2079,7 @@ Blessed Are: A Practical Look At The Beatitudes by LJ Harry
 ---
 
 ## Who Are the Woeful?
-**Source:** Google Doc | **Date:** 10.13.26
+**Source:** Google Doc | **Date:** 10/13/26
 
 ---
 
@@ -2163,7 +2163,7 @@ Let us end with a time of prayer, asking God to help us carry out these biblical
 ---
 
 ## An Eye For an Eye
-**Source:** Google Doc | **Date:** 11.17.26
+**Source:** Google Doc | **Date:** 11/17/26
 
 ---
 

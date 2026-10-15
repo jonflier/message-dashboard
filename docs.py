@@ -115,6 +115,10 @@ def process_tab(tab, f):
             if dates_found:
                 for d_str in dates_found:
                     normalized_date = d_str.replace('.', '/')
+                    # Append default year 2026 if no year is present
+                    if len(normalized_date.split('/')) == 2:
+                        normalized_date = f"{normalized_date}/2026"
+                        
                     f.write(f"## {sermon_title}\n")
                     f.write(f"**Source:** Google Doc | **Date:** {normalized_date}\n\n")
                     f.write("---\n\n")

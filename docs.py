@@ -77,7 +77,8 @@ def process_tab(tab, f):
                     first_line = line.strip()
                     break
 
-            date_pattern = r'(\d{1,2}/\d{1,2}/\d{2,4})|(\d{2}\.\d{2}\.\d{2})|(\d{4}-\d{2}-\d{2})'
+            # Expanded date pattern to capture MM/DD/YYYY, MM/DD, DD.MM.YY, and YYYY-MM-DD
+            date_pattern = r'(\d{1,2}/\d{1,2}/\d{2,4})|(\d{1,2}/\d{1,2})|(\d{2}\.\d{2}\.\d{2})|(\d{4}-\d{2}-\d{2})'
 
             if '@' in first_line:
                 parts = first_line.split('@')

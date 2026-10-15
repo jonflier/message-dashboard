@@ -940,7 +940,7 @@ I’m here to say that there is a God in Israel, and I am so thankful that He al
 ---
 
 Who is God?
-@ Sunday Morning Youth Class (6/28 & 7/4 of 2026)
+@ Sunday Morning Youth Class (6/28 & 7/5 of 2026)
 
 | Purpose | Method |
 | Edification + Evangelism | Topical |
@@ -1175,12 +1175,12 @@ The Oneness of God, Vol. 1 by David K. Bernard
 ---
 
 ## Who is God?
-**Source:** Google Doc | **Date:** 07/04/26
+**Source:** Google Doc | **Date:** 07/05/26
 
 ---
 
 Who is God?
-@ Sunday Morning Youth Class (6/28 & 7/4 of 2026)
+@ Sunday Morning Youth Class (6/28 & 7/5 of 2026)
 
 | Purpose | Method |
 | Edification + Evangelism | Topical |
@@ -1835,7 +1835,7 @@ Blessed Are: A Practical Look At The Beatitudes by LJ Harry
 ---
 
 ## Who Are the Blessed?
-**Source:** Google Doc | **Date:** 11/26/2026
+**Source:** Google Doc | **Date:** 10/11/26
 
 ---
 

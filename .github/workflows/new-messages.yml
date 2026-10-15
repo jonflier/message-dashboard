@@ -22,6 +22,14 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Debug Environment
+        run: |
+          echo "Token length: ${#NOTION_TOKEN}"
+          echo "Database ID length: ${#NOTION_DATABASE_ID}"
+        env:
+          NOTION_TOKEN: '${{ secrets.NOTION_TOKEN }}'
+          NOTION_DATABASE_ID: '${{ secrets.NOTION_DATABASE_ID }}'
+
       - name: Run Python scripts
         env:
           NOTION_TOKEN: '${{ secrets.NOTION_TOKEN }}'

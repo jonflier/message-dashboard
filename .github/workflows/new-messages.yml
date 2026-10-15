@@ -3,7 +3,7 @@ name: Weekly Run
 on:
   schedule:
     - cron: '59 23 * * 6'
-  workflow_dispatch: # This adds a manual "Run workflow" button
+  workflow_dispatch:
 
 jobs:
   build:
@@ -20,7 +20,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install notion-client google-api-python-client google-auth-httplib2 google-auth-oauthlib
+          pip install "notion-client<2.6.0" google-api-python-client google-auth-httplib2 google-auth-oauthlib
 
       - name: Run Python scripts
         run: |

@@ -68,7 +68,7 @@ def process_tab(tab, f):
         if tab_text:
             lines = tab_text.split('\n')
             sermon_title = ""
-            date_str = ""
+            dates_found = []
             cleaned_lines = lines  
             
             first_line = ""
@@ -76,6 +76,8 @@ def process_tab(tab, f):
                 if line.strip():
                     first_line = line.strip()
                     break
+
+            date_pattern = r'(\d{1,2}/\d{1,2}/\d{2,4})|(\d{2}\.\d{2}\.\d{2})|(\d{4}-\d{2}-\d{2})'
 
             if '@' in first_line:
                 parts = first_line.split('@')
@@ -85,9 +87,11 @@ def process_tab(tab, f):
                 if potential_title and potential_title.lower() != "title":
                     sermon_title = potential_title
                     
-                date_match = re.search(r'(\d{1,2}/\d{1,2}/\d{2,4})|(\d{2}\.\d{2}\.\d{2})|(\d{4}-\d{2}-\d{2})', remainder)
-                if date_match:
-                    date_str = date_match.group(0)
+                matches = re.findall(date_pattern, remainder)
+                for match in matches:
+                    found = next((m for m in match if m), "")
+                    if found and found not in dates_found:
+                        dates_found.append(found)
             else:
                 if first_line and len(first_line) < 80:
                     sermon_title = first_line
@@ -97,23 +101,28 @@ def process_tab(tab, f):
             if not sermon_title or sermon_title.lower() == "title":
                 sermon_title = fallback_title
 
-            if not date_str:
-                date_match = re.search(r'(\d{1,2}/\d{1,2}/\d{2,4})|(\d{2}\.\d{2}\.\d{2})|(\d{4}-\d{2}-\d{2})', fallback_title)
-                if date_match:
-                    date_str = date_match.group(0)
+            if not dates_found:
+                matches = re.findall(date_pattern, fallback_title)
+                for match in matches:
+                    found = next((m for m in match if m), "")
+                    if found and found not in dates_found:
+                        dates_found.append(found)
 
             body_markdown = "\n".join(cleaned_lines).strip()
 
-            if date_str:
-                f.write(f"## {sermon_title}\n")
-                f.write(f"**Source:** Google Doc | **Date:** {date_str}\n\n")
+            if dates_found:
+                for d_str in dates_found:
+                    f.write(f"## {sermon_title}\n")
+                    f.write(f"**Source:** Google Doc | **Date:** {d_str}\n\n")
+                    f.write("---\n\n")
+                    f.write(f"{body_markdown}\n\n")
+                    f.write("\n---\n\n")
             else:
                 f.write(f"## {sermon_title}\n")
                 f.write(f"**Source:** Google Doc\n\n")
-                
-            f.write("---\n\n")
-            f.write(f"{body_markdown}\n\n")
-            f.write("\n---\n\n")
+                f.write("---\n\n")
+                f.write(f"{body_markdown}\n\n")
+                f.write("\n---\n\n")
 
     for child in tab.get('childTabs', []):
         process_tab(child, f)

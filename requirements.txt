@@ -5,3 +5,4 @@ beautifulsoup4
 requests
 notion-client<2.6.0
 gspread
+python-dotenv

@@ -4,6 +4,9 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+token = os.getenv("NOTION_TOKEN")
+print(f"Token loaded: {token[:6]}... (Length: {len(token) if token else 0})")
+
 notion = Client(auth=os.getenv('NOTION_TOKEN'))
 database_id = os.getenv('NOTION_DATABASE_ID')
 

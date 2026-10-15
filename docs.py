@@ -114,8 +114,9 @@ def process_tab(tab, f):
 
             if dates_found:
                 for d_str in dates_found:
+                    normalized_date = d_str.replace('.', '/')
                     f.write(f"## {sermon_title}\n")
-                    f.write(f"**Source:** Google Doc | **Date:** {d_str}\n\n")
+                    f.write(f"**Source:** Google Doc | **Date:** {normalized_date}\n\n")
                     f.write("---\n\n")
                     f.write(f"{body_markdown}\n\n")
                     f.write("\n---\n\n")

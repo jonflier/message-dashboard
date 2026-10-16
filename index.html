@@ -98,7 +98,7 @@
     <script>
         let allEntries = [];
         let currentTab = 'upcoming';
-        const currentDate = '2026-09-11';
+        const currentDate = new Date().toISOString().split('T')[0];;
         let calendarInstance = null;
 
         window.addEventListener('DOMContentLoaded', async () => {

@@ -60,7 +60,7 @@
 
 ---
 
-## Untitled Entry
+## Be Mary (Merry Christmas)
 **Source:** Notion | **Date:** 2026-12-10
 
 ---

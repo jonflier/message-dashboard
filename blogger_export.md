@@ -1,5 +1,131 @@
 # Blogger Posts Export
 
+## Into the World
+**Published:** 2026-10-15 | **[Read Online](https://jonathan-the-psalmist.blogspot.com/2026/09/in-world-not-of-it.html)**
+
+---
+
+Who remembers what are last discussion was about? It's been a couple weeks...
+
+We talked about Esther, and about how God divinely ordained her to be in the right place at the right time in order to save her and all of her people from the genocide of Haman.
+
+I want to immediately jump into the Word by taking a look at John 17:14-16, where Jesus says,
+
+[Jhn 17:14-18 KJV] 14 I have given them thy word; and the world hath hated them, because they are not of the world, even as I am not of the world. 15 I pray not that thou shouldest take them out of the world, but that thou shouldest keep them from the evil. 16 They are not of the world, even as I am not of the world. 17 Sanctify them through thy truth: thy word is truth. 18 As thou hast sent me into the world, even so have I also sent them into the world.
+
+Make note that Christ tells us that we should not be of the world, because He was not of the world, but we are in the world just as He was in the world. As Christ was sent into the world, so are we sent. The Bible shares these theme throughout Scripture.
+
+When Jesus called His first disciples, He said,
+
+[Mat 4:19 KJV] – 19 And he saith unto them, **Follow me, and I will make you fishers of men** .
+
+[Mat 4:19 KJV] – 19 And he saith unto them, **Follow me, and I will make you fishers of men** .
+
+In Matthew 28:19, Jesus tells His disciples,
+
+[Mat 28:19 KJV] – 19 **Go ye therefore, and teach all nations** , baptizing them in the name of the Father, and of the Son, and of the Holy Ghost:
+
+[Mat 28:19 KJV] – 19 **Go ye therefore, and teach all nations** , baptizing them in the name of the Father, and of the Son, and of the Holy Ghost:
+
+Paul follows suit when he writes in Romans 10:14-15,
+
+[Rom 10:14-15 KJV] – 14 **How then shall they call on him in whom they have not believed? and how shall they believe in him of whom they have not heard? and how shall they hear without a preacher? 15 And how shall they preach, except they be sent?** as it is written, How beautiful are the feet of them that preach the gospel of peace, and bring glad tidings of good things!
+
+[Rom 10:14-15 KJV] – 14 **How then shall they call on him in whom they have not believed? and how shall they believe in him of whom they have not heard? and how shall they hear without a preacher? 15 And how shall they preach, except they be sent?** as it is written, How beautiful are the feet of them that preach the gospel of peace, and bring glad tidings of good things!
+
+Just from reading these few verses, it is quite apparent that we, as Christians, are called into the world to teach and preach the Gospel. Beyond simply spreading the Gospel to the world, we are called to love the world.
+
+The Bible speaks largely on love, Christ calls it the greatest commandment (Deuteronomy 6:4-5, Matthew 22:36-40).
+
+Love is a matter that Jesus knew quite well, for the Apostle John writes,
+
+[Jhn 3:16 KJV] – 16 For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
+
+[Jhn 3:16 KJV] – 16 For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
+
+Make note that the same John writes in his first epistle,
+
+[1Jo 2:15-17 KJV] – 15 **Love not the world, neither the things [that are] in the world** . If any man love the world, the love of the Father is not in him. 16 **For all that [is] in the world, the lust of the flesh, and the lust of the eyes, and the pride of life, is not of the Father, but is of the world** . 17 And the world passeth away, and the lust thereof: but he that doeth the will of God abideth for ever.
+
+[1Jo 2:15-17 KJV] – 15 **Love not the world, neither the things [that are] in the world** . If any man love the world, the love of the Father is not in him. 16 **For all that [is] in the world, the lust of the flesh, and the lust of the eyes, and the pride of life, is not of the Father, but is of the world** . 17 And the world passeth away, and the lust thereof: but he that doeth the will of God abideth for ever.
+
+This is a little confusing, we know that the Word of God is inerrant, meaning it does not contradict itself, so why does the same man write opposing pieces of Scripture? Well, Christ loved the world and gave His life for *them* . The word "world" in John 3:16 refers to the people. Christ dying for the world means Christ died for us– the people.
+
+In John's epistle, he writes not to love that which of the world– the sinful things that belong to it. Remember the book of Genesis, when it says we were made in the image of God (Genesis 1:27). What this tells me is the people in the world whom God loves and we are called to love, they are not of the world's possesion. These people have a Father who created them in His own image and is calling the rest of His children to go and retrieve them.
+
+I am thankful for the men and women of God who retreived me when I thought I wanted to belong to the world.
+
+Real quick, I want to talk about a conditon that we need to stray away from: self-righteousness. We must understand that our righteousness comes from God, from Jehovah-Tsidkenu, "the LORD our rightesouness." When we start thinking we are better than other people because we think our morals or lifestyle is better, we start to lose the sight of the love we were called to have.
+
+Allow me to read from Luke 18:11-12,
+
+[Luk 18:11-12 KJV] 11 The Pharisee stood and prayed thus with himself, God, I thank thee, that I am not as other men [are], extortioners, unjust, adulterers, or even as this publican. 12 I fast twice in the week, I give tithes of all that I possess.
+
+[Luk 18:11-12 KJV] 11 The Pharisee stood and prayed thus with himself, God, I thank thee, that I am not as other men [are], extortioners, unjust, adulterers, or even as this publican. 12 I fast twice in the week, I give tithes of all that I possess.
+
+The Pharisees are a great example of what not to be. They looked great on the outside, but they seperated themselves so far from the people of the world, that the light they shined wasn't used to conquer any darkness. What's the point of turning on a flashlight in broad daylight?
+
+If the Pharisees had truly been close to God, they would have been fulfilling His teachings, specifically the teaching to make disciples. They didn't even want to interact with those whom they believed were "unclean" let alone convert them to start living for God.
+
+We are called to be separate from sin and close to God– we must ensure we are fulfilling both.
+
+To loosely quote LJ Harry,
+
+The church should be a hospital for the sick, not a museum full of saints.
+
+A hospital doesn't boast about record low numbers of patients being treated. A hospital doesn't keep patients out and forget to tend to the sick because they're too busy celebrating the well.
+
+We must be separate from sin without being self-righteous.
+
+When we become self-righteous, entirely focused on ourselves, irony takes place. We think we are perfect because our lives are without sin, and yet we lack humility because we let pride get in-between our relationship with God.
+
+We must insulate ourselves from sin without isolating ourselves from sinners.
+
+We should never try and gauge our closeness to God based on our distance from sin.
+
+We must not be of the world, but are called to be in the world, spreading the Gospel and loving people.
+
+Let us transition into our time of small group discussions.
+
+Questions
+
+How do we find the line between being in the world and not of it?
+
+What are some ways we can spread the Gospel and make disciples?
+
+What are some ways we can love the world without loving the things thereof?
+
+How can we avoid becoming self-righteous?
+
+References
+
+References
+
+[Deu 6:4-5 KJV] – 4 Hear, O Israel: The LORD our God [is] one LORD: 5 And thou shalt love the LORD thy God with all thine heart, and with all thy soul, and with all thy might.
+
+[Deu 6:4-5 KJV] – 4 Hear, O Israel: The LORD our God [is] one LORD: 5 And thou shalt love the LORD thy God with all thine heart, and with all thy soul, and with all thy might.
+
+[Mat 22:36-40 KJV] – 36 Master, which [is] the great commandment in the law? 37 Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind. 38 This is the first and great commandment. 39 And the second [is] like unto it, Thou shalt love thy neighbour as thyself. 40 On these two commandments hang all the law and the prophets.
+
+[Mat 22:36-40 KJV] – 36 Master, which [is] the great commandment in the law? 37 Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind. 38 This is the first and great commandment. 39 And the second [is] like unto it, Thou shalt love thy neighbour as thyself. 40 On these two commandments hang all the law and the prophets.
+
+[Gen 1:27 KJV] – 27 So God created man in his [own] image, in the image of God created he him; male and female created he them.
+
+[Gen 1:27 KJV] – 27 So God created man in his [own] image, in the image of God created he him; male and female created he them.
+
+Resources Blessed Are: A Practical Look At The Beatitudes by LJ Harry
+
+Resources Blessed Are: A Practical Look At The Beatitudes by LJ Harry
+
+Resources
+
+Blessed Are: A Practical Look At The Beatitudes by LJ Harry
+
+Blessed Are: A Practical Look At The Beatitudes by LJ Harry
+
+
+---
+
 ## God's Timing (Esther)
 **Published:** 2026-10-01 | **[Read Online](https://jonathan-the-psalmist.blogspot.com/2026/10/the-timing-of-god-esther.html)**
 

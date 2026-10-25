@@ -1,5 +1,15 @@
 # Notion Export
 
+## Our Strong Tower
+**Source:** Notion | **Date:** 2026-10-21
+
+---
+
+
+
+
+---
+
 ## Who are the Blessed? [Part 2/2]
 **Source:** Notion | **Date:** 2026-10-11
 

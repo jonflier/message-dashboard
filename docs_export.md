@@ -2099,7 +2099,7 @@ Tonight, I am taking a slightly different approach by following Luke’s account
 When we read “Blessed are…” Jesus is saying, “Happy are–” or, “Content are…” An important distinction I want to make is that while the world offers happiness and contentment, what Jesus is promising is far greater– it’s joy.
 Joy isn’t an emotion like happiness or contentment, it is a mindset. We can be devastated from loss, or concerned about life’s endeavors and still find ourselves in the joy of the LORD. Joy, being a Fruit of the Spirit, can only be obtained in its fullest capacity when we have accepted God’s Spirit into our lives.
 I will need a few readers tonight– we don’t have too many scriptures to look at, Luke does not cover all eight of the Beatitudes, but he does cover a few.
-[Luk 6:20-23 ESV] – 20 And he lifted up his eyes on his disciples, and said: "Blessed are you who are poor, for yours is the kingdom of God.
+[Luk 6:20 ESV] – 20 And he lifted up his eyes on his disciples, and said: "Blessed are you who are poor, for yours is the kingdom of God.
 Beatitude #1/8 → 'Blessed are the poor in spirit: for their's is the kingdom of heaven' (Matthew 5:3 KJV).
 The poor realize they are nothing without grace. The Bible uses two distinguishing words for the poor, one that describes the working poor while the other describes the begging poor. Here, we see Christ referring to the begging poor. Those who hold their signs up that say, “anything helps” are the ones who we read about Christ calling blessed.
 When I think of the begging poor, I think of Ruth and her mother-in-law Naomi. These two women lived in a patriarchal society, one that prevented them from doing much on their own. Both had lost their husbands, and Naomi had lost her two sons. It was only by the grace of a man named Boaz that the two were able to thrive again. He gave them some of his harvest for free, because of his love for Ruth.
@@ -2107,14 +2107,14 @@ This painted picture parallels us as believers. Christ loved us and showed grace
 I want to make a disclaimer that in Matthew 5:3, Christ says, 'Blessed are the poor in spirit: for their's is the kingdom of heaven.' But here, Jesus doesn’t make that distinction. So while Jesus is partly speaking metaphorically and spiritually, He is also cautioning us about having too much wealth in the physical.
 Now, I’m not saying we have to live poor, that would be pretty deflating since most of us are all in school trying to get a high-compensating job. But I believe the teaching that stands out most is not allowing the desire for wealth to get in the way of other things in life. This comes to light in the next verse I want to read, Jesus’ first woe in this chapter.
 Simultaneously with the Beatitudes, I want to focus on the next three verses following them, when Jesus pronounces the Woes.
-[Luk 6:24-26 ESV] – 24 "But woe to you who are rich, for you have received your consolation.
+[Luk 6:24 ESV] – 24 "But woe to you who are rich, for you have received your consolation.
 If money is our biggest driving factor in life, I believe we have missed the mark.
 When we focus on wealth building above all else, we have had our fill and invested too much interest in monetary things. Time with family and friends is important. Time spent studying, whether it be education or the spiritual discipline, is important. When we invest entirely in one thing, whether that be with our time or worries, we can find ourselves unknowingly worshipping such things.
 For example, I love video games, I have played them all my life. Minecraft is one of my favorites and I’m not even kidding or exaggerating when I say I have probably logged 10,000 hours on the game between all platforms. Furthermore, I’m sure I have doubled that amount watching YouTube videos about Minecraft. I did the math, it is over 3 years of my life just on Minecraft– which checks out. My mind is vast with Minecraft knowledge; I am rich with it, but that knowledge isn’t going to save souls.
 At least with money you can invest into ministries to help move the mission, but then if it’s not being used for that, even partly, then it is no different than my Minecraft knowledge as far as regarding the spiritual scope of things.
 Blessed are the poor, whether that be by nature– the hand that a person was dealt, or voluntarily by someone surrendering their finances to God.
 This brings us to our second beatitude.
-21 "Blessed are you who are hungry now, for you shall be satisfied. "Blessed are you who weep now, for you shall laugh.
+[Luk 6:21 ESV] – 21 "Blessed are you who are hungry now, for you shall be satisfied. "Blessed are you who weep now, for you shall laugh.
 Beatitude #4/8 → 'Blessed are they which do hunger and thirst after righteousness: for they shall be filled' (Matthew 5:6 KJV).
 Beatitude # 2/8 → 'Blessed are they that mourn: for they shall be comforted' (Matthew 5:4 KJV).
 	By a show of hands, how many have ever been hungry, even just a little bit? …
@@ -2128,7 +2128,7 @@ Not surprisingly, all of us– because while we grow hungry and feed ourselves, 
 	Jesus then says, in the same verse, blessed are those who weep. This sounds a little ironic. The people who Christ calls blessed aren’t the ones who have never cried, but instead they are the ones who have been given a reason to cry.
 	I don’t know about you, but I find myself crying after a powerful message at church, or even when hearing particular lines in a song. I cry because I realize that without God, I am nothing. Once we realize that we are poor in spirit– nothing without God– how else are we to respond than by crying in His presence.
 	Let’s move onto Jesus’ second woe.
-25 "Woe to you who are full now, for you shall be hungry. "Woe to you who laugh now, for you shall mourn and weep.
+[Luk 6:25 ESV] – 25 "Woe to you who are full now, for you shall be hungry. "Woe to you who laugh now, for you shall mourn and weep.
 On the subject of being full, there have been more times than I care to admit, that I have come home after school and snacked on food. Then, later I find out that what we’re having for dinner is one of my favorite meals (I still live at home with my parents, I didn’t know if I needed to make that clear). But for example, I will eat chips and salsa and grow full, then learn that dad is making burgers for dinner. It’s the worst! I wasted my appetite on junk when something so much greater was put in place. This same concept is true of our spiritual lives.
 The world serves so many dishes to try and pull our time and attention away from God. The short clips, the long episodes, the latest trend, the newest video game (like Minecraft Dungeons II)– no matter what it is, the world would like nothing better than to use it as a distraction.
 We are limited on the amount of time in a day. As a result, we find our days growing full of junk when in reality we could have spent more time studying the Word of God and praying.
@@ -2138,7 +2138,7 @@ Without the night, we would not understand the excitement and joy of a new day.
 Without that C on our transcript, we would not understand the dedication that it took to pass that class (I have wanted to cry over a couple of my classes).
 Blessed are those who mourn.
 Now, let’s move onto our third and final beatitude.
-22 "Blessed are you when people hate you and when they exclude you and revile you and spurn your name as evil, on account of the Son of Man! 23 Rejoice in that day, and leap for joy, for behold, your reward is great in heaven; for so their fathers did to the prophets.
+[Luk 6:22 ESV] – 22 "Blessed are you when people hate you and when they exclude you and revile you and spurn your name as evil, on account of the Son of Man! 23 Rejoice in that day, and leap for joy, for behold, your reward is great in heaven; for so their fathers did to the prophets.
 Beatitude #8/8 → 'Blessed are they which are persecuted for righteousness' sake: for theirs is the kingdom of heaven. Blessed are ye, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake. Rejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets which were before you' (Matthew 5:10-12 KJV).
 	Tradition tells us that:
 Peter was crucified (upside down)
@@ -2153,11 +2153,92 @@ Matthew was stabbed to death
 	The more we spread the Gospel, the more likely it will be that we come across somebody who doesn’t believe or agree with it. I’m not saying any of us should intentionally put ourselves in a situation that might lead to our death, that’s unwise and you are much more beneficial to the Kingdom alive than dead. But I will say that we should not shy away from any persecution either, don’t be afraid of spreading the Gospel when there are men and women of God who died so that it could be spread.
 Those who find themselves persecuted for righteousness’ sake, are blessed.
 	Comparatively, let’s take a look at Jesus’ third and final woe.
-26 "Woe to you, when all people speak well of you, for so their fathers did to the false prophets.
+[Luk 6:26 ESV] – 26 "Woe to you, when all people speak well of you, for so their fathers did to the false prophets.
 It was the false prophets who were well-liked throughout Old Testament scriptures. Jeremiah, who prophesied about the coming exile to Babylon, was hated by his fellow Jews and they much preferred to hear Shemaiah, the false prophet, prophesy against Jeremiah. Shemaiah must have had quite the following, but as a result of his lies and stealing away of hearts, God said He was to be punished.
 We can’t conform to this world in order to be liked by the people of it. We are called into the world and not of the world. This world is not our home, and our job is to tell others about our actual home, about the life after this one, about an eternity with our Creator and Savior.
 We’re not called to make a name for ourselves, but instead we’re called to make disciples.
 Let us end with a time of prayer, asking God to help us carry out these biblical teachings and have the right attitude…
+
+
+---
+
+## Our Strong Tower
+**Source:** Google Doc | **Date:** 10/21/26
+
+---
+
+Our Strong Tower
+@ Wednesday Night Youth Service (10/21/26)~ 11 Minutes
+
+| Purpose | Method |
+| Equipping | Topical |
+| Thesis Statement |
+| When you feel overwhelmed, run to the strong tower, not the temporary fixes. |
+
+Welcome/Ice Breaker (two truths and a lie): 19:00 (Jon)Game (Name That Slogan!): 19:05–19:20 (Jon)Announcements: 19:20–19:25 (Alexis)Song 1: 19:25–19:30Fiery Five: 19:30–19:35 (Chris)Song 2: 19:35–19:40Song 3: 19:40–19:45Preaching: 19:45–19:55 (Jon)Altar Call: 19:55–20:10Dismissal: 20:10ish
+Let’s continue to be sensitive tonight– we’ve had fun with the game, we just had an amazing time of worship thanks to our praise team (let’s give it up for them), and Brother Chris has already brought the Word (thank you for being sensitive and for letting the LORD use you– and that goes for all of you). Let’s continue to be sensitive as I present what I feel God has laid on my heart.
+But first, I want to say that I am always so proud when I come into here on a Wednesday night and see all of you. You have every excuse that you could have made but instead you chose to come into the LORD’s house and give Him the honor and the praise that He deserves, and for that I am so thankful. I wish I was as dedicated as all of you are when I was your age (and I don’t mean to sound unc when I say that). But seriously, I truly believe that God is going to use each and every one of you in wonderful ways.
+Hastening to the Word of the LORD, I will be reading one verse of Scripture tonight– found in Proverbs 18:10.
+This Scripture might be very familiar for many of you– maybe you’ve never heard it directly quoted but if you’ve been in church for long, then it’s likely you’ve heard someone make reference to it.
+[Pro 18:10 KJV] – 10 The name of the LORD [is] a strong tower: the righteous runneth into it, and is safe.
+	Let us pray…
+	***You all may be seated tonight…***
+I am approaching tonight’s message with one core thought in mind– a question really. As I release what I believe God has given to me, I want all of us to be asking ourselves:
+
+| After a completely exhausting or overwhelming day, what is the very first thing that our hands or mind instinctively reach for? |
+	…There’s not a whole lot of depth to this question– I’m not asking anything philosophical– it’s rather simple at first glance. However, the challenge tonight is going to come from our willingness to answer this question honestly.
+	Taking a look at our opening text, let’s further examine what it means for God to be our strong tower. First off, what is a strong tower? 
+A strong tower could be seen as a military fortress– it was used as a means of constant protection, or even as a place of return for a strategic retreat. In the physical, I am reminded of Nehemiah chapter 6.
+[Neh 6:1-3 KJV] – 1 Now it came to pass, when Sanballat, and Tobiah, and Geshem the Arabian, and the rest of our enemies, heard that I had builded the wall, and [that] there was no breach left therein; (though at that time I had not set up the doors upon the gates;) 2 That Sanballat and Geshem sent unto me, saying, Come, let us meet together in [some one of] the villages in the plain of Ono. But they thought to do me mischief. 3 And I sent messengers unto them, saying, I [am] doing a great work, so that I cannot come down: why should the work cease, whilst I leave it, and come down to you?
+	If you aren’t familiar with the story, Nehemiah was a man of God. He was called to rebuild the wall of Jerusalem after the Babylonian exile. He became governor of that land and set out to restore the political and spiritual climate that had become so distorted. These other governors, Sanballat, Tobiah, and Geshem, were quite upset at Nehemiah’s endeavors. These men are the reason the conditions had become so poor for those living in Jerusalem– they had quite a monopoly going on regarding the land and its resources.
+	So these governors sent a message to Nehemiah, asking him to meet them in the land of Ono, which ironically was Nehemiah’s response… “oh no.” Nehemiah said, “that’s not happening.” To quote him directly, in one of my favorite verse of scripture, Nehemiah 6:3 says,
+[Nehemiah 6:3 KJV] – And I sent messengers unto them, saying, I [am] doing a great work, so that I cannot come down: why should the work cease, whilst I leave it, and come down to you?
+	I was curious about the elevation difference between Ono and Jerusalem. I figured there was probably a parallel spiritually and physically in what Nehemiah had said, as we often see throughout Scripture– and there was. Jerusalem sits 2400 feet above sea level, while Ono sits only 150 feet above. For those of you who prefer the metric system, those conversions are 730 and 40 meters, respectively. Which is quite interesting to me, Ono wasn’t even a full track length above sea level.
+	So Nehemiah quite literally meant he could not come down to the land of Ono. But like I said, there is also a spiritual aspect to this. Nehemiah was doing the LORD’s work– he had a calling that had been placed on him and he couldn’t come down from his elevated responsibilities and have the work stop.
+	When we choose to follow after God and accept Christ as our strong tower, we not only find ourselves protected, like Nehemiah, from those who wish to harm us. We also find ourselves living a life worth meaning, doing a work that goes beyond our own capability.
+	Guys, I’m so grateful for the opportunities I have to speak to you all about the Bible– the opportunities I have to study God's Word and share it with all of you– but without God I couldn’t do it. I wouldn’t even be here without God. I would still be dust of the earth if he hadn’t formed me into man, and I’d still be void if he hadn’t formed me into dust. Even if all that had already occurred, I’d still be a prodigal living in the world and searching for what was here all along.
+But God did create me, and He created each and everyone of us in His image.
+But God did die and wash away my sins so I didn’t have to live in bondage.
+But God did call me home, He clothed me with a ring and robe.
+But God!
+There’s a reason that our youth group is called Refuge Youth, and that’s because when we gather here and learn about God, when we grow closer with Him and equip ourselves through studying His Word, we come to discover that He is our protector, and He is our salvation.
+	Sometime ago, we talked about the different compound names of God, the hyphenated Jehovahs. Taking a look at them, we can see a few instances and ways that God protects us.
+Jehovah-jireh → The LORD will provide
+God protects us from need by fulfilling every one that we may encounter.
+E.g., the feedings of the multitude. Both times Christ fed the people by multiplying fishes and loaves first with the 5000 men (5 loaves & 2 fish), then again with 4000 men (7 loaves & a few small fish) (Matthew 14:13–21, 15:32–39).
+Jehovah-rapha → The LORD that heals
+God protects us from disease and brokenness by making us whole again.
+E.g., The woman with the issue of blood. For 12 years this woman had an infirmity in her body. She went to every doctor she could find but none could help her. It wasn’t until she saw Jesus and thought to herself, If I can just touch the hem of His garment, I can be healed– and she was (Matthew 9:20–22).
+Jehovah-nissi → The LORD our victory
+God protects us from our enemies by fighting on our behalf.
+E.g., Gideon and the army of 300. Gideon and his men were nobody's first choice. The army initially had 32,000 men, but after following the instructions of God, that number dwindled to a mere 300. Furthermore, they didn’t have any weapons, just a few hundred instruments, but God has never lost a battle, and He wasn’t losing that one either (Judges 7:1–25).
+Jehovah-m’kaddesk → The LORD that sanctifies
+God protects us from ourselves, from our flesh and worldly desire by sanctifying us.
+E.g., when Nathan confronted David about Bathsheba. David had skipped out on his war duties and found himself falling for a married woman. He commits adultery with her, and then has her husband killed to cover up his sin. We can’t hide our sin from God. Nathan confronts David and the king begins to repent. Because of his genuine heart, the LORD keeps His promise to preserve the lineage of King David, all the way up to Jesus Christ (2 Samuel 12:1–15).
+I want to revisit our initial question,
+
+| After a completely exhausting or overwhelming day, what is the very first thing that our hands or mind instinctively reach for? |
+Keep in mind every one of those people we talked about.
+The multitude… they could have run toward their own self desires in an effort to find their daily needs. None of them had to stay, none of them would have been crazy if they thought it better to go find food on their own. But because they did stay, they found themselves being part of a miracle that we still talk about two thousand years later. More importantly, they had an experience with Christ, one that would have been missed had they left.
+The woman… she could have continued running after both the educated and education to find her healing– book after book and doctor after doctor. But instead, she decided to run to the Great Physician, and took hold of Him in order to find her healing.
+Gideon… he could have run toward the strongest of the strong, while trusting in the tactics of old to win him the battle, but instead He trusted the One who would fight the battle for him.
+David… he could have continued seeking after the things that seemed good to him, completely disregarding his responsibilities as a king and his obligations toward his people and toward God.
+***If we could all stand.***
+	I want to end with the importance of choosing God above all else.
+I like food.
+I like hot showers.
+I like music.
+I like television.
+All of these things are perfectly normal and acceptable in moderation. All of these things I use in my life to cope with the stress of school, work, or even people. The point I want to make is that all of these things could become idols if prized before God. It seems crazy to think that a hot shower could be an idol, but if I made the decision to cope with my stress by taking a shower instead of getting on my knees in prayer, then I'd have missed the mark.
+Too much food gives me a stomach ache.
+Too many hot showers will eventually use up all the hot water, and also make my dad pretty upset.
+Too much music or television leaves me with more stress and burnout than I originally started with.
+But when Christ is our strong tower– when it is Him who we decide to run too in times of trouble, we won’t be able to get enough.
+I want us to spend the next few moments in prayer, asking God to help us prioritize Him– to choose Him as the One we run to before confiding our time and attention to something else. Can we do that?
+
+Resources
+https://www.knowing-jesus.com/places/Jerusalem
+https://www.knowing-jesus.com/places/Ono
 
 
 ---
@@ -2619,32 +2700,6 @@ And when he had called the people unto him with his disciples also, he said unto
 
 ---
 
-## Our Strong Tower
-**Source:** Google Doc
-
----
-
-Our Strong Tower
-@ Event ()~ X Minutes
-
-| Purpose | Method |
-|  |
-| Thesis Statement |
-| When you feel overwhelmed, run to the strong tower, not the temporary fixes. |
-
-Intro…
-*When you have a completely exhausting or overwhelming day, what is the very first thing your hands or mind instinctively reach for?
-[Pro 18:10 KJV] – 10 The name of the LORD [is] a strong tower: the righteous runneth into it, and is safe.
-	…
-
-Discussion Questions?
-…
-
-…
-
-
----
-
 ## The Classes of Israel
 **Source:** Google Doc
 
@@ -2884,6 +2939,28 @@ Secondly, Solomon, the wise…
 'So the last shall be first, and the first last: for many be called, but few chosen. ' Matthew 20:16
 So unlike in the world where we may think of ourselves as the least of the least, in the Kingdom of God, the least becomes the greatest! When you have God, all things are possible (), but for that to be true, the inverse must also exist: without God, nothing is possible. These men we discussed here–– both Samson the strong, and Solomon the wise–– were talented and anointed by God, until they forsook that anointing, and thereby forsook God.
 "When you compare to someone greater than you, it comes off as pity [I wish I were more like them, nevertheless I am me]; when you compare to someone less than you, it comes off as pride [I'm so thankful I'm not like that]."
+
+
+---
+
+## The Sword of the Spirit
+**Source:** Google Doc
+
+---
+
+The Sword of the Spirit
+@ Event (##/##/##)~ X Minutes
+
+| Purpose | Method |
+|  |
+| Thesis Statement |
+|  |
+
+Intro…
+[Eph 6:17 KJV] – 17 And take the helmet of salvation, and the sword of the Spirit, which is the word of God:
+[Heb 4:12 KJV] – 12 For the word of God [is] quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and [is] a discerner of the thoughts and intents of the heart.
+[Eph 6:12 KJV] – 12 For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high [places].
+…
 
 
 ---

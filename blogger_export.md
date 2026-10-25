@@ -1,5 +1,171 @@
 # Blogger Posts Export
 
+## Who Are the Woeful?
+**Published:** 2026-10-22 | **[Read Online](https://jonathan-the-psalmist.blogspot.com/2026/10/who-are-woeful.html)**
+
+---
+
+Before we get started, let us pray…
+
+Who remembers what we talked about last week? ... We talked about going *into the world* and making disciples, all while discovering the balance between being of and in the world. We are called to be in, but not of this world, for our home is yet to come.
+
+Tonight, we are teaching about another of Jesus' teachings. Was everyone here when I taught on the Beatitudes?
+
+Tonight, I am taking a slightly different approach by following Luke’s account in chapter 6 instead of Matthew’s. I have entitled this lesson, “Who are the Woeful?”
+
+Keep in mind that when we read “Blessed are…” Jesus is saying, “Happy are–” or, “Content are…” An important distinction to make is that while the world offers happiness and contentment, what Jesus is promising is far greater– it’s joy.
+
+Joy isn’t an emotion like happiness or contentment, it is a mindset. We can be devastated from loss, or concerned about life’s endeavors and still find ourselves in the joy of the LORD. Joy, being a Fruit of the Spirit, can only be obtained in its fullest capacity when we have accepted God’s Spirit into our lives.
+
+I will need a few readers tonight– we don’t have too many scriptures to look at, Luke does not cover all eight of the Beatitudes, but he does cover a few.
+
+[Luk 6:20 KJV] – 20 And he lifted up his eyes on his disciples, and said, Blessed [be ye] poor: for yours is the kingdom of God.
+
+[Luk 6:20 KJV] – 20 And he lifted up his eyes on his disciples, and said, Blessed [be ye] poor: for yours is the kingdom of God.
+
+Beatitude #1/8 → 'Blessed are the poor in spirit: for their's is the kingdom of heaven' (Matthew 5:3 KJV).
+
+The poor realize they are nothing without grace. The Bible uses two distinguishing words for the poor, one that describes the working poor while the other describes the begging poor. Here, we see Christ referring to the begging poor. Those who hold their signs up that say, “anything helps” are the ones who we read about Christ calling blessed.
+
+When I think of the begging poor, I think of Ruth and her mother-in-law Naomi. These two women lived in a patriarchal society, one that prevented them from doing much on their own. Both had lost their husbands, and Naomi had lost her two sons. It was only by the grace of a man named Boaz that the two were able to thrive again. He gave them some of his harvest for free, because of his love for Ruth.
+
+This painted picture parallels us as believers. Christ loved us and showed grace unto us by dying at Calvary for our sins. If we let the riches of this world distract us, and the liberties we have been given because of Christ’s sacrifice, we can forget that we are only here today because God has set us free.
+
+I want to make a disclaimer that in Matthew 5:3, Christ says, 'Blessed are the poor in spirit: for their's is the kingdom of heaven.' But here, Jesus doesn’t make that distinction. So while Jesus is partly speaking metaphorically and spiritually, He is also cautioning us about having too much wealth in the physical.
+
+Now, I’m not saying we have to live poor, that would be pretty deflating. But I believe the teaching that stands out most is not allowing the desire for wealth to get in the way of other things in life. This comes to light in the next verse I want to read, Jesus’ first woe in this chapter.
+
+Simultaneously with the Beatitudes, I want to focus on the next three verses following them, when Jesus pronounces the Woes.
+
+[Luk 6:24 KJV] – 24 But woe unto you that are rich! for ye have received your consolation.
+
+[Luk 6:24 KJV] – 24 But woe unto you that are rich! for ye have received your consolation.
+
+If money is our biggest driving factor in life, I believe we have missed the mark.
+
+When we focus on wealth building above all else, we have had our fill and invested too much interest in monetary things. Time with family and friends is important. Time spent studying, whether it be education or the spiritual discipline, is important. When we invest entirely in one thing, whether that be with our time or worries, we can find ourselves unknowingly worshipping such things.
+
+For example, I love video games, I have played them all my life. Minecraft is one of my favorites and I’m not even kidding or exaggerating when I say I have probably logged 10,000 hours on the game between all platforms. Furthermore, I’m sure I have doubled that amount watching YouTube videos about Minecraft. I did the math, it is over 3 years of my life just on Minecraft– which checks out. My mind is vast with Minecraft knowledge; I am rich with it, but that knowledge isn’t going to save souls.
+
+At least with money you can invest into ministries to help move the mission, but then if it’s not being used for that, even partly, then it is no different than my Minecraft knowledge as far as regarding the spiritual scope of things.
+
+Blessed are the poor, whether that be by nature– the hand that a person was dealt, or voluntarily by someone surrendering their finances to God.
+
+This brings us to our second beatitude.
+
+[Luk 6:21 KJV] – 21 Blessed [are ye] that hunger now: for ye shall be filled. Blessed [are ye] that weep now: for ye shall laugh.
+
+[Luk 6:21 KJV] – 21 Blessed [are ye] that hunger now: for ye shall be filled. Blessed [are ye] that weep now: for ye shall laugh.
+
+Beatitude #4/8 → 'Blessed are they which do hunger and thirst after righteousness: for they shall be filled' (Matthew 5:6 KJV).
+
+Beatitude # 2/8 → 'Blessed are they that mourn: for they shall be comforted' (Matthew 5:4 KJV).
+
+By a show of hands, how many have ever been hungry, even just a little bit? …
+
+Not surprisingly, all of us– because while we grow hungry and feed ourselves, we end up right back where we started, growing hungry again. The same is true spiritually; while we are able to find ourselves becoming satisfied after hearing a sermon, a worship song, or a time of Bible reading and prayer, we must continually do so.
+
+Jesus says in John 4,
+
+[Jhn 4:10, 13 KJV] – 10 Jesus answered and said unto her, If thou knewest the gift of God, and who it is that saith to thee, Give me to drink; thou wouldest have asked of him, and he would have given thee living water. ... 13 Jesus answered and said unto her, Whosoever drinketh of this water shall thirst again:
+
+[Jhn 4:10, 13 KJV] – 10 Jesus answered and said unto her, If thou knewest the gift of God, and who it is that saith to thee, Give me to drink; thou wouldest have asked of him, and he would have given thee living water. ... 13 Jesus answered and said unto her, Whosoever drinketh of this water shall thirst again:
+
+And in John 6:35 He says,
+
+[Jhn 6:35 KJV] – 35 And Jesus said unto them, I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst.
+
+[Jhn 6:35 KJV] – 35 And Jesus said unto them, I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst.
+
+Jesus tells us that by accepting Him into our life, we never have to grow hungry or thirsty again (spiritually of course). This might sound a little contrary to what I said earlier. I mentioned how we still have to feed ourselves, but Christ says we won’t grow hungry. The best way I can bring this to thought is this:
+
+Let’s say we have leftovers and eat on them for a couple of days. We might want to eat them longer except that they run out. When we run out of these leftovers, we soon get hungry. Spiritually, however, those leftovers become replenished every time we open them up, but we still have to make the conscious choice to eat them. We can still starve ourselves spiritually if we make the choice not to eat. Christ has fed us so that we will no longer hunger, but we still have to accept that food.
+
+Jesus then says, in the same verse, blessed are those who weep. This sounds a little ironic. The people who Christ calls blessed aren’t the ones who have never cried, but instead they are the ones who have been given a reason to cry.
+
+I don’t know about you, but I find myself crying after a powerful message at church, or even when hearing particular lines in a song. I cry because I realize that without God, I am nothing. Once we realize that we are poor in spirit– nothing without God– how else are we to respond than by crying in His presence.
+
+Let’s move onto Jesus’ second woe.
+
+[Luk 6:25 KJV] – 25 Woe unto you that are full! for ye shall hunger. Woe unto you that laugh now! for ye shall mourn and weep.
+
+[Luk 6:25 KJV] – 25 Woe unto you that are full! for ye shall hunger. Woe unto you that laugh now! for ye shall mourn and weep.
+
+On the subject of being full, there have been more times than I care to admit, that I have come home after school and snacked on food. Then, later I find out that what we’re having for dinner is one of my favorite meals (I still live at home with my parents, I didn’t know if I needed to make that clear). But for example, I will eat chips and salsa and grow full, then learn that dad is making burgers for dinner. It’s the worst! I wasted my appetite on junk when something so much greater was put in place. This same concept is true of our spiritual lives.
+
+The world serves so many dishes to try and pull our time and attention away from God. The short clips, the long episodes, the latest trend, the newest video game (like Minecraft Dungeons II)– no matter what it is, the world would like nothing better than to use it as a distraction.
+
+We are limited on the amount of time in a day. As a result, we find our days growing full of junk when in reality we could have spent more time studying the Word of God and praying.
+
+As far as laughing now, Christ warns us to be careful because it is those people who will mourn later. This brings me to a discussion on seasons of hills and valleys. In the hills, the really good times of life, it is easy to forget to talk with God because life is going so well. That’s why valleys are important because they bring us back to reality and remind us that it is God who made these seasons so that we would depend on Him as our strong tower.
+
+Without the storms, we would have no rainbows to remind us of God’s promise.
+
+Without the night, we would not understand the excitement and joy of a new day.
+
+Without the valleys, we would not understand the refreshing that comes with the mountain air.
+
+Blessed are those who mourn.
+
+Now, let’s move onto our third and final beatitude.
+
+[Luk 6:22 KJV] – 22 Blessed are ye, when men shall hate you, and when they shall separate you [from their company], and shall reproach [you], and cast out your name as evil, for the Son of man's sake.
+
+[Luk 6:22 KJV] – 22 Blessed are ye, when men shall hate you, and when they shall separate you [from their company], and shall reproach [you], and cast out your name as evil, for the Son of man's sake.
+
+Beatitude #8/8 → 'Blessed are they which are persecuted for righteousness' sake: for theirs is the kingdom of heaven. Blessed are ye, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake. Rejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets which were before you' (Matthew 5:10-12 KJV).
+
+Tradition tells us that:
+
+Peter was crucified (upside down)
+
+Andrew was crucified (on an X-shaped cross)
+
+James (son of Zebedee) was executed by the sword
+
+Philip was crucified (possibly upside down)
+
+Bartholomew was flayed alive and beheaded
+
+Thomas was stabbed to death
+
+Matthew was stabbed to death
+
+These disciples of Christ, those who were told they would be fishers of men, were also told that men would revile them.
+
+Similarly, Paul writes in 2 Corinthians 11, that he was whipped 199 times, beaten with rods 3 different times, and even stoned– people threw rocks at him and tried to kill him. Paul makes note that it was his fellow Jews, who did this to him because they did not want to believe in the message He spoke of.
+
+The more we spread the Gospel, the more likely it will be that we come across somebody who doesn’t believe or agree with it. I’m not saying any of us should intentionally put ourselves in a situation that might lead to our death, that’s unwise and you are much more beneficial to the Kingdom alive than dead. But I will say that we should not shy away from any persecution either, don’t be afraid of spreading the Gospel when there are men and women of God who died so that it could be spread.
+
+Those who find themselves persecuted for righteousness’ sake, are blessed.
+
+Comparatively, let’s take a look at Jesus’ third and final woe.
+
+[Luk 6:26 KJV] – 26 Woe unto you, when all men shall speak well of you! for so did their fathers to the false prophets.
+
+[Luk 6:26 KJV] – 26 Woe unto you, when all men shall speak well of you! for so did their fathers to the false prophets.
+
+It was the false prophets who were well-liked throughout Old Testament scriptures. Jeremiah, who prophesied about the coming exile to Babylon, was hated by his fellow Jews and they much preferred to hear Shemaiah, the false prophet, prophesy against Jeremiah. Shemaiah must have had quite the following, but as a result of his lies and stealing away of hearts, God said He was to be punished.
+
+We can’t conform to this world in order to be liked by the people of it. We are called into the world and not of the world. This world is not our home, and our job is to tell others about our actual home, about the life after this one, about an eternity with our Creator and Savior.
+
+We’re not called to make a name for ourselves, but instead we’re called to make disciples.
+
+Let us end with a time of prayer, asking God to help us carry out these biblical teachings and have the right attitude…
+
+Questions
+
+How can we maintain a poor in spirit attitude?
+
+How can we continue to grow hungry for the things of God?
+
+How can we be mournful– how can we be sensitive to the Spirit of God?
+
+How can we shift our focus from *I want people to like me* to *I want to please my Heavenly Father* ?
+
+
+---
+
 ## Into the World
 **Published:** 2026-10-15 | **[Read Online](https://jonathan-the-psalmist.blogspot.com/2026/09/in-world-not-of-it.html)**
 

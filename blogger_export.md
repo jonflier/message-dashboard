@@ -1,5 +1,111 @@
 # Blogger Posts Export
 
+## Damascus Road
+**Published:** 2026-10-29 | **[Read Online](https://jonathan-the-psalmist.blogspot.com/2026/10/damascus-road.html)**
+
+---
+
+Who remembers what we talked about last week? ...
+
+Before we get started tonight, I have a few songs I would like to present to you all. On October 23, 2026, Josiah Queen released his newest album titled "Damascus Road," and let me say, there are some bangers on there...
+
+Now that we have listened to all of those, I figured it would be fitting to have a discussion about the Damascus Road here tonight, which ties into the life of Paul.
+
+We first encounter the apostle while he carries his former of Saul. In Acts 7, verses 2-53, Stephen preaches a wonderful message. He starts in the book of Genesis talking about Abraham, the patriarch of the faith, and then talks about Issac coming forth from Abraham, about Jacob coming forth from Issac, and the twelve tribes coming from Jacob.
+
+Stephen then goes into detail the four hundred years of bondage in Egypt, and about how Moses was come to deliver his people, but his people received him not (7:27-28). This sounds quite familiar doesn't it? How many times have we read about prophets, men and women of God, not being received by His people. We see it with Moses within the events throughout Exodus, with Elijah and the worshippers of Baal, with John the Baptist and the Pharisees– and even with Jesus, God manifest in the flesh when He came to His own and they received Him not (John 1:11).
+
+Stephen goes on to talk about Joshua, David, and Solomon (7:45-47), he explains how Solomon built a temple to house the precence of God. He then quotes Isaiah 66:1,
+
+[Isa 66:1 KJV] – 1 Thus saith the LORD, The heaven [is] my throne, and the earth [is] my footstool: where [is] the house that ye build unto me? and where [is] the place of my rest?
+
+[Isa 66:1 KJV] – 1 Thus saith the LORD, The heaven [is] my throne, and the earth [is] my footstool: where [is] the house that ye build unto me? and where [is] the place of my rest?
+
+Stephen is preaching to these people and trying to help them understand that the LORD not confined to a building, He desires to dwell within His people.
+
+At the climax of Stephen's message, he says,
+
+[Act 7:51-53 KJV] – 51 Ye stiffnecked and uncircumcised in heart and ears, ye do always resist the Holy Ghost: as your fathers [did], so [do] ye. 52 Which of the prophets have not your fathers persecuted? and they have slain them which shewed before of the coming of the Just One; of whom ye have been now the betrayers and murderers: 53 Who have received the law by the disposition of angels, and have not kept [it].
+
+[Act 7:51-53 KJV] – 51 Ye stiffnecked and uncircumcised in heart and ears, ye do always resist the Holy Ghost: as your fathers [did], so [do] ye. 52 Which of the prophets have not your fathers persecuted? and they have slain them which shewed before of the coming of the Just One; of whom ye have been now the betrayers and murderers: 53 Who have received the law by the disposition of angels, and have not kept [it].
+
+After hearing this, the people have had enough. It was one thing for Stephen to critisize the Patriarchs of the Faith, but now he was preaching to these people that they were no different having just killed Jesus on the cross.
+
+So what do they do? They stone Stephen. Acts 7, verses 54-60,
+
+[Act 7:54-60 KJV] – 54 When they heard these things, they were cut to the heart, and they gnashed on him with [their] teeth. 55 But he, being full of the Holy Ghost, looked up stedfastly into heaven, and saw the glory of God, and Jesus standing on the right hand of God, 56 And said, Behold, I see the heavens opened, and the Son of man standing on the right hand of God. 57 Then they cried out with a loud voice, and stopped their ears, and ran upon him with one accord, 58 And cast [him] out of the city, and stoned [him]: and the witnesses laid down their clothes at a young man's feet, whose name was Saul . 59 And they stoned Stephen, calling upon [God], and saying, Lord Jesus, receive my spirit. 60 And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep.
+
+[Act 7:54-60 KJV] – 54 When they heard these things, they were cut to the heart, and they gnashed on him with [their] teeth. 55 But he, being full of the Holy Ghost, looked up stedfastly into heaven, and saw the glory of God, and Jesus standing on the right hand of God, 56 And said, Behold, I see the heavens opened, and the Son of man standing on the right hand of God. 57 Then they cried out with a loud voice, and stopped their ears, and ran upon him with one accord, 58 And cast [him] out of the city, and stoned [him]: and the witnesses laid down their clothes at a young man's feet, whose name was Saul . 59 And they stoned Stephen, calling upon [God], and saying, Lord Jesus, receive my spirit. 60 And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep.
+
+The people took off their clothes and laid them at the feet of Saul. Furthermore, the following chapter, Acts 8, verse 1-3 read,
+
+[Act 8:1-3 KJV] – 1 And Saul was consenting unto his death. And at that time there was a great persecution against the church which was at Jerusalem; and they were all scattered abroad throughout the regions of Judaea and Samaria, except the apostles. 2 And devout men carried Stephen [to his burial], and made great lamentation over him. 3 As for Saul, he made havock of the church, entering into every house, and haling men and women committed [them] to prison.
+
+[Act 8:1-3 KJV] – 1 And Saul was consenting unto his death. And at that time there was a great persecution against the church which was at Jerusalem; and they were all scattered abroad throughout the regions of Judaea and Samaria, except the apostles. 2 And devout men carried Stephen [to his burial], and made great lamentation over him. 3 As for Saul, he made havock of the church, entering into every house, and haling men and women committed [them] to prison.
+
+This Saul entered into people's houses, who were likely having church, and literally dragged them out and off to prison. We know this is the same Saul who later becomes Paul because he confesses in Acts 22:20,
+
+[Act 22:20 KJV] – 20 And when the blood of thy martyr Stephen was shed, I also was standing by, and consenting unto his death, and kept the raiment of them that slew him.
+
+[Act 22:20 KJV] – 20 And when the blood of thy martyr Stephen was shed, I also was standing by, and consenting unto his death, and kept the raiment of them that slew him.
+
+At a time in Saul's life when it looks like there is no hope for him– that he's too far gone for God to use– the LORD gets ahold of him.
+
+In Acts 9:1-9 says,
+
+[Act 9:1-9 KJV] – 1 And Saul, yet breathing out threatenings and slaughter against the disciples of the Lord, went unto the high priest, 2 And desired of him letters to Damascus to the synagogues, that if he found any of this way, whether they were men or women, he might bring them bound unto Jerusalem. 3 And as he journeyed, he came near Damascus: and suddenly there shined round about him a light from heaven: 4 And he fell to the earth, and heard a voice saying unto him, Saul, Saul, why persecutest thou me? 5 And he said, Who art thou, Lord? And the Lord said, I am Jesus whom thou persecutest: [it is] hard for thee to kick against the pricks. 6 And he trembling and astonished said, Lord, what wilt thou have me to do? And the Lord [said] unto him, Arise, and go into the city, and it shall be told thee what thou must do. 7 And the men which journeyed with him stood speechless, hearing a voice, but seeing no man. 8 And Saul arose from the earth; and when his eyes were opened, he saw no man: but they led him by the hand, and brought [him] into Damascus. 9 And he was three days without sight, and neither did eat nor drink.
+
+[Act 9:1-9 KJV] – 1 And Saul, yet breathing out threatenings and slaughter against the disciples of the Lord, went unto the high priest, 2 And desired of him letters to Damascus to the synagogues, that if he found any of this way, whether they were men or women, he might bring them bound unto Jerusalem. 3 And as he journeyed, he came near Damascus: and suddenly there shined round about him a light from heaven: 4 And he fell to the earth, and heard a voice saying unto him, Saul, Saul, why persecutest thou me? 5 And he said, Who art thou, Lord? And the Lord said, I am Jesus whom thou persecutest: [it is] hard for thee to kick against the pricks. 6 And he trembling and astonished said, Lord, what wilt thou have me to do? And the Lord [said] unto him, Arise, and go into the city, and it shall be told thee what thou must do. 7 And the men which journeyed with him stood speechless, hearing a voice, but seeing no man. 8 And Saul arose from the earth; and when his eyes were opened, he saw no man: but they led him by the hand, and brought [him] into Damascus. 9 And he was three days without sight, and neither did eat nor drink.
+
+Saul, this man who thought he had everything figured out– who thought he was in the right by punishing those who preached a message he didn't believe in– was brought to his knees. Jesus got a hold of him, blinding him so that he could no longer follow after his own desires. In Acts 9:10-16, Scripture says,
+
+[Act 9:10-16 KJV] – 10 And there was a certain disciple at Damascus, named Ananias; and to him said the Lord in a vision, Ananias . And he said, Behold, I [am here], Lord. 11 And the Lord [said] unto him, Arise, and go into the street which is called Straight, and enquire in the house of Judas for [one] called Saul, of Tarsus: for, behold, he prayeth, 12 And hath seen in a vision a man named Ananias coming in, and putting [his] hand on him, that he might receive his sight. 13 Then Ananias answered, Lord, I have heard by many of this man, how much evil he hath done to thy saints at Jerusalem: 14 And here he hath authority from the chief priests to bind all that call on thy name. 15 But the Lord said unto him, Go thy way: for he is a chosen vessel unto me, to bear my name before the Gentiles, and kings, and the children of Israel: 16 For I will shew him how great things he must suffer for my name's sake.
+
+[Act 9:10-16 KJV] – 10 And there was a certain disciple at Damascus, named Ananias; and to him said the Lord in a vision, Ananias . And he said, Behold, I [am here], Lord. 11 And the Lord [said] unto him, Arise, and go into the street which is called Straight, and enquire in the house of Judas for [one] called Saul, of Tarsus: for, behold, he prayeth, 12 And hath seen in a vision a man named Ananias coming in, and putting [his] hand on him, that he might receive his sight. 13 Then Ananias answered, Lord, I have heard by many of this man, how much evil he hath done to thy saints at Jerusalem: 14 And here he hath authority from the chief priests to bind all that call on thy name. 15 But the Lord said unto him, Go thy way: for he is a chosen vessel unto me, to bear my name before the Gentiles, and kings, and the children of Israel: 16 For I will shew him how great things he must suffer for my name's sake.
+
+Jesus says that Saul must suffer greatly for His name's sake. We have talked much about valleys and about persecution here recently, and Paul knew all about that. In 2 Corinthians 11, Paul says he was whipped 199 times, beaten three times, stoned once, and was shipwrecked three times. He'd found himself in danger on both land and water, in cities and in the wilderness, from robbers, his own countrymen, and the heathen. Paul had been lied on, he'd been cheated. Paul had experienced being hungry, thirsty, cold, and naked. There'd been times where he had to escape out a window in order to live to see another day. Needless to say, Paul went through it. Continuing with Acts 9, verses 17-21 read,
+
+[Act 9:17-21 KJV] – 17 And Ananias went his way, and entered into the house; and putting his hands on him said, Brother Saul, the Lord, [even] Jesus, that appeared unto thee in the way as thou camest, hath sent me, that thou mightest receive thy sight, and be filled with the Holy Ghost. 18 And immediately there fell from his eyes as it had been scales: and he received sight forthwith, and arose, and was baptized. 19 And when he had received meat, he was strengthened. Then was Saul certain days with the disciples which were at Damascus. 20 And straightway he preached Christ in the synagogues, that he is the Son of God. 21 But all that heard [him] were amazed, and said; Is not this he that destroyed them which called on this name in Jerusalem, and came hither for that intent, that he might bring them bound unto the chief priests?
+
+[Act 9:17-21 KJV] – 17 And Ananias went his way, and entered into the house; and putting his hands on him said, Brother Saul, the Lord, [even] Jesus, that appeared unto thee in the way as thou camest, hath sent me, that thou mightest receive thy sight, and be filled with the Holy Ghost. 18 And immediately there fell from his eyes as it had been scales: and he received sight forthwith, and arose, and was baptized. 19 And when he had received meat, he was strengthened. Then was Saul certain days with the disciples which were at Damascus. 20 And straightway he preached Christ in the synagogues, that he is the Son of God. 21 But all that heard [him] were amazed, and said; Is not this he that destroyed them which called on this name in Jerusalem, and came hither for that intent, that he might bring them bound unto the chief priests?
+
+Take note that Saul remained blind until he surrendered unto Jesus Christ. I've said this before, and I'll reference it again, Josiah Queen has that song which says, “The funny thing about pride is that you have it all your life, and the moment you think you don’t, it’s gotten in your eyes.” Saul's pride had gotten so bad that the LORD blinded him, but that blindness was not the end. If God can turn around the life of Saul into the Paul who wrote a majority of the New Testament, then He can turn around your situation. Jesus can turn around the lives of your family and friends who aren't living for God quite yet but they will be soon.
+
+God can work in each and every person's life, leaving those around saying the same thing, "Is this not the one who [fill in the blank]..."
+
+Is this not the one who used to cuss? Is this not the one who used to watch *those* shows and listen to *that* music?
+
+We'd be surprised what would happen if we just allow God to work, not just in our lives but the lives of those around us. We can't sell people short and tell ourselves they're too far gone. What would've happened had Ananais did that? We wouldn't read the account like we do today. We declare that God's Will be done, which is great, but we also must be willing to do the things he asks of us. Whether we live a life of Ananias or Paul, we can see that both had to go through the uncomfortable, crucifying their flesh like Jesus was crucifed on the cross, submitting themselves to something greater than what's in store for this life.
+
+Questions
+
+Have you had a Damascus Road encounter? It doesn't have to be as extreme as Saul's, but has there been a time when you realized the road you were on was not God's design?
+
+What would happen if God asked you to be an Ananias, if He called you to spread the Gospel to someone who has constantly rejected it?
+
+How can we endure until the end, running the race set before us, no matter how much persecution we encounter?
+
+References
+
+References
+
+[Jhn 1:11 KJV] – 11 He came unto his own, and his own received him not. [Act 7:54-60 KJV] – 54 When they heard these things, they were cut to the heart, and they gnashed on him with [their] teeth. 55 But he, being full of the Holy Ghost, looked up stedfastly into heaven, and saw the glory of God, and Jesus standing on the right hand of God, 56 And said, Behold, I see the heavens opened, and the Son of man standing on the right hand of God. 57 Then they cried out with a loud voice, and stopped their ears, and ran upon him with one accord, 58 And cast [him] out of the city, and stoned [him]: and the witnesses laid down their clothes at a young man's feet, whose name was Saul. 59 And they stoned Stephen, calling upon [God], and saying, Lord Jesus, receive my spirit. 60 And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep. [2Co 11:24-27, 32-33 KJV] – 24 Of the Jews five times received I forty [stripes] save one. 25 Thrice was I beaten with rods, once was I stoned, thrice I suffered shipwreck, a night and a day I have been in the deep; 26 [In] journeyings often, [in] perils of waters, [in] perils of robbers, [in] perils by [mine own] countrymen, [in] perils by the heathen, [in] perils in the city, [in] perils in the wilderness, [in] perils in the sea, [in] perils among false brethren; 27 In weariness and painfulness, in watchings often, in hunger and thirst, in fastings often, in cold and nakedness. ... 32 In Damascus the governor under Aretas the king kept the city of the Damascenes with a garrison, desirous to apprehend me: 33 And through a window in a basket was I let down by the wall, and escaped his hands.
+
+[Jhn 1:11 KJV] – 11 He came unto his own, and his own received him not.
+
+[Jhn 1:11 KJV] – 11 He came unto his own, and his own received him not.
+
+[Act 7:54-60 KJV] – 54 When they heard these things, they were cut to the heart, and they gnashed on him with [their] teeth. 55 But he, being full of the Holy Ghost, looked up stedfastly into heaven, and saw the glory of God, and Jesus standing on the right hand of God, 56 And said, Behold, I see the heavens opened, and the Son of man standing on the right hand of God. 57 Then they cried out with a loud voice, and stopped their ears, and ran upon him with one accord, 58 And cast [him] out of the city, and stoned [him]: and the witnesses laid down their clothes at a young man's feet, whose name was Saul. 59 And they stoned Stephen, calling upon [God], and saying, Lord Jesus, receive my spirit. 60 And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep.
+
+[Act 7:54-60 KJV] – 54 When they heard these things, they were cut to the heart, and they gnashed on him with [their] teeth. 55 But he, being full of the Holy Ghost, looked up stedfastly into heaven, and saw the glory of God, and Jesus standing on the right hand of God, 56 And said, Behold, I see the heavens opened, and the Son of man standing on the right hand of God. 57 Then they cried out with a loud voice, and stopped their ears, and ran upon him with one accord, 58 And cast [him] out of the city, and stoned [him]: and the witnesses laid down their clothes at a young man's feet, whose name was Saul. 59 And they stoned Stephen, calling upon [God], and saying, Lord Jesus, receive my spirit. 60 And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep.
+
+[2Co 11:24-27, 32-33 KJV] – 24 Of the Jews five times received I forty [stripes] save one. 25 Thrice was I beaten with rods, once was I stoned, thrice I suffered shipwreck, a night and a day I have been in the deep; 26 [In] journeyings often, [in] perils of waters, [in] perils of robbers, [in] perils by [mine own] countrymen, [in] perils by the heathen, [in] perils in the city, [in] perils in the wilderness, [in] perils in the sea, [in] perils among false brethren; 27 In weariness and painfulness, in watchings often, in hunger and thirst, in fastings often, in cold and nakedness. ... 32 In Damascus the governor under Aretas the king kept the city of the Damascenes with a garrison, desirous to apprehend me: 33 And through a window in a basket was I let down by the wall, and escaped his hands.
+
+[2Co 11:24-27, 32-33 KJV] – 24 Of the Jews five times received I forty [stripes] save one. 25 Thrice was I beaten with rods, once was I stoned, thrice I suffered shipwreck, a night and a day I have been in the deep; 26 [In] journeyings often, [in] perils of waters, [in] perils of robbers, [in] perils by [mine own] countrymen, [in] perils by the heathen, [in] perils in the city, [in] perils in the wilderness, [in] perils in the sea, [in] perils among false brethren; 27 In weariness and painfulness, in watchings often, in hunger and thirst, in fastings often, in cold and nakedness. ... 32 In Damascus the governor under Aretas the king kept the city of the Damascenes with a garrison, desirous to apprehend me: 33 And through a window in a basket was I let down by the wall, and escaped his hands.
+
+
+---
+
 ## Who Are the Woeful?
 **Published:** 2026-10-22 | **[Read Online](https://jonathan-the-psalmist.blogspot.com/2026/10/who-are-woeful.html)**
 
@@ -155,7 +261,7 @@ Let us end with a time of prayer, asking God to help us carry out these biblical
 
 Questions
 
-How can we maintain a poor in spirit attitude?
+How can we maintain a "poor in spirit" attitude?
 
 How can we continue to grow hungry for the things of God?
 

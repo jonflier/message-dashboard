@@ -2243,6 +2243,62 @@ https://www.knowing-jesus.com/places/Ono
 
 ---
 
+## United in the Mission
+**Source:** Google Doc | **Date:** 11/08/26
+
+---
+
+United in the Mission
+@ Sunday Morning Youth Class 11/8/26~ X Minutes
+
+| Purpose | Method |
+|  |
+| Thesis Statement |
+| The UPCI merger is a great example of how we as Christians should live our lives. It exemplifies the verses found in Ephesians 4 and its teaching that we should maintain the unity of the spirit, even before maintaining the unity of the faith. |
+
+Getting into the lesson this morning, I’ll admit that this is a little different than what you’ve heard me teach or preach before. I have found myself growing very fond of this style of teaching I have used in recent lessons. I like going out and finding resources that I can pair alongside Scripture to cover different topics.
+I did this for the two-part series titled, “Who Is God?” where I used David K. Bernard’s book, The Oneness of God, Vol. 1. I also did this with my latest series titled, “Who Are the Blessed?” where I referenced LJ Harry’s book, Blessed Are: A Practical Look At The Beatitudes. Today, I have a number of references I will get into later. But first, my lesson this morning is titled, “United in Mission.”
+Before we get too far, let’s pray…
+For those who don’t know, our church operates as part of the United Pentecostal Church International (UPCI), an organization that connects churches around the world and provides shared resources, fellowship, and structure. When we come together for major events like Illinois Youth Convention (IYC), North American Youth Congress (NAYC), or regional camp meetings, those incredible gatherings are planned, organized, and put on through UPCI Youth Ministries. If you’ve ever heard of P7 (which helps students start Bible clubs in middle and high schools) or Campus Ministry International (CMI, which reaches college and university campuses), the frameworks and resources for those initiatives are also provided by the UPCI.
+A little bit of history about the UPCI, it came about from a merger between two other apostolic organizations. These organizations were the Pentecostal Assemblies of Jesus Christ (PAJC) and the Pentecostal Church, Incorporated (PCI). Interestingly enough, the PAJC was roughly twice as big as the PCI.
+The initial step toward a merger came during the conference of the PAJC in 1944 when a resolution was presented to approach the PCI about merging both organizations.
+From 521 churches in 1945, the UPCI has grown to more than 49,000 churches (including preaching points), 51,000 credentialed ministers, and more than six million church attendees worldwide.
+I came across some fascinating statistics while I was studying for this lesson. In the UPCI General Superintendent, David K. Bernard– in his book, A History of Christian Doctrine: The Twentieth Century A.D. 1900-2000, Vol. 3, he makes note of the highest concentrated places of people who are UPCI:
+
+| Country, State, Province | UPCI Constituency |
+| Mizoram, India | 65,000 |
+| Ethiopia | 1,000,000 |
+| Louisiana, U.S.A. | 68,000 |
+| New Brunswick, Canada | 8,000 |
+As great as the merger has been, and with all the success that we see today, none of that happened overnight. There were still some difficulties that everyone had to overcome and work that needed to be done.
+The two organizations, the PAJC and PCI, were quite similar, which would explain why there had been discussion about a merger between the two organizations as far back as 1936 despite it not occurring for almost a decade. However, there was one significant discrepancy between them. The PCI had a documented policy that referenced the “new birth” as explained in John 3. For reference, in John 3, Jesus tells the Pharisee Nicodemus,
+[Jhn 3:3, 5 KJV] – 3 Jesus answered and said unto him, Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God. ... 5 Jesus answered, Verily, verily, I say unto thee, Except a man be born of water and [of] the Spirit, he cannot enter into the kingdom of God.
+Some of those within the PCI debated that one was born again at repentance and as a result of truth being revealed to them, they must later be baptized by water and Spirit. Conversely, the majority of the PAJC believed that the new birth began after all three– repentance, baptism by water, and baptism by Spirit. The problem at hand was a theoretical difference between the two organizations, both believed in Acts 2:38, that everyone should repent, be baptized by water in Jesus’ name, and receive His Spirit. So in practice, both organizations aligned, but it was the little stuff that got in the way.
+This makes me think about Jonah chapter 4. After the city of Nineveh repents of their sinful doing, Jonah is angry that God spared them. Verses seis and siete read,
+[Jon 4:6-7 KJV] – 6 And the LORD God prepared a gourd, and made [it] to come up over Jonah, that it might be a shadow over his head, to deliver him from his grief. So Jonah was exceeding glad of the gourd. 7 But God prepared a worm when the morning rose the next day, and it smote the gourd that it withered.
+	A message I have preached before is that this tiny worm got in the way and destroyed something that was so much greater than itself. If we’re not careful, we’ll let the small things get in the way. In this instance, God prepared the worm to teach Jonah a lesson about mercy, but what if the small things aren’t coming from God, should we really let them dictate our entire attitude and understanding about who God is and what He is calling us to do?
+Within the fundamental doctrine of the UPCI’s Articles of Faith, it reads, “We shall endeavor to keep the unity of the Spirit until we all come into the unity of the faith, at the same time admonishing all brethren that they shall not contend for their different views to the disunity of the body.”
+This is a teaching that comes from Paul in Ephesians 4,
+[Eph 4:1-3, 11-13 KJV] – 1 I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called, 2 With all lowliness and meekness, with longsuffering, forbearing one another in love; 3 Endeavouring to keep the unity of the Spirit in the bond of peace. ... 11 And he {he being Jesus Christ} gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers; 12 For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ: 13 Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ:
+The UPCI merger is a great example of how we as Christians should live our lives. It exemplifies the verses we just read in Ephesians that we should maintain the unity of the spirit, even before maintaining the unity of the faith. These two organizations could have let the small things get in the way and never merged, and in turn, limiting themselves and their capacity to do the work of God.
+We can understand the importance of unity by gleaning what we read from Scripture. On the Day of Pentecost, they were all gathered with one mind and in one place, praying that God would move. They didn’t force God to move by any means, but as a result of what they were doing, He poured out His Spirit on them.
+*** If you would stand. ***
+What would happen if all of us, here this morning, would do the same thing as the ones on the Day of Pentecost? What if we got real with God after getting real with our brothers and sisters in Christ? What would happen if we let go of the small things, if we kept the main thing the main thing. The main thing is Christ and we can’t let anything come in between us or Him, especially not disagreements between our fellow man. Let us keep the unity of the Spirit even if we may not be in unity within our faith or within our beliefs.
+As we close, let’s pray for these next few moments and ask God, like King David did, to search our hearts. Ask Him to remove what does not belong there and reveal to us the steps we must take to be in the right standing with Him and with those around us. Let us find a place to pray…
+Resources
+“2023 UPCI ARTICLES OF FAITH.” 
+https://dmc.upci.org/wp-content/uploads/2023/03/2023-UPCI-ARTICLES-OF-FAITH.pdf.
+“About the UPCI.” Upci.Org, https://upci.org/about-the-upci/. 
+Bernard, David K. A History of Christian Doctrine: The Twentieth Century A.D. 1900-2000, Vol. 
+3.
+“The Merger UPCI.” *Apostolic Information Service*, 26 June 2009, 
+https://www.apostolic.edu/the-merger-upci/. 
+“What Was “The Merger”? | Episode 230.” YouTube. 
+https://www.youtube.com/watch?v=LSNAqy5UAVM.
+
+
+---
+
 ## An Eye For an Eye
 **Source:** Google Doc | **Date:** 11/17/26
 
@@ -2867,6 +2923,29 @@ Text…
 
 ---
 
+## The First Shall Be Last
+**Source:** Google Doc
+
+---
+
+The First Shall Be Last
+@ Event (##/##/##)~ X Minutes
+
+| Purpose | Method |
+|  |
+| Thesis Statement |
+|  |
+
+Intro…
+My two pieces of Scripture that I am referencing are:
+Matthew 19:27-30
+Matthew 20:1-16
+	…
+[Mat 20:25-27 KJV] – 25 But Jesus called them [unto him], and said, Ye know that the princes of the Gentiles exercise dominion over them, and they that are great exercise authority upon them. 26 But it shall not be so among you: but whosoever will be great among you, let him be your minister; 27 And whosoever will be chief among you, let him be your servant:
+
+
+---
+
 ## The Name of Christ
 **Source:** Google Doc
 
@@ -2961,24 +3040,6 @@ Intro…
 [Heb 4:12 KJV] – 12 For the word of God [is] quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and [is] a discerner of the thoughts and intents of the heart.
 [Eph 6:12 KJV] – 12 For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high [places].
 …
-
-
----
-
-## United in the Mission
-**Source:** Google Doc
-
----
-
-United in the Mission
-@ Event (##/##/##)~ X Minutes
-
-| Purpose | Method |
-|  |
-| Thesis Statement |
-|  |
-
-Intro…
 
 
 ---

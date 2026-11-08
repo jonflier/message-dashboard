@@ -2299,12 +2299,12 @@ https://www.youtube.com/watch?v=LSNAqy5UAVM.
 
 ---
 
-## An Eye For an Eye
+## Have a Mary Christmas
 **Source:** Google Doc | **Date:** 11/17/26
 
 ---
 
-An Eye For an Eye
+Have a Mary Christmas
 @ CMI (11/17/26)
 ~ X Minutes
 
@@ -2313,16 +2313,10 @@ An Eye For an Eye
 | Thesis Statement |
 |  |
 
-Intro…
-Matthew 5:38-42
-Exodus 21:22-26
-Romans 12:16-19
-Turn the other cheek
-Give them your cloak and coat
-Carry the enemies gear 2 miles
-Give generously without charging extra
-Practice radical generosity, and live by the law of love
-LJ Harry’s Blessed Are… Ch. 9
+Text…
+Luke 10:38-42
+…
+That’s all I have, thank you everybody– I know it’s early, but let’s be sure to have a Mary Christmas instead of a Martha Christmas this year.
 
 
 ---
@@ -2507,6 +2501,33 @@ Hophni and Phineas had a negligent father (Elijah).
 Joel and Abiah had a negligent father (Samuel).
 The prodigal son had an attentive father.
 We have an attentive father.
+
+
+---
+
+## An Eye for an Eye
+**Source:** Google Doc
+
+---
+
+An Eye for an Eye
+@ Event (##/##/##)~ X Minutes
+
+| Purpose | Method |
+|  |
+| Thesis Statement |
+|  |
+
+Intro…
+Matthew 5:38-42
+Exodus 21:22-26
+Romans 12:16-19
+Turn the other cheek
+Give them your cloak and coat
+Carry the enemies gear 2 miles
+Give generously without charging extra
+Practice radical generosity, and live by the law of love
+LJ Harry’s Blessed Are… Ch. 9
 
 
 ---
@@ -2989,7 +3010,8 @@ In Babylonian myths, Aku (named Sin [SEEN] or Nanna [NAHN-nah]) was the moon god
 Azariah ⇒ Abed-nego = "servant of Nebo"
 Nebo was the god of wisdom and son of Marduk.
 	Text…
-Ephesians 3:13-15
+[Gal 3:27 KJV] – 27 For as many of you as have been baptized into Christ have put on Christ.
+[Eph 3:13-15 KJV] – 13 Wherefore I desire that ye faint not at my tribulations for you, which is your glory. 14 For this cause I bow my knees unto the Father of our Lord Jesus Christ, 15 Of whom the whole family in heaven and earth is named,
 
 
 ---

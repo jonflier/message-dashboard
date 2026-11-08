@@ -1,5 +1,15 @@
 # Notion Export
 
+## Untitled Entry
+**Source:** Notion | **Date:** 2027-01-07
+
+---
+
+
+
+
+---
+
 ## United in Mission
 **Source:** Notion | **Date:** 2026-11-11
 
@@ -50,36 +60,6 @@
 
 ---
 
-## Untitled Entry
-**Source:** Notion | **Date:** 2026-12-31
-
----
-
-
-
-
----
-
-## Untitled Entry
-**Source:** Notion | **Date:** 2026-12-24
-
----
-
-
-
-
----
-
-## Untitled Entry
-**Source:** Notion | **Date:** 2026-12-17
-
----
-
-
-
-
----
-
 ## Be Mary (Merry Christmas)
 **Source:** Notion | **Date:** 2026-12-10
 
@@ -90,7 +70,7 @@
 
 ---
 
-## Untitled Entry
+## Born Again – Spirit
 **Source:** Notion | **Date:** 2026-12-03
 
 ---
@@ -100,38 +80,8 @@
 
 ---
 
-## Untitled Entry
-**Source:** Notion | **Date:** 2026-11-26
-
----
-
-
-
-
----
-
-## Untitled Entry
-**Source:** Notion | **Date:** 2026-11-19
-
----
-
-
-
-
----
-
-## Untitled Entry
+## Born Again – Water
 **Source:** Notion | **Date:** 2026-11-12
-
----
-
-
-
-
----
-
-## Untitled Entry
-**Source:** Notion | **Date:** 2026-11-05
 
 ---
 
@@ -160,7 +110,7 @@
 
 ---
 
-## An Eye for an Eye
+## Mary Christmas
 **Source:** Notion | **Date:** 2026-11-17
 
 ---

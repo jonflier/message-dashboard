@@ -1,6 +1,26 @@
 # Notion Export
 
 ## Untitled Entry
+**Source:** Notion | **Date:** 2026-12-16
+
+---
+
+
+
+
+---
+
+## Untitled Entry
+**Source:** Notion | **Date:** 2026-12-06
+
+---
+
+
+
+
+---
+
+## Chris’ Message?
 **Source:** Notion | **Date:** 2027-01-07
 
 ---
@@ -11,7 +31,7 @@
 ---
 
 ## United in Mission
-**Source:** Notion | **Date:** 2026-11-11
+**Source:** Notion | **Date:** 2026-11-15
 
 ---
 
@@ -60,7 +80,7 @@
 
 ---
 
-## Be Mary (Merry Christmas)
+## Born Again – Spirit
 **Source:** Notion | **Date:** 2026-12-10
 
 ---
@@ -70,18 +90,8 @@
 
 ---
 
-## Born Again – Spirit
-**Source:** Notion | **Date:** 2026-12-03
-
----
-
-
-
-
----
-
 ## Born Again – Water
-**Source:** Notion | **Date:** 2026-11-12
+**Source:** Notion | **Date:** 2026-12-03
 
 ---
 
@@ -110,7 +120,7 @@
 
 ---
 
-## Mary Christmas
+## Be Mary
 **Source:** Notion | **Date:** 2026-11-17
 
 ---

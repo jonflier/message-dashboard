@@ -1,5 +1,137 @@
 # Blogger Posts Export
 
+## Born Again – Water
+**Published:** 2026-11-12 | **[Read Online](https://jonathan-the-psalmist.blogspot.com/2026/11/born-again-water.html)**
+
+---
+
+Who remembers last week's discussion? ... Yes, we talked about Paul and his conversion on the "Demascus Road" after listening to Josiah Queen's latest album by the same name.
+
+Today, I want to talk about water...
+
+Reign it in a little guys– don't get too excited.
+
+I'm just kidding– I know how it sounds. I'm sure you're all already quite familiar with the compound of H2O, but hopefully after taking a look at a few Biblical accounts, you can see what water means to us as believers– specifically how these accounts relate to baptism.
+
+Before we do that, to make the way for next week's lesson where we will talk about being born of the Spirit, let us read John 3,
+
+[Jhn 3:1-3, 5 KJV] – 1 There was a man of the Pharisees, named Nicodemus, a ruler of the Jews: 2 The same came to Jesus by night, and said unto him, **Rabbi, we know that thou art a teacher come from God: for no man can do these miracles that thou doest, except God be with him.** 3 Jesus answered and said unto him, **Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God.** ... 5 Jesus answered, **Verily, verily, I say unto thee, Except a man be born of water and [of] the Spirit, he cannot enter into the kingdom of God.**
+
+[Jhn 3:1-3, 5 KJV] – 1 There was a man of the Pharisees, named Nicodemus, a ruler of the Jews: 2 The same came to Jesus by night, and said unto him, **Rabbi, we know that thou art a teacher come from God: for no man can do these miracles that thou doest, except God be with him.** 3 Jesus answered and said unto him, **Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God.** ... 5 Jesus answered, **Verily, verily, I say unto thee, Except a man be born of water and [of] the Spirit, he cannot enter into the kingdom of God.**
+
+We must be born of both water and Spirit before we can see the Kingdom of Heaven.
+
+Let's unravel this a little more by first taking a look at a man named Noah.
+
+Noah's Ark (Genesis 6-9 & 1 Peter 3:20-21)
+
+We can read about Noah's life in Genesis 6-9. In Genesis 6:5-7, we read,
+
+[Gen 6:5-7 KJV] – 5 And GOD saw that the wickedness of man [was] great in the earth, and [that] every imagination of the thoughts of his heart [was] only evil continually. 6 And it repented the LORD that he had made man on the earth, and it grieved him at his heart. 7 And the LORD said, I will destroy man whom I have created from the face of the earth; both man, and beast, and the creeping thing, and the fowls of the air; for it repenteth me that I have made them.
+
+[Gen 6:5-7 KJV] – 5 And GOD saw that the wickedness of man [was] great in the earth, and [that] every imagination of the thoughts of his heart [was] only evil continually. 6 And it repented the LORD that he had made man on the earth, and it grieved him at his heart. 7 And the LORD said, I will destroy man whom I have created from the face of the earth; both man, and beast, and the creeping thing, and the fowls of the air; for it repenteth me that I have made them.
+
+The world, mankind, had become so wicked that the LORD begun to regret ever creating man. That's really bad– as bad as the world is right now, I can't imagine it being quite as drastic as in the days of Noah.
+
+The next verse tells us,
+
+[Gen 6:8 KJV] – 8 But Noah found grace in the eyes of the LORD.
+
+[Gen 6:8 KJV] – 8 But Noah found grace in the eyes of the LORD.
+
+One man's character and one man's lifestyle changed the course of life as we know it. When God would much prefer to wipe out mankind, because of Noah, He takes a different course of action.
+
+*** **Disclaimer** : I'm not saying Noah had any power over God and *that's* why the LORD changed His mind, nor am I saying that Noah changed the Will of God. I believe, that all along, God had this plan to preserve mankind but because of Noah and the qualities we've already discussed, God's plan was able to be set into motion. Remember that God is all knowing– omniscient– He knew Adam and Eve were going to sin from the very beginning when He created them, but He had a plan for salvation already set in place. Noah and all species, both mankind and beast alike, were in the same boat (pun intended)– God was not going to let His people go extinct, He had a plan of salvation for them.
+
+That plan of salvation was a boat– a really big boat. The following information was taken from Ark Encounter's website:
+
+Ark Encounter features a full-size Noah’s Ark, built according to the dimensions given in the Bible. Genesis 6 states that the biblical ark was 300 cubits long, 50 cubits wide, and 30 cubits high. Assuming this was a royal cubit (as was typical for large projects in the ancient world), this converts to approximately 510 feet long, 85 feet wide, and 51 feet high.
+
+Ark Encounter features a full-size Noah’s Ark, built according to the dimensions given in the Bible. Genesis 6 states that the biblical ark was 300 cubits long, 50 cubits wide, and 30 cubits high. Assuming this was a royal cubit (as was typical for large projects in the ancient world), this converts to approximately 510 feet long, 85 feet wide, and 51 feet high.
+
+So, Noah spends decades building the ark (Ark Ecounters suggests 75 years maximum), and also scrounges up two of every animal, except when to get seven pairs of clean animals (the same website suggests that there were 1,398 kinds of animal, which produces the figure 6,744 animals total). After all of that, a flood occurs.
+
+When the flood subsides, Noah, his wife, his three sons, and all of their wives walk onto dry land safe and sound. Fast forwarding to the New Testament, 1 Peter 3:20-21 says,
+
+[1Pe 3:20-21 KJV] – 20 Which sometime were disobedient, when once the longsuffering of God waited **in the days of Noah, while the ark was a preparing, wherein few, that is, eight souls were saved by water. 21 The like figure whereunto [even] baptism doth also now save us (not the putting away of the filth of the flesh, but the answer of a good conscience toward God,) by the resurrection of Jesus Christ:**
+
+[1Pe 3:20-21 KJV] – 20 Which sometime were disobedient, when once the longsuffering of God waited **in the days of Noah, while the ark was a preparing, wherein few, that is, eight souls were saved by water. 21 The like figure whereunto [even] baptism doth also now save us (not the putting away of the filth of the flesh, but the answer of a good conscience toward God,) by the resurrection of Jesus Christ:**
+
+I had trouble wrapping my mind around this– how could the water have saved the eight people? Was it not the boat? The way I reconile this in my mind is that it was the water that kept the boat afloat, thereby saving Noah and his family. Peter tells us the same is true of baptism. When we are washed clean through baptism, just as the world was washed clean, we become *tabula rasa* , that is to say, a "blank slate." We are able to start life anew thanks to the power of Christ and because He conquered death, hell, and the grave so that sin would no longer keep us in bonds.
+
+The Red Sea Crossing (Exodus 14 & 1 Corinthians 10:1-2)
+
+Our next biblical account I want to talk about takes place during the life of Moses.
+
+The crossing over the Red Sea can be read about in Exodus 14. It is here we read that Moses and the children of Israel are fleeing from their former lives as slaves of Egypt, when they come across this body of water known as the Red Sea. With seemingly no where to go, the Israelites grow weary, expecting to die in this place, but God made a way. The LORD, through Moses, seperates the Red Sea, allowing the Israelites safe passage through this body of water. Conversely, when the Egyptians tried to cross through the same way, the water folded back in on itself and crushed them.
+
+I will now turn our attention to 1 Corinthians 10:1-2 which says,
+
+[1Co 10:1-2 KJV] – 1 Moreover, brethren, I would not that ye should be ignorant, how that all our fathers were under the cloud, and all passed through the sea; 2 And were all baptized unto Moses in the cloud and in the sea;
+
+[1Co 10:1-2 KJV] – 1 Moreover, brethren, I would not that ye should be ignorant, how that all our fathers were under the cloud, and all passed through the sea; 2 And were all baptized unto Moses in the cloud and in the sea;
+
+The water seperated the Egyptians (which was a type for the world) from the Israelites (who were God's chosen people). When we are baptized, we see a seperation take place. The old things are passed away– our old selves are buried when we make the decision to be buried with Christ. We've talked about the metaphor of guardrails, or electric fences, being put in place to ensure we continue walking on the strait and narrow path that God intended for us. The Bible tells us there will be few who find the strait and narrow path, so once we're on it, stick to it and walk in the steps that have been ordered by God. This path seperates us from that which aligns with the world's ideologies. When we stick close to God, we find ourselves living the life that He demonstrated as Christ Jesus.
+
+Naaman's Washing (2 Kings 5:10-14)
+
+Lastly, let's look at a man named Naaman. 2 Kings 5:1 tells us,
+
+[2Ki 5:1 KJV] – 1 Now Naaman, captain of the host of the king of Syria, was a great man with his master, and honourable, because by him the LORD had given deliverance unto Syria: he was also a mighty man in valour, [but he was] a leper.
+
+[2Ki 5:1 KJV] – 1 Now Naaman, captain of the host of the king of Syria, was a great man with his master, and honourable, because by him the LORD had given deliverance unto Syria: he was also a mighty man in valour, [but he was] a leper.
+
+Word gets around and Naaman communicates with the prophet Elisha regarding how he might be cleansed of his leprosy. Elisha tells him he must wash himself 7 times in the Jordan river.
+
+At first, Namaan is frustrated– it seems he must have wanted a quickfix to his leprosy problem. However, thanks to some convincing from his servants, he obeys the Word of the LORD and washes himself 7 times in the Jordan. I want to make note that the word baptism in the Greek, *baptizō* (bap-tid'-zo), means to *fully submerge* . I would imagine in this instance, when Namaan is washing himself in the Jordan River, he is fully submerging himself within it.
+
+Just like Naaman coming out of the water clean, we too come out of the water of baptism purified from our sins and unrighteousness. Even if we have comitted "very few sins" or imagine ourselves as "good people," we have a sinful nature by birth, and baptism is step in the right direction to choosing the Will of God over the will of our flesh.
+
+***
+
+I now want to take everything we have discussed and transition into our small groups so we can further understand the topic at hand.
+
+Questions
+
+What have we talked about tonight that has aided in your understanding that baptism is essential in order to be saved?
+
+How does baptism seperate us from the world?
+
+In what ways are we purifed after being baptized?
+
+References
+
+References
+
+[Gen 5:32 KJV] – 32 And Noah was five hundred years old: and Noah begat Shem, Ham, and Japheth. [Gen 7:6 KJV] – 6 And Noah [was] six hundred years old when the flood of waters was upon the earth. [2Ki 5:10-14 KJV] – 10 And Elisha sent a messenger unto him, saying, Go and wash in Jordan seven times, and thy flesh shall come again to thee, and thou shalt be clean. 11 But Naaman was wroth, and went away, and said, Behold, I thought, He will surely come out to me, and stand, and call on the name of the LORD his God, and strike his hand over the place, and recover the leper. 12 [Are] not Abana and Pharpar, rivers of Damascus, better than all the waters of Israel? may I not wash in them, and be clean? So he turned and went away in a rage. 13 And his servants came near, and spake unto him, and said, My father, [if] the prophet had bid thee [do some] great thing, wouldest thou not have done [it]? how much rather then, when he saith to thee, Wash, and be clean? 14 Then went he down, and dipped himself seven times in Jordan, according to the saying of the man of God: and his flesh came again like unto the flesh of a little child, and he was clean. Resources *Why? Volume I: Salvation* by Tyler Green https://arkencounter.com/about/ https://arkencounter.com/blog/2023/11/02/how-long-did-it-take-to-build-ark/ https://arkencounter.com/blog/2023/05/18/how-many-animals-did-noah-bring/
+
+[Gen 5:32 KJV] – 32 And Noah was five hundred years old: and Noah begat Shem, Ham, and Japheth.
+
+[Gen 5:32 KJV] – 32 And Noah was five hundred years old: and Noah begat Shem, Ham, and Japheth.
+
+[Gen 7:6 KJV] – 6 And Noah [was] six hundred years old when the flood of waters was upon the earth.
+
+[Gen 7:6 KJV] – 6 And Noah [was] six hundred years old when the flood of waters was upon the earth.
+
+[2Ki 5:10-14 KJV] – 10 And Elisha sent a messenger unto him, saying, Go and wash in Jordan seven times, and thy flesh shall come again to thee, and thou shalt be clean. 11 But Naaman was wroth, and went away, and said, Behold, I thought, He will surely come out to me, and stand, and call on the name of the LORD his God, and strike his hand over the place, and recover the leper. 12 [Are] not Abana and Pharpar, rivers of Damascus, better than all the waters of Israel? may I not wash in them, and be clean? So he turned and went away in a rage. 13 And his servants came near, and spake unto him, and said, My father, [if] the prophet had bid thee [do some] great thing, wouldest thou not have done [it]? how much rather then, when he saith to thee, Wash, and be clean? 14 Then went he down, and dipped himself seven times in Jordan, according to the saying of the man of God: and his flesh came again like unto the flesh of a little child, and he was clean.
+
+[2Ki 5:10-14 KJV] – 10 And Elisha sent a messenger unto him, saying, Go and wash in Jordan seven times, and thy flesh shall come again to thee, and thou shalt be clean. 11 But Naaman was wroth, and went away, and said, Behold, I thought, He will surely come out to me, and stand, and call on the name of the LORD his God, and strike his hand over the place, and recover the leper. 12 [Are] not Abana and Pharpar, rivers of Damascus, better than all the waters of Israel? may I not wash in them, and be clean? So he turned and went away in a rage. 13 And his servants came near, and spake unto him, and said, My father, [if] the prophet had bid thee [do some] great thing, wouldest thou not have done [it]? how much rather then, when he saith to thee, Wash, and be clean? 14 Then went he down, and dipped himself seven times in Jordan, according to the saying of the man of God: and his flesh came again like unto the flesh of a little child, and he was clean.
+
+Resources
+
+*Why? Volume I: Salvation* by Tyler Green https://arkencounter.com/about/ https://arkencounter.com/blog/2023/11/02/how-long-did-it-take-to-build-ark/ https://arkencounter.com/blog/2023/05/18/how-many-animals-did-noah-bring/
+
+*Why? Volume I: Salvation* by Tyler Green
+
+https://arkencounter.com/about/
+
+https://arkencounter.com/blog/2023/11/02/how-long-did-it-take-to-build-ark/
+
+https://arkencounter.com/blog/2023/05/18/how-many-animals-did-noah-bring/
+
+
+---
+
 ## Damascus Road
 **Published:** 2026-10-29 | **[Read Online](https://jonathan-the-psalmist.blogspot.com/2026/10/damascus-road.html)**
 

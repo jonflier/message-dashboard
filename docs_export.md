@@ -10,7 +10,7 @@ Natural Born Follower
 
 | Purpose | Method |
 | Edification | Topical |
-| Thesis Statement |
+| Sticky Statement |
 | To lead like Christ, we must first learn to follow Him. |
 
 Now, to start off, by a show of hands who has heard the term “natural born leader?”
@@ -51,7 +51,7 @@ God’s Will For Your Life
 
 | Purpose | Method |
 | Edification | Topical |
-| Thesis Statement |
+| Sticky Statement |
 | Trust God's plan, seek His guidance, and obey Him step by step. |
 
 Genesis
@@ -121,7 +121,7 @@ Back to School
 
 | Purpose | Method |
 | Edification | Topical |
-| Thesis Statement |
+| Sticky Statement |
 | Followers of Christ must reject false idols, flee from sin, and live wholly for God. |
 
 Introduction
@@ -159,7 +159,7 @@ The Race to Heaven
 
 | Purpose | Method |
 | Edification | Topical |
-| Thesis Statement |
+| Sticky Statement |
 | The Christian life is a race that requires perseverance, holiness, and unity, and those who faithfully stay on God's path and finish the race will receive the reward of eternal life. |
 
 Introduction
@@ -209,7 +209,7 @@ We Are the Artwork of God
 
 | Purpose | Method |
 | Edification | Topical |
-| Thesis Statement |
+| Sticky Statement |
 | God refines us through every struggle to reveal who we are truly meant to be. |
 
 Introduction
@@ -242,7 +242,7 @@ A Roaring Lion
 
 | Purpose | Method |
 | Edification | Topical |
-| Thesis Statement |
+| Sticky Statement |
 | Believers overcome spiritual attacks by equipping the armor of God, setting godly boundaries, fleeing temptation, and steadfastly following Christ. |
 
 Firstly, I want to thank Tyler and Sova for this opportunity to speak to all of you on what I believe the LORD has put on my heart.
@@ -304,7 +304,7 @@ Pillows to Pillars
 
 | Purpose | Method |
 | Edification | Expository |
-| Thesis Statement |
+| Sticky Statement |
 | Wake up, move past complacency, and turn your comforts into altar stones of worship. |
 
 I want to start off by stating a simple fact: how many know that the average person sleeps eight hours a day?
@@ -353,7 +353,7 @@ The Strait and Narrow
 
 | Purpose | Method |
 | Edification | Expository |
-| Thesis Statement |
+| Sticky Statement |
 | The narrow way is hard, but faithful endurance brings eternal life. |
 
 Before we begin, let’s take a moment for prayer and ask that God will reveal all that He wants to reveal to us.
@@ -434,7 +434,7 @@ Praise No Matter the Season
 
 | Purpose | Method |
 | Edification | Topical |
-| Thesis Statement |
+| Sticky Statement |
 | True worship is rooted in who God is, not our changing circumstances. |
 
 I would like to give honor to Pastor and Sister Fayth, as well as the entire church leadership. I am very thankful for this church and for the opportunity to come together on this United Sunday and see what God has been doing in every department. Can I simply begin by saying that God is good and worthy to be praised (Psalm 18:3)?
@@ -464,7 +464,7 @@ Never Forget
 
 | Purpose | Method |
 | Edification | Topical |
-| Thesis Statement |
+| Sticky Statement |
 | Never forget who God is, what He has done, and the mission He has given us. |
 
 Allow me to begin by honoring Tyler and Sova, as well as Brodey and Alexis, for all they do. Being on the youth committee alongside these guys has shown me how much thought and energy they put into everything. I know they all fill many roles in their everyday lives, but I’m thankful that one of those roles is right here, helping each of us to grow, myself included, by not only teaching the difference between right and wrong, but also making sure the decisions we choose in life are the right ones.
@@ -515,7 +515,7 @@ The Artwork of God
 
 | Purpose | Method |
 | Edification | Topical |
-| Thesis Statement |
+| Sticky Statement |
 | Created in God's image and restored by salvation, we preserve His masterpiece through a life of holy sanctification. |
 
 Good morning, everybody! I’m so thankful for this opportunity to speak to you all on this Sunday morning. I give honor to Tyler, Sova, Brodey, and Alexis for allowing me to teach in this setting. The lesson I have prepared has been in the making for a month or two, as I have mulled over thoughts and put them into words. For those who have heard me speak in class at CR on Thursday nights, you will recognize several elements from previous discussions.
@@ -568,7 +568,7 @@ The Uniting of Brothers
 
 | Purpose | Method |
 | Edification | Topical |
-| Thesis Statement |
+| Sticky Statement |
 | Though created unique, we are called to unity—setting aside differences to actively love and connect with others. |
 
 
@@ -608,7 +608,7 @@ There are Methods to a Miracle
 
 | Purpose | Method |
 | Edification | Topical |
-| Thesis Statement |
+| Sticky Statement |
 | God’s miracles often require unexpected steps that demand our trust and require obedience through the journey. |
 
 I want to start by saying thank you to Tyler and Sova, and Brodey and Alexis, for their leadership and passion for the things of God. I am also thankful for the Student Leadership Team for helping us make the Friday night youth rally special. By a show of hands, how many had a great time?
@@ -653,7 +653,7 @@ Grateful Despite the Storms
 
 | Purpose | Method |
 | Edification | Topical |
-| Thesis Statement |
+| Sticky Statement |
 | God’s love is constant in every season—our gratitude should be too. |
 
 Let’s go ahead and start with a time of prayer.
@@ -691,7 +691,7 @@ The Love of Christ
 
 | Purpose | Method |
 | Edification | Topical |
-| Thesis Statement |
+| Sticky Statement |
 | Jesus’ sacrifice draws all people to Him, calling believers to love and draw others closer as well. |
 
 Hello everyone! I hope you all enjoyed your first week of classes and have started to get into the swing of things now that syllabi are out of the way.
@@ -723,7 +723,7 @@ Love
 
 | Purpose | Method |
 | Edification | Topical |
-| Thesis Statement |
+| Sticky Statement |
 | God first loved us unconditionally, calling us to love Him fully and extend that same love to others. |
 
 Good morning, everybody! Just a few more weeks and we’ll have endured the first one-sixth of 2026. As of right now, we are roughly 11% of the way through the year– Christmas is in 326 days, how many are looking forward to that? I know I am.
@@ -782,7 +782,7 @@ A Voice in the Wilderness
 
 | Purpose | Method |
 | Evangelism | Topical |
-| Thesis Statement |
+| Sticky Statement |
 | Jesus satisfies our deepest thirst—when filled by His Spirit, we become voices calling others to Him. |
 
 This evening, I want to read from the Gospel of John. We’ll be in chapter one, starting at verse 6. As you’re turning there, I just started a reading plan which has me reading one to two chapters from the book of John each day. What I am going to discuss came from both today and yesterday’s devotion. Once we’re all there, chapter one and verse six, I’ll start. Scripture says:
@@ -811,7 +811,7 @@ Keep On Fishin’
 
 | Purpose | Method |
 | Equipping | Expository |
-| Thesis Statement |
+| Sticky Statement |
 | Leaving behind comfort and trusting Christ's power, we must actively share the Gospel so others can know Him. |
 
 Good evening, everybody! I am grateful for the opportunity to speak in front of all of you. I understand that there are so many ways you all could be spending your time, so it means a lot that you chose to spend it in the House of God on a Wednesday night when, for most– if not all– of you, it’s summer break.
@@ -858,7 +858,7 @@ Explain that Christianity trumps eastern religions believing in the natural law 
 
 | Purpose | Method |
 | Evangelism | Topical |
-| Thesis Statement |
+| Sticky Statement |
 | Because the LORD is the one true God, we must reject every competing idol and serve Him alone. |
 
 Thank you, praise team.
@@ -944,7 +944,7 @@ Who is God?
 
 | Purpose | Method |
 | Edification + Evangelism | Topical |
-| Thesis Statement |
+| Sticky Statement |
 | Exploring Jehovah’s Old Testament names unveils His true nature, empowering us to boldly proclaim who He is.  Knowing Jehovah’s Old Testament names reveals His true nature and empowers us to boldly proclaim Jesus as our all-sufficient Savior. |
 
 Table of Contents
@@ -1184,7 +1184,7 @@ Who is God?
 
 | Purpose | Method |
 | Edification + Evangelism | Topical |
-| Thesis Statement |
+| Sticky Statement |
 | Exploring Jehovah’s Old Testament names unveils His true nature, empowering us to boldly proclaim who He is.  Knowing Jehovah’s Old Testament names reveals His true nature and empowers us to boldly proclaim Jesus as our all-sufficient Savior. |
 
 Table of Contents
@@ -1424,7 +1424,7 @@ God is Good
 
 | Purpose | Method |
 | Edification | Topical |
-| Thesis Statement |
+| Sticky Statement |
 | Even when God is silent, He is never absent. |
 
 I’m thankful for the opportunity I have to stand before you all and deliver the Word of God. I’m thankful for Brodey and Alexis and their dedication to the things of God. I know they invest a lot of time and energy into everything they do, and that much of it goes unseen, so if we could just let them know we’re thankful for them and their leadership.
@@ -1494,7 +1494,7 @@ Don’t Worry
 
 | Purpose | Method |
 | Edification | Topical |
-| Thesis Statement |
+| Sticky Statement |
 | Because God has proven Himself faithful to meet our physical and spiritual needs, we do not need to be consumed by worry or anxiety. |
 
 Before we get started with a word of prayer– are there any prayer requests?
@@ -1543,7 +1543,7 @@ God of the Hills and Valleys
 
 | Purpose | Method |
 | Evangelical | Topical |
-| Thesis Statement |
+| Sticky Statement |
 | God’s power is not based on our season of life; He is seated on the throne whether we find ourselves in a mountain or valley season. |
 
 I’m thankful for the opportunity that I have to speak with you all this evening about what the LORD has laid on my heart. I’m also thankful for each and everyone of you, that you chose to spend your Wednesday night in the House of the LORD, I can promise you that there is no better way to spend it.
@@ -1600,7 +1600,7 @@ Who Are the Blessed?
 
 | Purpose | Method |
 | Equipping | Topical |
-| Thesis Statement |
+| Sticky Statement |
 | Christ didn’t simply preach the Beatitudes– He modeled them every single day, calling each of us to follow in His footsteps. |
 
 Who Are the Blessed? [Part 1]	1
@@ -1844,7 +1844,7 @@ Who Are the Blessed?
 
 | Purpose | Method |
 | Equipping | Topical |
-| Thesis Statement |
+| Sticky Statement |
 | Christ didn’t simply preach the Beatitudes– He modeled them every single day, calling each of us to follow in His footsteps. |
 
 Who Are the Blessed? [Part 1]	1
@@ -2088,8 +2088,8 @@ Who Are the Woeful?
 ~ 10 Minutes
 
 | Purpose | Method |
-|  |
-| Thesis Statement |
+| Equipping | Expository |
+| Sticky Statement |
 | Christ teaches us how to be blessed, but He also warns us on how to avoid being woeful. |
 
 Before we get started, let us pray…
@@ -2172,7 +2172,7 @@ Our Strong Tower
 
 | Purpose | Method |
 | Equipping | Topical |
-| Thesis Statement |
+| Sticky Statement |
 | When you feel overwhelmed, run to the strong tower, not the temporary fixes. |
 
 Welcome/Ice Breaker (two truths and a lie): 19:00 (Jon)Game (Name That Slogan!): 19:05–19:20 (Jon)Announcements: 19:20–19:25 (Alexis)Song 1: 19:25–19:30Fiery Five: 19:30–19:35 (Chris)Song 2: 19:35–19:40Song 3: 19:40–19:45Preaching: 19:45–19:55 (Jon)Altar Call: 19:55–20:10Dismissal: 20:10ish
@@ -2244,16 +2244,16 @@ https://www.knowing-jesus.com/places/Ono
 ---
 
 ## United in the Mission
-**Source:** Google Doc | **Date:** 11/08/26
+**Source:** Google Doc | **Date:** 11/15/26
 
 ---
 
 United in the Mission
-@ Sunday Morning Youth Class 11/8/26~ X Minutes
+@ Sunday Morning Youth Class 11/15/26~ X Minutes
 
 | Purpose | Method |
-|  |
-| Thesis Statement |
+| Edification | Topical |
+| Sticky Statement |
 | The UPCI merger is a great example of how we as Christians should live our lives. It exemplifies the verses found in Ephesians 4 and its teaching that we should maintain the unity of the spirit, even before maintaining the unity of the faith. |
 
 Getting into the lesson this morning, I’ll admit that this is a little different than what you’ve heard me teach or preach before. I have found myself growing very fond of this style of teaching I have used in recent lessons. I like going out and finding resources that I can pair alongside Scripture to cover different topics.
@@ -2281,9 +2281,9 @@ Within the fundamental doctrine of the UPCI’s Articles of Faith, it reads, “
 This is a teaching that comes from Paul in Ephesians 4,
 [Eph 4:1-3, 11-13 KJV] – 1 I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called, 2 With all lowliness and meekness, with longsuffering, forbearing one another in love; 3 Endeavouring to keep the unity of the Spirit in the bond of peace. ... 11 And he {he being Jesus Christ} gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers; 12 For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ: 13 Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ:
 The UPCI merger is a great example of how we as Christians should live our lives. It exemplifies the verses we just read in Ephesians that we should maintain the unity of the spirit, even before maintaining the unity of the faith. These two organizations could have let the small things get in the way and never merged, and in turn, limiting themselves and their capacity to do the work of God.
-We can understand the importance of unity by gleaning what we read from Scripture. On the Day of Pentecost, they were all gathered with one mind and in one place, praying that God would move. They didn’t force God to move by any means, but as a result of what they were doing, He poured out His Spirit on them.
-*** If you would stand. ***
-What would happen if all of us, here this morning, would do the same thing as the ones on the Day of Pentecost? What if we got real with God after getting real with our brothers and sisters in Christ? What would happen if we let go of the small things, if we kept the main thing the main thing. The main thing is Christ and we can’t let anything come in between us or Him, especially not disagreements between our fellow man. Let us keep the unity of the Spirit even if we may not be in unity within our faith or within our beliefs.
+We can understand the importance of unity by gleaning what we read from Scripture. On the Day of Pentecost, they were all gathered with one mind and in one place, praying that God would move. They didn’t force God to move by any means– His plan was always to pour out His Spirit– but because they were obedient and faithful in what Jesus instructed them to do, they found themselves in the Will of God. The Will of God is an amazing place to be, but it can only be obtained when we are in the right standing with God. How do we get in the right standing with God? It’s simple: love God. Love Him by obeying His Word. Love God by loving your neighbor– furthermore love your neighbor as if you were on the other end of that love. Love the LORD by being in relationship with Him– talk with Him and listen to His voice in Bible reading and prayer.
+*** If we could stand. ***
+What would happen if all of us, here this morning, would do the same thing as those on the Day of Pentecost? What if we got real with God after getting real with our brothers and sisters in Christ? What would happen if we let go of the small things, if we kept the main thing the main thing. The main thing is Christ and we can’t let anything come in between us or Him, especially not disagreements between our fellow man. Let us keep the unity of the Spirit even if we may not be in unity within our beliefs.
 As we close, let’s pray for these next few moments and ask God, like King David did, to search our hearts. Ask Him to remove what does not belong there and reveal to us the steps we must take to be in the right standing with Him and with those around us. Let us find a place to pray…
 Resources
 “2023 UPCI ARTICLES OF FAITH.” 
@@ -2299,24 +2299,60 @@ https://www.youtube.com/watch?v=LSNAqy5UAVM.
 
 ---
 
-## Have a Mary Christmas
+## Be Mary
 **Source:** Google Doc | **Date:** 11/17/26
 
 ---
 
-Have a Mary Christmas
+Be Mary
 @ CMI (11/17/26)
 ~ X Minutes
 
 | Purpose | Method |
+| Equipping | Edification |
+| Sticky Statement |
+| It can be easy in life to have an attitude like Martha– to find fulfillment in service– but it is Mary who chose the good portion– to position herself at the feet of Jesus, prizing Him above all else. |
+
+Before we get started, I want us all to go around and say something that we’re thankful for seeing as this is our last CMI before Thanksgiving.
+…
+Now, before we get into the lesson, let’s go before the LORD in prayer…
+I would like to read from Luke 10:38-42, while you are turning there this evening, I want to talk to you all about something that I struggle with. I want to talk about an attitude I struggle to uphold. Throughout this lesson, I don’t want it to come off as if I am instructing all of you on how to better carry this attitude when, in reality, I am speaking to myself as well– instructing all of us on how we can better serve God by carrying this attitude.
+I’ll go ahead and read these verses, starting with Luke 10:38,
+[Luk 10:38-42 ESV] – 38 Now as they went on their way, Jesus entered a village. And a woman named Martha welcomed him into her house. 39 And she had a sister called Mary, who sat at the Lord's feet and listened to his teaching. 40 But Martha was distracted with much serving. And she went up to him and said, "Lord, do you not care that my sister has left me to serve alone? Tell her then to help me." 41 But the Lord answered her, "Martha, Martha, you are anxious and troubled about many things, 42 but one thing is necessary. Mary has chosen the good portion, which will not be taken away from her."
+As we approach the upcoming holidays, I want to speak about being Mary– for clarity, that’s not M-E-R-R-Y, but instead M-A-R-Y. You see Mary and Martha were about as different as a type A and B person. If you’re unfamiliar,
+
+| Characteristic | Type A Personality |
+| Pace & Urgency | Highly competitive, driven, impatient, and rushed. |
+| Stress Response | High stress reactivity; easily frustrated by delays or obstacles. |
+| Approach to Work | Multitasking-oriented, work-obsessed, highly focused on achievement and status. |
+| Social Style | Direct, assertive, sometimes aggressive or easily provoked in conflicts. |
+Personally, in my work and school life I feel like I am type A– I have my to-do list and I just want to get it all done as soon as possible. In my personal life however, I’m quite type B. If you see a silver Nissan Versa going 50 in a 55, feel free to wave as you pass me by.
+In middle school I earned the name Grandpa Jon after being late to math classes every single day of the year. My thought process: I’ll get there when I get there. The tortoise did beat the hare afterall– at least that’s what everyone has been telling me.
+In my spiritual life, I find myself leaning into my type A nature more than not. I’ll be praying and find myself thinking about something else that needs done– a school assignment, an upcoming lesson for youth class, a list of “quests” I have made for myself when I have the time. Basically, when I should be talking with God– kneeling at the feet of Jesus like Mary was, I am instead finding myself acting like a Martha.
+Notice in the passage we read, Martha asks Jesus, “Lord, do you not care that my sister has left me to serve alone? Tell her then to help me” (Luke 10:40). Martha’s frustrated, she’s wishing she could get some help while her sister seemingly is just sitting there doing nothing. We can all get like this, especially around the holidays. There’s so much to do, we may have to prepare the food or clean up around the house. If you’re one of those people who go on trips around the holidays or are commuting home during the break in the school year, you have to pack your whole life into your car right after taking a handful of final exams.
+This season can be a lot, but notice what Jesus says in response to Martha’s question, He says, “Martha, Martha, you are anxious and troubled about many things, but one thing is necessary. Mary has chosen the good portion, which will not be taken away from her” (Luke 10:41-42).
+I’ll leave you with this, while it can be easy in life to have an attitude like Martha– to find fulfillment in service– it is Mary who chose the good portion– to position herself at the feet of Jesus, prizing Him above all else.
+Let us end in prayer…
+Does anybody have anything they would like to add?
+Well, Mary Christmas everybody, and a happy Thanksgiving to you all as well.
+
+
+---
+
+## 12.16.26
+**Source:** Google Doc | **Date:** 12/16/26
+
+---
+
+Title
+@ Wednesday Night Service (12/16/26)~ X Minutes
+
+| Purpose | Method |
 |  |
-| Thesis Statement |
+| Sticky Statement |
 |  |
 
-Text…
-Luke 10:38-42
-…
-That’s all I have, thank you everybody– I know it’s early, but let’s be sure to have a Mary Christmas instead of a Martha Christmas this year.
+Intro…
 
 
 ---
